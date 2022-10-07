@@ -11,7 +11,7 @@ header:
 ---
 
 On this page, we record frequently asked questions that come up when characterising papers with our taxonomy.
-If you have a question that is not on this page, please reach out to us on twitter.
+If you have a question that is not on this page, please reach out to us (you can email us at <a href="mailto:genbench@googlegroups.com">genbench@googlegroups.com</a>).
 
 ## Questions about the motivation
 
