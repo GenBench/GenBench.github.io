@@ -13,7 +13,7 @@ We welcome contributions to our evolving review in two forms: submissions of new
 
 You can submit new papers and propose corrections via the [contribution form](https://forms.gle/aXryWgcWmNgAabLQ6). 
 In this form, we will ask you to label the paper along five axes: the motivation of the paper, the type of generalisation it addresses, the shift type used for evaluation, the source of the shift, and its locus (its position in the modelling pipeline. 
-Please refer to the [taxonomy paper](../taxonomy_paper.pdf) for an explanation of each axis and many examples.
+Please refer to the [taxonomy paper](https://arxiv.org/abs/2210.03050) for an explanation of each axis and many examples.
 To make the annotation easier, we also provide an [FAQ](https://genbench.github.io/contribute/FAQ) page and a set of simple guidelines, in the form of the annotation diagram below. 
 It is possible for a paper to have multiple experiments with different axis values: in that case, you will have to walk through the diagram multiple times. 
 Bear in mind that the diagram is a simplified version of the full taxonomy and, when in doubt, consult the taxonomy paper.
