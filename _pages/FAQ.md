@@ -80,4 +80,5 @@ _The tasks that generalisation studies are considering are an interesting piece 
 _No, you can add all the tasks in the form, you do not need to submit multiple forms._
 
 **I am excited about the GenBench mission! Any way I can help?**
-Please reach out to us at <a href="mailto:genbench@googlegroups.com!">genbench@googlegroups.com</a>.
+
+_Please reach out to us at <a href="mailto:genbench@googlegroups.com!">genbench@googlegroups.com</a>._
