@@ -60,7 +60,7 @@ feature_row_team:
     alt: "Tiago Pimentel"
     title: "Tiago Pimentel"
     class: img-thumbnail rounded-circle
-  - image_path: img/team/default.png
+  - image_path: img/team/NaomiSaphra.png
     alt: "Naomi Saphra"
     title: "Naomi Saphra"
     class: img-thumbnail rounded-circle
@@ -76,7 +76,7 @@ feature_row_team:
     alt: "Koustuv Sinha"
     title: "Koustuv Sinha"
     class: img-thumbnail rounded-circle
-  - image_path: img/team/default.png
+  - image_path: img/team/KaiserSun.jpg
     alt: "Kaiser Sun"
     title: "Kaiser Sun"
     class: img-thumbnail rounded-circle
@@ -92,7 +92,7 @@ feature_row_team:
     alt: "Maria Ryskina"
     title: "Maria Ryskina"
     class: img-thumbnail rounded-circle
-  - image_path: img/team/default.png
+  - image_path: img/team/EceTakmaz.png
     alt: "Ece Takmaz"
     title: "Ece Takmaz"
     class: img-thumbnail rounded-circle
