@@ -62,4 +62,4 @@ Given the three broad stages in the contemporary modelling pipeline -- pretraini
 
 We would love to hear what you think about the taxonomy and include more papers in our review.
 Did you also work on generalisation, and would you like to have your work included in our review and generalisation database?
-Check instructions on the [contributions](/contributions) page.
+Check instructions on the [contributions](/contribute) page.
