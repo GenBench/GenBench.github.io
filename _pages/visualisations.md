@@ -31,7 +31,7 @@ If you hover over the graphs, you can click on the 📸 (camera) or 💾 (save) 
 ```
 @article{hupkes2022taxonomy,
   title={State-of-the-art generalisation research in NLP: a taxonomy and review},
-  author={Hupkes, Dieuwke, and Giulianelli, Mario and Dankers, Verna and Artetxe, Mikel and Pimentel, Tiago et al.},
+  author={Hupkes, Dieuwke, and Giulianelli, Mario and Dankers, Verna and Artetxe, Mikel et al.},
   year={2022},
   url={https://arxiv.org/abs/2210.03050},
 }
