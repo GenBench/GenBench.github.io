@@ -30,10 +30,12 @@ If you hover over the graphs, you can click on the 📸 (camera) or 💾 (save) 
 
 ```
 @article{hupkes2022taxonomy,
-  title={State-of-the-art generalisation research in NLP: a taxonomy and review},
-  author={Hupkes, Dieuwke, and Giulianelli, Mario and Dankers, Verna and Artetxe, Mikel et al.},
-  year={2022},
-  url={https://arxiv.org/abs/2210.03050},
+  title = {State-of-the-art generalisation research in {NLP}: a taxonomy and review},
+  author = {Dieuwke Hupkes and Mario Giulianelli and Verna Dankers and Mikel Artetxe and Yanai Elazar and Tiago Pimentel and Christos Christodoulopoulos and Karim Lasri and Naomi Saphra and 
+    Arabella Sinclair and Dennis Ulmer and Florian Schottmann and Khuyagbaatar Batsuren and Kaiser Sun and Koustuv Sinha and Leila Khalatbari and Maria Ryskina and Rita Frieske and Ryan Cotterell and Zhijing Jin},
+  year = {2022},
+  journal = {CoRR},
+  url = {https://arxiv.org/abs/2210.03050},
 }
 ```
 [Download bib entry](../hupkes2022taxonomy.bib)
