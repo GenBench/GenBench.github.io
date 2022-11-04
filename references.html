@@ -129,11 +129,16 @@ header:
   // A list of all fields to filter by, referring to the
   // options we just created.
   const filterBy = [
-    { field: "motivation", name: "Motivation", values: allMotivations },
-    { field: "type", name: "Generalisation type", values: allTypes },
-    { field: "shift", name: "Shift type", values: allShifts },
-    { field: "source", name: "Shift source", values: allSources },
-    { field: "locus", name: "Shift locus", values: allLoci },
+    { field: "motivation", name: "Motivation", values: allMotivations, url: "/taxonomy/#motivation",
+      hover: "The motivation axis illustrates what motivation is used in the generalisation test. \n\n Click to read a more elaborate explanation on the taxonomy page of our website." },
+    { field: "type", name: "Generalisation type", values: allTypes, url: "/taxonomy/#generalisation-type",
+      hover: "The generalisation type axis describes the type of generalisation a study looks at. \n\n Click to read a more elaborate explanation on the taxonomy page of our website." },
+    { field: "shift", name: "Shift type", values: allShifts, url: "/taxonomy/#data-shift-type",
+      hover: "The statistically inspired data shift axis describes what data shift is considered in the generalisation test. \n\n Click to read a more elaborate explanation on the taxonomy page of our website." },
+    { field: "source", name: "Shift source", values: allSources, url: "/taxonomy/#shift-source",
+      hover: "The source axis captures what is the source of the shift considered in the experiment, or how it is produced. \n\n  Click to read a more elaborate explanation on the taxonomy page of our website." },
+    { field: "locus", name: "Shift locus", values: allLoci, url: "/taxonomy/#shift-locus",
+      hover: "The shift locus describes between which stages in the modelling pipeline the shift under consideration occurs. \n\n  Click to read a more elaborate explanation on the taxonomy page of our website." },
   ];
 
   // If set to true, filters without any checkmarks are treated as if
@@ -348,7 +353,8 @@ You can use the menu below to find papers with different types of studies.
     <!-- List of all filters -->
     <div class="field is-grouped" v-for="filterDef in filterBy" :key="filterDef.field" v-effect="updateQuery(filters[filterDef.field])">
       <div class="control">
-        <label class="label">{{filterDef.name}}:</label>
+        <!-- <label class="label" :title=filterDef.hover>{{filterDef.name}}:</label> -->
+        <label class="label">{{filterDef.name}}:<sup v-if="!!filterDef.hover" :title="filterDef.hover"><a :href="filterDef.url" target="_blank">?</a></sup></label>
       </div>
       <div class="control" v-for="v in filterDef.values" :key="v.key">
         <label class="checkbox">
