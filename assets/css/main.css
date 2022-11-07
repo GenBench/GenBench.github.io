@@ -1127,7 +1127,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 @media (min-width: 48em) { .grid__item .archive__item-teaser { max-height: 120px; } }
 
 /* Features ========================================================================== */
-.feature__wrapper { clear: both; margin-bottom: 2em; border-bottom: 1px solid #cfd4d3; }
+.feature__wrapper { clear: both; margin-bottom: 2em; border-bottom: none }
 .feature__wrapper::after { clear: both; content: ""; display: table; }
 .feature__wrapper .archive__item-title { margin-bottom: 0; }
 
@@ -1149,6 +1149,7 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 @media (max-width: 50em) { .feature__item--tile { max-width: 300px; } }
 .feature__item--tile .archive__item-body { padding-left: 1.6949152542%; padding-right: 1.6949152542%; text-align: center; }
 .feature__item--tile a.btn::before { content: ''; position: absolute; left: 0; top: 0; right: 0; bottom: 0; text-align: center; }
+.feature__item--tile .feature__wrapper { clear: both; margin-bottom: 2em; border-bottom: none; }
 
 .feature__item--team { position: relative; font-size: 1.125em; }
 @media (min-width: 37.5em) { .feature__item--team { float: left; margin-bottom: 2em; width: 15%; }
