@@ -1,5 +1,5 @@
 ---
-permalink: /leaderboard/
+permalink: /leaderboard-dynabench/
 title: "Leaderboard"
 
 excerpt: "Making generalisation testing the new status-quo in NLP"
