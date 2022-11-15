@@ -13,29 +13,48 @@ feature_row_team:
   - image_path: img/team/DieuwkeHupkes.png
     alt: "Dieuwke Hupkes"
     title: "Dieuwke Hupkes"
-    excerpt: "Project leader"
+    excerpt: "Project lead"
     class: img-thumbnail rounded-circle
+
+  - image_path: img/team/MarioGiulianelli.jpg
+    alt: "Mario Giulianelli"
+    title: "Mario Giulianelli"
+    excerpt: "Taxonomy lead"
+    class: img-thumbnail rounded-circle
+
+  - image_path: img/team/VernaDankers.png
+    alt: "Verna Dankers"
+    title: "Verna Dankers"
+    excerpt: "Data lead"
+    class: img-thumbnail rounded-circle
+
+  - image_path: img/team/KoustuvSinha.jpg
+    alt: "Koustuv Sinha"
+    title: "Koustuv Sinha"
+    excerpt: "Modelling lead"
+    class: img-thumbnail rounded-circle
+
   - image_path: img/team/MikelArtetxe.jpg
     alt: "Mikel Artetxe"
     title: "Mikel Artetxe"
     excerpt: 
     class: img-thumbnail rounded-circle
+
   - image_path: img/team/KhuyagbaatarBatsuren.jpg
     alt: "Khuyagbaatar Batsuren"
     title: "Khuyagbaatar Batsuren"
     class: img-thumbnail rounded-circle
+
   - image_path: img/team/ChristosChristodoulopoulos.jpg
     alt: "Christos Christodoulopoulos"
     title: "Christos Christodoulopoulos"
     class: img-thumbnail rounded-circle
+
   - image_path: img/team/default.png
     alt: "Ryan Cotterell"
     title: "Ryan Cotterell"
     class: img-thumbnail rounded-circle
-  - image_path: img/team/VernaDankers.png
-    alt: "Verna Dankers"
-    title: "Verna Dankers"
-    class: img-thumbnail rounded-circle
+
   - image_path: img/team/YanaiElazar.jpeg
     alt: "Yanai Elazar"
     title: "Yanai Elazar"
@@ -44,10 +63,7 @@ feature_row_team:
     alt: "Rita Frieske"
     title: "Rita Frieske"
     class: img-thumbnail rounded-circle
-  - image_path: img/team/MarioGiulianelli.jpg
-    alt: "Mario Giulianelli"
-    title: "Mario Giulianelli"
-    class: img-thumbnail rounded-circle
+
   - image_path: img/team/AmirhosseinKazemnejad.jpg
     alt: "Amirhossein Kazemnejad"
     title: "Amirhossein Kazemnejad"
@@ -72,10 +88,6 @@ feature_row_team:
     alt: "Arabella Sinclair"
     title: "Arabella Sinclair"
     class: img-thumbnail rounded-circle
-  - image_path: img/team/KoustuvSinha.jpg
-    alt: "Koustuv Sinha"
-    title: "Koustuv Sinha"
-    class: img-thumbnail rounded-circle
   - image_path: img/team/KaiserSun.jpg
     alt: "Kaiser Sun"
     title: "Kaiser Sun"
@@ -88,14 +100,18 @@ feature_row_team:
     alt: "Zhijing Jin"
     title: "Zhijing Jin"
     class: img-thumbnail rounded-circle
+
   - image_path: img/team/MariaRyskina.jpg
     alt: "Maria Ryskina"
     title: "Maria Ryskina"
+    excerpt: "Website"
     class: img-thumbnail rounded-circle
+
   - image_path: img/team/EceTakmaz.png
     alt: "Ece Takmaz"
     title: "Ece Takmaz"
     class: img-thumbnail rounded-circle
+
   - image_path: img/team/LeilaKhalatbari.jpg
     alt: "Leila Khalatbari"
     title: "Leila Khalatbari"
