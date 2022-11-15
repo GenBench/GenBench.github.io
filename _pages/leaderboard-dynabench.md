@@ -8,7 +8,7 @@ header:
   overlay_color: "#268"
 ---
 
-This is an example leaderboard, borrowed from the [Flores MT benchmark](https://dynabench.org/flores/Flores%20MT%20Evaluation%20(FULL)) on [Dynabench](https://dynabench.org/flores/Flores%20MT%20Evaluation%20(FULL)).
+<!-- This is an example leaderboard, borrowed from the [Flores MT benchmark](https://dynabench.org/flores/Flores%20MT%20Evaluation%20(FULL)) on [Dynabench](https://dynabench.org/flores/Flores%20MT%20Evaluation%20(FULL)).
 
 <iframe
     title="Example leaderboard (Flores-Full)"
@@ -16,4 +16,4 @@ This is an example leaderboard, borrowed from the [Flores MT benchmark](https://
     width="600"
     height="500"
     frameBorder="0"
-  ></iframe>
+  ></iframe> -->

@@ -9,4 +9,4 @@ header:
   overlay_color: "#268"
 ---
 
-This is a placeholder. Exciting information is coming soon!
+<!-- This is a placeholder. Exciting information is coming soon! -->
