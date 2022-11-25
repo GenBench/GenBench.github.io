@@ -20,12 +20,18 @@ It is difficult to understand how results in this area relate to each other, wha
 Missing answers to all of those questions are standing in the way of better model development: what we cannot measure, we cannot improve.
 The GenBench workshop on (benchmarking) generalisation in NLP aims to serve as a cornerstone to catalyse research on generalisation in the NLP community.
 The workshop has two concrete goals:
-* Establish a shared platform for sota generalisation testing in NLP, with a leaderboard for a selection of tests that are created and selected not by one group, but by a larger community.
+* Establish a shared platform for state-of-the-art generalisation testing in NLP, with a leaderboard for a selection of tests that are created and selected not by one group, but by a larger community.
 * Bring together different expert communities to discuss challenging questions relating to generalisation in NLP.
 
 # Programme 
-Our intended workshop programme consists of five different elements: i) invited presentations ii) spotlight presentation of type 1 submissions iii) oral presentations of a selection of type 2 submissions iv) poster presentations of all submissions v) a panel on generalisation, bringing together experts from different communities.
-In this panel, we will discuss topics such as how to best involve domain experts in the design of generalisation tests, the future of generalisation testing and when generalisation testing is important and when it is not.
+Our intended workshop programme consists of different elements:
+- invited presentations
+- spotlight presentation of type 1 submissions
+- oral presentations of a selection of type 2 submissions 
+- poster presentations of all submissions 
+- a panel on generalisation, bringing together experts from different communities.
+
+In the panel, we will discuss topics such as how to best involve domain experts in the design of generalisation tests, the future of generalisation testing and when generalisation testing is important and when it is not.
 Furthermore, we will add topics drawn from the workshop submissions, as well as questions solicited through an online poll prior to the workshop.
 
 # Submission types
