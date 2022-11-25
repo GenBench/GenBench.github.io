@@ -64,36 +64,29 @@ While we have to still confirm our final line-up, and availability will depend o
 # Organisers
 
 ## Dieuwke Hupkes
-Dieuwke Hupkes is a research scientist at Meta AI Research.
-Before that, she did her PhD and postdoc at the University of Amsterdam.
-She authored several articles directly relevant to the workshop, two of them published in a top AI journal (Journal of Artificial Intelligence), has co-organised a workshop on compositionality, neural networks, and the brain held at the Lorentz Center in the summer of 2019, and co-organised the past three editions of BlackboxNLP, some of which were organised either entirely virtually or in a hybrid fashion.
-She is also the lead of the GenBench project. 
+Dieuwke Hupkes is a research scientist at Meta AI Research. Her primary research interest is better understanding models for NLP and how that relates to (linguistic, philosophical) knowledge about language. 
 
 ## Verna Dankers 
-Verna Dankers is a PhD student at the Centre for Doctoral Training in NLP, University of Edinburgh. Her primary research interests lie at the intersection of compositional generalisation for natural language tasks and interpretability.  Three years into her PhD, she already has more than 5 publications relevant to the workshop, published in ACL conferences, workshops and the journal JAIR. She is furthermore one of the founders of the larger GenBench project, to which she has made substantial contributions, has interned at FAIR Labs, Meta AI, and has served on the program committees of ACL, EMNLP, CoNLL, the BlackboxNLP and the Figlang workshops.
+Verna Dankers is a PhD student at the Centre for Doctoral Training in NLP, University of Edinburgh. Her primary research interests lie at the intersection of compositional generalisation for natural language tasks and interpretability.  
 
 ## Khuyagbaatar Batsuren
-Khuyagbaatar Batsuren is an Associate Professor at the National University of Mongolia. His research interest focuses on computational morphology and multilingual NLP. He got his Ph.D. at the University of Trento, where he studied a universal structure of human lexical semantics. He was part of the shared task organisers and program commitee of the SIGMORPHON 2022 Workshop. 
+Khuyagbaatar Batsuren is an Associate Professor at the National University of Mongolia. His research interest focuses on computational morphology and multilingual NLP. 
 
 ## Koustuv Sinha 
-Koustuv Sinha is a Research Scientist at Meta AI Research (Fundamental AI Research team). He did his PhD from McGill University and Mila Quebec AI Institute. His research focuses on investigating systematicity and generalisation in natural language understanding (NLU) models, especially the state-of-the-art large language models, and develop methods to alleviate generalisation issues in production. He is the lead organizer of the annual ML Reproducibility Challenge, which has had six iterations since 2018 (2018-2022). He serves as a Journal Chair at NeurIPS 2022, and also an associate editor of ReScience, a journal promoting reproducibility reports in various fields of science. He has co-organized several workshops in the past, including NILLI (2021, 2022) at EMNLP, and ML Retrospectives at NeurIPS 2019. 
+Koustuv Sinha is a Research Scientist at Meta AI Research (Fundamental AI Research team). His research focuses on investigating systematicity and generalisation in natural language understanding (NLU) models, especially the state-of-the-art large language models, and develop methods to alleviate generalisation issues in production. 
 
 ## Amirhossein Kazemnejad
-Amirhossein Kazemnejad is a master's student at McGill University and Mila, where he studies the generalisation capabilities of Transformers. The work he has done has been presented at ACL conferences and workshops. As well as serving on the program committees of EMNLP and ARR, he was a member of the organizing committee for EACL 2021 and the virtual website team for EMNLP 2020. Furthermore, he has been closely involved in the development of the GenBench project.
+Amirhossein Kazemnejad is a master's student at McGill University and Mila, where he studies the generalisation capabilities of Transformers.
 
 ## Christos Christodoulopoulos
-Christos Christodoulopoulos is a Senior Applied Scientist at Amazon Research Cambridge, working on knowledge extraction and verification. He got his PhD at the University of Edinburgh, where he studied the underlying structure of syntactic categories across languages. Before joining Amazon, he was a postdoctoral researcher at the University of Illinois working on semantic role labeling and psycholinguistic models of language acquisition. He is part of the organising committee of the FEVER series of workshops and shared tasks, an area co-chair for NAACL 2019, ACL 2020, and the general chair for the 2021 Truth and Trust Online conference.
+Christos Christodoulopoulos is a Senior Applied Scientist at Amazon Research Cambridge, working on knowledge extraction and verification.
 
 ## Ryan Cotterell 
 Ryan Cotterell is an assistant professor of computer science at ETH Zurich where he is affiliated with the Institute for Machine Learning, the AI Center, and the Media Technology Center. He primarily researches topics in natural language publishing and machine learning.
 
 ## Elia Bruni
 Elia Bruni is a professor of Natural Language Processing at the University of Osnabrück. 
-Previously, he was a Marie Sklodowska-Curie Fellow at the Computational Linguistics and Linguistic Theory (COLT) research group, University of Pompeu Fabra (Barcelona, Spain).
-He obtained his PhD at the Language, Interaction and Computation Lab (CLIC) at the University of Trento. 
 His research focuses on deep learning for natural language processing and he is particularly interested in assessing the ability of neural networks to process language compositionally. 
-Elia has served on the program committees of ACL, EMNLP, CoNLL,NAACL among others. 
-He was also part of the management committee of the European Network on Integrating Vision and Language.
 
 # Anti-Harassment Policy
 GenBench adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
