@@ -10,6 +10,10 @@ header:
   overlay_color: "#268"
 ---
 
+# Venue
+
+The First GenBench workshop will be held at EMNLP 2023!
+
 # Workshop description
 
 The ability to generalise well is often mentioned as one of the primary desiderata for models of natural language processing (e.g. [Marcus, 1998](https://arxiv.org/abs/1801.00631); [Schmidhuber, 1990](); [Wong and Wang, 2007](); [Lake et al., 2017](); [Yogatama et al., 2019](); [Linzen, 2020](); [Elangovan et al., 2021](); [Marcus, 2018]())
@@ -60,6 +64,7 @@ While we have to still confirm our final line-up, and availability will depend o
 * Gary Marcus
 * Percy Liang
 * Susan Zhang
+* Mona Diab
 
 # Organisers
 
