@@ -100,15 +100,15 @@ header:
         }
         
         .btn-outline-success{
-            --bs-btn-color:#198754;
-            --bs-btn-border-color:#198754;
+            --bs-btn-color: #11999e;
+            --bs-btn-border-color:#11999e;
             --bs-btn-hover-color:#fff;
-            --bs-btn-hover-bg:#198754;
-            --bs-btn-hover-border-color:#198754;
+            --bs-btn-hover-bg:#11999e;
+            --bs-btn-hover-border-color:#11999e;
             --bs-btn-focus-shadow-rgb:25,135,84;
             --bs-btn-active-color:#fff;
-            --bs-btn-active-bg:#198754;
-            --bs-btn-active-border-color:#198754;
+            --bs-btn-active-bg:#11999e;
+            --bs-btn-active-border-color:#11999e;
             --bs-btn-active-shadow:inset 0 3px 5px rgba(0, 0, 0, 0.125);
         }
 
@@ -171,7 +171,7 @@ header:
     You can use this page to easily generate latex code <i>GenBench Evaluation Cards</i>. 
     Just register all your experiments below, and click the generation button to generate the corresponding latex code.
     Download the code by clicking the download button, or copy it to your clipboard with the one next to it.
-    The download gives a file that you can compile standalone, to include only the table in your paper, just copy over the packages to your preamble, save everything from "%Set tabular size" to the last "end tabular", and import that file using "\input{filename}".
+    The download gives a file that you can compile standalone, to include only the table in your paper, just copy over the packages to your preamble, save everything from <code style="color: #11999e">%Set tabular size</code> to the last <code style="color: #11999e">end tabular</code>, and import that file using <code style="color: #11999e">\input{filename}</code>.
     </p>
     <p class="mb-2">Please indicate the <a href="https://genbench.org/taxonomy/"><span
             style="font-variant: small-caps">GenBench</span> taxonomy values</a> for all the experiments in your study.
@@ -188,7 +188,7 @@ header:
         </div>
     </div>
     <div id="latex-display" class="mt-3">
-        <pre><code data-lang="latex" id="latex-code"></code></pre>
+        <pre><code data-lang="latex" id="latex-code" style="font-size: smaller;"></code></pre>
     </div>
 </section>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
