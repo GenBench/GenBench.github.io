@@ -52,7 +52,7 @@ You can see, for instance, that:
 - the most frequent motivation for generalisation research is 'practical', but practically motivated studies can still take on any type;
 - generalisation research introducing a covariate data shift mostly focuses on the difference between train (or fine-tune) and test data;
 - structural generalisation experiments are mostly motivated from a cognitive perspective, and are never about fairness;
-- fully generated data shfits tend to be used to create shifts between the train and test data.
+- fully generated data is often used to create shifts between the train and test data.
 
 NB: this plot renders best on relatively wide screens
 
