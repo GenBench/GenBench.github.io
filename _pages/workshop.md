@@ -43,8 +43,8 @@ Furthermore, we will add topics drawn from the workshop submissions, as well as 
 To reach out workshop goals, we welcome two different types of submissions. We are working on the cfp to send out soon!
 
 ## Submission type 1: Collaborative Benchmarking Task
-To achieve the first goal of our workshop, we organise a collaborative benchmarking task, in similar spirits to the [BIG-Bench](https://github.com/google/BIG-bench) challenge, but focusing specifically on generalisation. 
-We will invite researchers to submit challenging and diverse generalisation tests, within a relatively wide yet well-defined scope.
+To achieve the first goal of our workshop, we organise a collaborative benchmarking task, in similar spirits to the [BIG-Bench](https://github.com/google/BIG-bench) challenge, but focusing specifically on non-i.i.d. generalisation. 
+We will invite researchers to submit challenging and diverse generalisation splits, within a relatively wide yet well-defined scope.
 Submitters of splits will be asked to characterise their splits using the generalisation taxonomy presented by [Hupkes et al., 2022](https://arxiv.org/abs/2210.03050), and we specifically encourage submissions focussing on generalisation to underrepresented languages, with a fairness motivation, or any of the other challenges in generalisation research discussed by [Hupkes et al., 2022](https://arxiv.org/abs/2210.03050).
 Generalisation test submissions need to be motivated and described in a paper submission, accompanied with results for selected models and an analysis of the results.
 We also welcome submissions of existing generalisation datasets, which can be submitted through extended abstracts.
