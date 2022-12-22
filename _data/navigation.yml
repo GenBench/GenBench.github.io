@@ -19,5 +19,7 @@ main:
 #   url: /taxonomy/
 - title: "Contribute"
   url: /contribute/
+- title: "Workshop"
+  url: /workshop/
 - title: "Team"
   url: /team/
