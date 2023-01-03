@@ -181,7 +181,8 @@ header:
         <button type="button" class="btn btn-outline-success" id="btn-add"><i class="bi bi-plus-circle"></i> Add Experiment</button>
     </div>
     <div class="exp-property-row">
-        <button type="button" class="btn btn-primary" id="btn-generate">Generate <span style="font-variant: small-caps">GenBench</span> evaluation card</button>
+        <button type="button" class="btn btn-primary" id="btn-generate-one-column">Generate <span style="font-variant: small-caps">GenBench</span> evaluation card two-column</button>
+        <button type="button" class="btn btn-primary" id="btn-generate-two-column">Generate <span style="font-variant: small-caps">GenBench</span> evaluation card one-column</button>
         <div class="btn-group" style="display: none;" id="btn-latex-text-actions">
             <button type="button" id="btn-copy" class="btn btn-outline-secondary"><i class="bi bi-clipboard-fill"></i></button>
             <a id="btn-download" class="btn btn-outline-secondary"><i class="bi bi-cloud-arrow-down-fill"></i></a>
@@ -204,71 +205,94 @@ header:
     }
     // symbols to define experiments
     const exp_names = {
-             1: "\\firstexp",
-             2: "\\secondexp",
-             3: "\\thirdexp"
+        1: "\\expone", 2: "\\exptwo", 3: "\\expthree",
+        4: "\\expfour", 5: "\\expfive", 6: "\\expsix",
+        7: "\\expseven", 8: "\\expeight", 9: "\\expnine",
+        10: "\\expten", 11: "\\expeleven", 12: "\\exptwelve",
+        13: "\\expthirteen", 14: "\\expfourteen", 15: "\\expfifteen",
+        16: "\\expsixteen", 17: "\\expseventeen", 18: "\\expeighteen",
+        19: "\\expnineteen", 20: "\\exptwenty"
     }
     const exp_symbols = {
-             1: "square",
-             2: "bigtriangleup",
-             3: "bigcirc"
+             1: "square", 2: "bigtriangleup", 3: "bigcirc",
+             4: "odot", 5: "triangleleft", 6: "bullet",
+             7: "vee", 8: "dagger", 9: "oplus",
+             10: "bigtriangledown", 11: "ast", 12: "star",
+             13: "perp", 14: "wr", 15: "times",
+             16: "forall", 17: "nsim", 18: "lor",
+             19: "neg", 20: "land"
      }
 
     const latex_header = ` \
-        \n\\documentclass{standalone} \
+        \n\\documentclass{article} \
         \n \
         \n\\usepackage{xcolor} \
         \n\\usepackage{colortbl} \
         \n\\usepackage{amssymb} \
         \n \
         \n\\begin{document} \
-        \n \
-        \n% Set tabular size\n\\newcommand{\\tabularwidth}{11cm}`
+        \n`
+
+    const latex_header_one_column = "\n% Set tabular size\n\\newcommand{\\tabularwidth}{\\columnwidth}"
+    const latex_header_two_column = "\n% Set tabular size\n\\newcommand{\\tabularwidth}{\\textwidth}"
+
     let exp_defs = ""     // Create variable to store experiment symbols to be generated
     let latex_body = ""
+
+    const axis_cell_defs_one_column = {
+        'motivation': `\n\\begin{tabular}{p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering}} \
+                       \n\\textit{Practical} & \\textit{Cognitive} & \\textit{Intrinsic} & \\textit{Fairness}\\\\\n`,
+        'type':  `\n\\begin{tabular}{m{0.17\\tabularwidth}<{\\centering} m{0.20\\tabularwidth}<{\\centering} m{0.14\\tabularwidth}<{\\centering} m{0.17\\tabularwidth}<{\\centering} m{0.18\\tabularwidth}<{\\centering} m{0.14\\tabularwidth}<{\\centering}} \
+                  \n\\textit{Compo- sitional} & \\textit{Structural} & \\textit{Cross Task} & \\textit{Cross Language} & \\textit{Cross Domain} & \\textit{Robust- ness}\\\\\n`,
+        'shift_type': `\n\\begin{tabular}{p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering}} \
+                       \n\\textit{Covariate} & \\textit{Label} & \\textit{Full} & \\textit{Assumed}\\\\ \ \n`,
+        'shift_source': `\n\\begin{tabular}{p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering}} \
+                         \n\\textit{Naturally occuring} & \\textit{Partitioned natural} & \\textit{Generated shift} & \\textit{Fully generated}\\\\\n`,
+        'shift_locus': `\n\\begin{tabular}{p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering}} \
+                        \n\\textit{Train--test} & \\textit{Finetune train--test} & \\textit{Pretrain--train} & \\textit{Pretrain--test}\\\\\n`
+     }
+
+    const axis_cell_defs_two_columns = {
+        'motivation': `\n\\begin{tabular}{p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering}} \
+                       \n\\textit{Practical} & \\textit{Cognitive} & \\textit{Intrinsic} & \\textit{Fairness}\\\\\n`,
+        'type':  `\n\\begin{tabular}{m{0.21\\tabularwidth}<{\\centering} m{0.2\\tabularwidth}<{\\centering} m{0.13\\tabularwidth}<{\\centering} m{0.13\\tabularwidth}<{\\centering} m{0.13\\tabularwidth}<{\\centering} m{0.2\\tabularwidth}<{\\centering}} \
+                  \n\\textit{Compositional} & \\textit{Structural} & \\textit{Cross Task} & \\textit{Cross Language} & \\textit{Cross Domain} & \\textit{Robustness}\\\\\n`,
+        'shift_type': `\n\\begin{tabular}{p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering}} \
+                       \n\\textit{Covariate} & \\textit{Label} & \\textit{Full} & \\textit{Assumed}\\\\ \ \n`,
+        'shift_source': `\n\\begin{tabular}{p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering}} \
+                         \n\\textit{Naturally occuring} & \\textit{Partitioned natural} & \\textit{Generated shift} & \\textit{Fully generated}\\\\\n`,
+        'shift_locus': `\n\\begin{tabular}{p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering}} \
+                        \n\\textit{Train--test} & \\textit{Finetune train--test} & \\textit{Pretrain--train} & \\textit{Pretrain--test}\\\\\n`
+     }
+
     const axis_headers = {
           'motivation': ` \
               \n% Record the experiments' motivations \
               \n\\rowcolor{gray!60} \
               \n\\textbf{Motivation} \\\\ \
-              \n\\footnotesize \
-              \n\\begin{tabular}{p{2.6cm}p{2.6cm}<{\\centering} p{2.6cm}<{\\centering}p{2.6cm}<{\\centering}} \
-              \n\\textit{Practical} & \\textit{Cognitive} & \\textit{Intrinsic} & \\textit{Fairness}\\\\ \
-              \n\\large`,
+              \n\\footnotesize`,
           'type':  ` \
               \n% Record the experiments' generalisation type \
               \n\\rowcolor{gray!60} \
               \n\\textbf{Generalisation type} \\\\ \
-              \n\\footnotesize \
-              \n\\begin{tabular}{p{2.3cm}p{1.7cm}<{\\centering}p{1.6cm}<{\\centering}p{1.7cm}<{\\centering}p{1.7cm}<{\\centering}p{1.7cm}<{\\centering}} \
-                \n\\textit{Compositional} & \\textit{Structural} & \\textit{Task} & \\textit{Language} & \\textit{Domain} & \\textit{Robustness}\\\\ \
-             \n\\large`,
+              \n\\footnotesize`,
           'shift_type': ` \
             \n% Record the experiments' shift type \
             \n\\rowcolor{gray!60} \
             \n\\textbf{Shift type} \\\\ \
-            \n\\footnotesize \
-            \n\\begin{tabular}{p{2.6cm}p{2.6cm}<{\\centering}p{2.6cm}<{\\centering}p{2.6cm}<{\\centering}} \
-            \n\\textit{Covariate} & \\textit{Label} & \\textit{Full} & \\textit{Assumed}\\\\ \
-            \n\\large`,
+            \n\\footnotesize`,
         'shift_source': ` \
             \n% Record the experiments' shift source \
             \n\\rowcolor{gray!60} \
             \n\\textbf{Shift source} \\\\ \
-            \n\\footnotesize \
-            \n\\begin{tabular}{p{2.7cm} p{2.9cm}<{\\centering} p{2.4cm}<{\\centering} p{2.3cm}<{\\centering}} \
-            \n\\textit{Naturally occuring} & \\textit{Partitioned natural} & \\textit{Generated shift} & \\textit{Fully generated}\\\\ \
-            \n\\large`,
+            \n\\footnotesize`,
         'shift_locus': ` \
             \n% Record the experiments' shift locus \
             \n\\rowcolor{gray!60} \
             \n\\textbf{Shift locus}\\\\ \
-            \n\\footnotesize \
-            \n\\begin{tabular}{p{2.1cm}p{3.1cm}<{\\centering} p{2.5cm}<{\\centering} p{2.4cm}<{\\centering}} \
-            \n\\textit{Train--test} & \\textit{Finetune train--test} & \\textit{Pretrain--train} & \\textit{Pretrain--test}\\\\ \
-            \n\\large`,
-     }
-    const axes_footer = "\n\\vspace{2mm} \\\\\n\\end{tabular}\\\\\n"
+            \n\\footnotesize`
+    }
+    const axes_footer_all = "\n\\vspace{2mm} \\\\\n\\end{tabular}\\\\\n"
 
     const latex_footer = "\n\\end{document}"
     const table_header = `\
@@ -280,7 +304,7 @@ header:
 
     const table_footer = "\n\\hline\n\\end{tabular}\n"
 
-    function generateLatex() {
+    function setExperimentSymbols() {
         // Add experiment symbols
         latex_body = "\n\n% Set symbols for experiments\n"
         exp_defs = ''
@@ -293,35 +317,87 @@ header:
         latex_body += exp_defs;
         latex_body += table_header;
 
+    }
+
+    function addTableBody(nColumns) {
         // Loop over axes
         for (const [axis, header] of Object.entries(axis_headers)) {
             // Add axis subtable header
-            latex_body += header + "\n";
+            latex_body += header;
+            if ( nColumns == 1 ) {
+                latex_body += axis_cell_defs_one_column[axis]
+            } else if (nColumns == 2) {
+                latex_body += axis_cell_defs_two_columns[axis];
+            }
 
              // Loop over values for current axis
              for (const valIndex in attrValues[axis]) {
+
+                // Make sure ampersands get added
+                if (valIndex!=0) {
+                    latex_body += "& ";
+                }
                  const valName = attrValues[axis][valIndex]
                 // loop over recorded experiments
                 for (let eNum = 1; eNum < expNum; eNum++) {
                     // check if value is ticked for current experiment
                     if ($('#exp-'+eNum+'-'+axis+'-'+valName).is(':checked')) {
-                        latex_body += exp_names[eNum] + "\\hspace{0.5mm}";
+                        latex_body += exp_names[eNum] + "\\hspace{0.8mm}";
                      }
                  }
 
-                // Make sure ampersands get added
-                if (valIndex!==0) {
-                    latex_body += "& \\large";
-                }
                 latex_body += "\t\t% " + valName + "\n";
             }
 
             // Add axis sub-table footer
-            latex_body += axes_footer
+            latex_body += axes_footer_all
         }
 
         latex_body += table_footer
-        $('#latex-code').empty().append(latex_header + latex_body + latex_footer);
+    }
+
+    function generateLatexOneColumn() {
+
+        // Set experiment symbols
+        setExperimentSymbols();
+
+        // Generate the table
+        addTableBody(1);
+
+        // Generate everything, and add download and copy links
+        $('#latex-code').empty().append(latex_header + latex_header_one_column + latex_body + latex_footer);
+        $("#btn-copy").html('<i class="bi bi-clipboard-fill"></i>');
+        setDownloadLink();
+        $('#btn-latex-text-actions').show();
+
+    }
+
+    function generateLatexTwoColumns() {
+
+        // Set experiment symbols
+        setExperimentSymbols();
+
+        // Generate the table
+        addTableBody(2);
+
+        // Generate everything, and add download and copy links
+        $('#latex-code').empty().append(latex_header + latex_header_two_column + latex_body + latex_footer);
+        $("#btn-copy").html('<i class="bi bi-clipboard-fill"></i>');
+        setDownloadLink();
+        $('#btn-latex-text-actions').show();
+
+    }
+
+    function generateLatex() {
+
+        // Set experiment symbols
+        setExperimentSymbols();
+
+        // Generate the table
+        addTableBody();
+
+        // Generate everything, and add download and copy links
+        $('#latex-code').empty().append(latex_header + latex_header_one_column + latex_body + latex_footer);
         $("#btn-copy").html('<i class="bi bi-clipboard-fill"></i>');
         setDownloadLink();
         $('#btn-latex-text-actions').show();
@@ -346,6 +422,12 @@ header:
     }
 
     function addExperiment(){
+        if ( expNum > 20 ) {
+            window.confirm(`Well done, you have a lot of experiments in your study! \
+            \n\n The maximum number of experiments you can register with this tool is 20. You can add more experiments manually, or reach out to us if you need help. \
+            `);
+            return;
+        }
         const expElem = $('<div class="experiment mb-3">')
             .append($('<h4>').text('Experiment ' + expNum));
         for (const [key, value] of Object.entries(attrValues)) {
@@ -366,6 +448,7 @@ header:
         expNum += 1;
     }
     $('#btn-add').click(addExperiment);
-    $('#btn-generate').click(generateLatex);
+    $('#btn-generate-one-column').click(generateLatexOneColumn);
+    $('#btn-generate-two-column').click(generateLatexTwoColumns);
     $('#btn-copy').click(copyToClip);
 </script>
