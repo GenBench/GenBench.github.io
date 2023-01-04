@@ -181,8 +181,8 @@ header:
         <button type="button" class="btn btn-outline-success" id="btn-add"><i class="bi bi-plus-circle"></i> Add Experiment</button>
     </div>
     <div class="exp-property-row">
-        <button type="button" class="btn btn-primary" id="btn-generate-one-column">Generate <span style="font-variant: small-caps">GenBench</span> evaluation card two-column</button>
-        <button type="button" class="btn btn-primary" id="btn-generate-two-column">Generate <span style="font-variant: small-caps">GenBench</span> evaluation card one-column</button>
+        <button type="button" class="btn btn-primary" id="btn-generate-page-wide">Generate <span style="font-variant: small-caps">GenBench</span> evaluation card page-wide</button>
+        <button type="button" class="btn btn-primary" id="btn-generate-one-column">Generate <span style="font-variant: small-caps">GenBench</span> evaluation card one column</button>
         <div class="btn-group" style="display: none;" id="btn-latex-text-actions">
             <button type="button" id="btn-copy" class="btn btn-outline-secondary"><i class="bi bi-clipboard-fill"></i></button>
             <a id="btn-download" class="btn btn-outline-secondary"><i class="bi bi-cloud-arrow-down-fill"></i></a>
@@ -234,7 +234,7 @@ header:
         \n`
 
     const latex_header_one_column = "\n% Set tabular size\n\\newcommand{\\tabularwidth}{\\columnwidth}"
-    const latex_header_two_column = "\n% Set tabular size\n\\newcommand{\\tabularwidth}{\\textwidth}"
+    const latex_header_page_wide = "\n% Set tabular size\n\\newcommand{\\tabularwidth}{\\textwidth}"
 
     let exp_defs = ""     // Create variable to store experiment symbols to be generated
     let latex_body = ""
@@ -252,7 +252,7 @@ header:
                         \n\\textit{Train--test} & \\textit{Finetune train--test} & \\textit{Pretrain--train} & \\textit{Pretrain--test}\\\\\n`
      }
 
-    const axis_cell_defs_two_columns = {
+    const axis_cell_defs_page_wide = {
         'motivation': `\n\\begin{tabular}{p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering} p{0.25\\tabularwidth}<{\\centering}} \
                        \n\\textit{Practical} & \\textit{Cognitive} & \\textit{Intrinsic} & \\textit{Fairness}\\\\\n`,
         'type':  `\n\\begin{tabular}{m{0.21\\tabularwidth}<{\\centering} m{0.2\\tabularwidth}<{\\centering} m{0.13\\tabularwidth}<{\\centering} m{0.13\\tabularwidth}<{\\centering} m{0.13\\tabularwidth}<{\\centering} m{0.2\\tabularwidth}<{\\centering}} \
@@ -327,7 +327,7 @@ header:
             if ( nColumns == 1 ) {
                 latex_body += axis_cell_defs_one_column[axis]
             } else if (nColumns == 2) {
-                latex_body += axis_cell_defs_two_columns[axis];
+                latex_body += axis_cell_defs_page_wide[axis];
             }
 
              // Loop over values for current axis
@@ -372,7 +372,7 @@ header:
 
     }
 
-    function generateLatexTwoColumns() {
+    function generateLatexPageWide() {
 
         // Set experiment symbols
         setExperimentSymbols();
@@ -381,7 +381,7 @@ header:
         addTableBody(2);
 
         // Generate everything, and add download and copy links
-        $('#latex-code').empty().append(latex_header + latex_header_two_column + latex_body + latex_footer);
+        $('#latex-code').empty().append(latex_header + latex_header_page_wide + latex_body + latex_footer);
         $("#btn-copy").html('<i class="bi bi-clipboard-fill"></i>');
         setDownloadLink();
         $('#btn-latex-text-actions').show();
@@ -449,6 +449,6 @@ header:
     }
     $('#btn-add').click(addExperiment);
     $('#btn-generate-one-column').click(generateLatexOneColumn);
-    $('#btn-generate-two-column').click(generateLatexTwoColumns);
+    $('#btn-generate-page-wide').click(generateLatexPageWide);
     $('#btn-copy').click(copyToClip);
 </script>
