@@ -72,7 +72,7 @@ feature_row_team:
     alt: "Karim Lasri"
     title: "Karim Lasri"
     class: img-thumbnail rounded-circle
-  - image_path: img/team/default.png
+  - image_path: img/team/TiagoPimentel.jpeg
     alt: "Tiago Pimentel"
     title: "Tiago Pimentel"
     class: img-thumbnail rounded-circle
@@ -96,7 +96,7 @@ feature_row_team:
     alt: "Dennis Ulmer"
     title: "Dennis Ulmer"
     class: img-thumbnail rounded-circle
-  - image_path: img/team/default.png
+  - image_path: img/team//ZhijingJin.jpg
     alt: "Zhijing Jin"
     title: "Zhijing Jin"
     class: img-thumbnail rounded-circle
