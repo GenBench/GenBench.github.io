@@ -4,8 +4,8 @@ excerpt: "Generate an evaluation card for your paper"
 permalink: /eval_cards/
 layout: single_wide
 header:
-<!-- overlay_image: /assets/images/unsplash-image-1.jpg -->
-overlay_color: "#268"
+    <!-- overlay_image: /assets/images/unsplash-image-1.jpg -->
+    overlay_color: "#268"
 ---
 
 <!-- Set some styles for the generation script -->
@@ -162,6 +162,50 @@ overlay_color: "#268"
         border-top-left-radius:0;border-bottom-left-radius:0
     }
 
+    /* Tooltip container */
+    .tooltip {
+        position: relative;
+        display: inline-block;
+        border-bottom: 1px dotted gray; /* If you want dots under the hoverable text */
+    }
+
+    /* Tooltip text */
+    .tooltip .tooltiptext {
+        visibility: hidden;
+        background-color: black;
+        font-size: small;
+        color: #fff;
+        text-align: center;
+        padding: 5px;
+        border-radius: 6px;
+
+        /* Position the tooltip text - see examples below! */
+        position: absolute;
+        z-index: 1;
+        width: 200px;
+        bottom: 100%;
+        left: 50%;
+        margin-left: -100px; /* Use half of the width (120/2 = 60), to center the tooltip */
+        opacity: 0;
+        transition: opacity .5s;
+    }
+
+    .tooltip .tooltiptext::after {
+        content: " ";
+        position: absolute;
+        top: 100%; /* At the bottom of the tooltip */
+        left: 50%;
+        margin-left: -5px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: black transparent transparent transparent;
+    }
+
+    /* Show the tooltip text when you mouse over the tooltip container */
+    .tooltip:hover .tooltiptext {
+        visibility: visible;
+        opacity: 1;
+    }
 </style>
 
 
@@ -172,12 +216,13 @@ overlay_color: "#268"
         Download the code by clicking the Download button, or copy it to your clipboard with the one next to it.
         The download produces a file that you can compile standalone; to include only the table in your paper, just copy the packages over to your preamble, save everything from <code style="color: #11999e">%Set tabular size</code> to the last <code style="color: #11999e">end tabular</code>, and import that file using <code style="color: #11999e">\input{filename}</code>.
     </p>
-    <p class="mb-2">Please indicate the <a href="https://genbench.org/taxonomy/"><span
+    <p class="mb-2">Please indicate the <a href="/taxonomy/"><span
             style="font-variant: small-caps">GenBench</span> taxonomy values</a> for all the experiments in your study.
     </p>
     <div id="experiments"></div>
     <div class="mb-3">
         <button type="button" class="btn btn-outline-success" id="btn-add"><i class="bi bi-plus-circle"></i> Add Experiment</button>
+        <button type="button" class="btn btn-outline-secondary" style="display: none;" id="btn-remove"><i class="bi bi-dash-circle"></i> Remove Experiment</button>
     </div>
     <div class="exp-property-row">
         <button type="button" class="btn btn-primary" id="btn-generate-page-wide">Generate <span style="font-variant: small-caps">GenBench</span> evaluation card page-wide</button>
@@ -201,6 +246,39 @@ overlay_color: "#268"
         'shift_type': ['covariate', 'label', 'full', 'assumed'],
         'shift_source': ['naturally_occurring', 'partitioned_natural_data', 'generated_shifts', 'fully_generated_data'],
         'shift_locus': ['train-test', 'finetune_train-test', 'pretrain-train', 'pretrain-test']
+    }
+    const attrTooltips = {
+        'motivation': [
+            'Aim to understand in which scenarios models can be applied, or with the concrete aim to improve them.',
+            'Study generalisation from a cognitive angle, or aim to learn more about humans.',
+            'Aim to understand what kind of solutions a model implements or what factors impact that.',
+            'Study whether models generalise fairly, for instance to different sub-demographics or low-resource languages.'
+        ],
+        'type': [
+            'Whether models can compositionally assign meanings to new inputs',
+            'Whether models can generalise to correct syntactic or morphological structures – without considering whether those structures can also be correctly interpreted',
+            'Whether a single model can generalise from one task to another.',
+            'Whether a single model can generalise from one language to another.',
+            'Whether models can generalise from one domain to another.',
+            'How robustly models generalise when faced with different input distributions representing the same task.'],
+        'shift_type': [
+            'Shifts in the input distribution only.',
+            'Shifts in the conditional probability of the output given the input.',
+            'Shift in both input and conditional output distribution at the same time.',
+            'Relationship between the different data distributions is not checked.'
+        ],
+        'shift_source': [
+            'Naturally different train/test corpora, that are not systematically adjusted in any way.',
+            'All data involved is natural, but the data is split along unnatural dimensions.',
+            'The training corpus is a fully natural corpus, but the test corpus is (adversarially) generated – or the other way around.',
+            'Data is fully generated, for instance using templates or a grammar.'
+        ],
+        'shift_locus': [
+            'A model is trained on one distribution and tested on another.',
+            'A pretrained model is finetuned on some data and then tested on a dataset that is o.o.d. w.r.t. the finetuning data.',
+            'Shifts between pretraining and training data, but not between the finetuning and testing data.',
+            'A pretrained model that is not further finetuned but tested directly.'
+        ]
     }
     // symbols to define experiments
     const exp_names = {
@@ -405,7 +483,7 @@ overlay_color: "#268"
         $('#btn-download').attr("download", "GenBench_eval_card.tex").attr("href", "data:application/octet-stream;charset=utf-8," +  encodeURIComponent(textToCopy));
     }
 
-    function addExperiment(){
+    function addExperiment() {
         if ( expNum > 20 ) {
             window.confirm(`Well done, you have a lot of experiments in your study! \
             \n\n The maximum number of experiments you can register with this tool is 20. You can add more experiments manually, or reach out to us if you need help. \
@@ -415,23 +493,32 @@ overlay_color: "#268"
         const expElem = $('<div class="experiment mb-3">')
             .append($('<h4>').text('Experiment ' + expNum));
         for (const [key, value] of Object.entries(attrValues)) {
+            const tooltipsValue = attrTooltips[key]
             const rowElem = $('<div class="exp-property-row">');
             const checkboxesElem = $('<div class="exp-property-col exp-property-checkboxes">');
             rowElem.append($('<div class="exp-property-col property">').text(key.replace('_',' ')))
             for (const propIndex in value) {
                 const propertyName = value[propIndex];
+                const tooltip = tooltipsValue[propIndex];
                 checkboxesElem
                     .append($('<input type="checkbox" id="exp-'+expNum+'-'+key+'-'+propertyName+'">'))
-                    .append($('<label class="field-label" for="exp-'+expNum+'-'+key+'-'+propertyName+'">'+propertyName.replaceAll('_',' ')+'</label>'))
+                    .append($('<label class="field-label tooltip" for="exp-'+expNum+'-'+key+'-'+propertyName+'">'+propertyName.replaceAll('_',' ')+'<span class="tooltiptext">'+tooltip+'</span></label>'))
             }
             rowElem.append(checkboxesElem);
             expElem.append(rowElem);
         }
 
         $('#experiments').append(expElem);
+        $('#btn-remove').show();
         expNum += 1;
     }
+
+    function removeExperiment() {
+        $('.experiment').last().remove();
+        expNum -= 1;
+    }
     $('#btn-add').click(addExperiment);
+    $('#btn-remove').click(removeExperiment);
     $('#btn-generate-one-column').click(generateLatexOneColumn);
     $('#btn-generate-page-wide').click(generateLatexPageWide);
     $('#btn-copy').click(copyToClip);
