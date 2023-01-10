@@ -19,6 +19,8 @@ main:
 #   url: /taxonomy/
 - title: "Contribute"
   url: /contribute/
+- title: "Evaluation cards"
+  url: /eval_cards/
 - title: "Workshop"
   url: /workshop/
 - title: "Team"
