@@ -208,14 +208,16 @@ header:
     }
 </style>
 
-
 <section>
     <p>
         You can use this page to easily generate LaTeX code for <i>GenBench Evaluation Cards</i>.
         Just register all your experiments below and click the Generate button to generate the corresponding LaTeX code.
         Download the code by clicking the Download button, or copy it to your clipboard with the one next to it.
-        The download produces a file that you can compile standalone; to include only the table in your paper, just copy the packages over to your preamble, save everything from <code style="color: #11999e">%Set tabular size</code> to the last <code style="color: #11999e">end tabular</code>, and import that file using <code style="color: #11999e">\input{filename}</code>.
+        The download produces a file that you can compile standalone; to include only the table in your paper, just copy the packages over to your preamble, save everything from <code style="color: #11999e">%Set tabular size</code> to the last <code style="color: #11999e">\end{tabular}</code>, and import that file using <code style="color: #11999e">\input{filename}</code>.
     </p>
+
+    <img src="../assets/images/lv_0_20230105080939.gif" style="display: block; margin-left: auto; margin-right: auto; margin-bottom: 2em;" alt="Visual demonstration of the process of generating evaluation cards" width="60%">
+
     <p class="mb-2">Please indicate the <a href="/taxonomy/"><span
             style="font-variant: small-caps">GenBench</span> taxonomy values</a> for all the experiments in your study.
     </p>
