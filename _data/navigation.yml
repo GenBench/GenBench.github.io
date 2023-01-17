@@ -7,7 +7,7 @@ main:
 #   url: /tags/
 # - title: "Leaderboard"
 #   url: /leaderboard/
-- title: "The generalisation taxonomy"
+- title: "The taxonomy"
   url: /taxonomy/
     # - title: "About"
     #   url: /
@@ -17,11 +17,11 @@ main:
   url: /references/
 # - title: "The taxonomy"
 #   url: /taxonomy/
-- title: "Contribute"
-  url: /contribute/
-- title: "Evaluation cards"
+- title: "Eval Cards"
   url: /eval_cards/
 - title: "Workshop"
   url: /workshop/
+- title: "Contribute"
+  url: /contribute/
 - title: "Team"
   url: /team/
