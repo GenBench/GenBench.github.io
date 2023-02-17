@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: GenBench
 masthead_title: Home
+logo: "/assets/images/GenBench_Logo_Horizontal_FullColor_RGB.png"
 email:
 description: State-of-the-art evaluation
 twitter_username: GenBench
