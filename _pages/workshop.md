@@ -12,7 +12,7 @@ header:
 
 # Venue
 
-The First GenBench workshop will be held at EMNLP 2023!
+The First GenBench workshop will be held at [EMNLP 2023](https://2023.emnlp.org/) in Singapore from December 6 to 10, 2023!
 
 # Workshop description
 
