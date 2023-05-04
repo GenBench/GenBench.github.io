@@ -28,7 +28,7 @@ Once we have approved the sample, and you have finalised your submission, you ca
 ### Sample submissions
 The sample submission must include a fully specified `config.jsonnet` (and optionally `task.py`) file, as well as a minimal description of the task in the `doc.md` file. Samples should also include at least one example per dataset split. If the datasets are hosted on HuggingFace, the sample must include at least one example index (per split). If the datasets are hosted by the participants, a `jsonl` file with at least one line must be provided in a publicly accessible URI.
 
-Once a sample sumbission PR is received, the GenBench team will perform a series of validation checks and confirm that the submission fits the critieria of the benchmark. Participants will be notified about any changes they need to make and once the sample PR has been approved, they will be invited to submit the full task and paper for review.
+Once a sample sumbission PR is received, the GenBench team will perform a series of validation checks and confirm that the submission fits the criteria of the benchmark. Participants will be notified about any changes they need to make and once the sample PR has been approved, they will be invited to submit the full task and paper for review.
 
 ### GenBench Collaborative Benchmark Task submission workflow
 ![GenBench Collaborative Benchmark Task submission workflow!](/assets/images/cbt-flowchart.png "CBT submission workflow")
