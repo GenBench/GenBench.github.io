@@ -10,7 +10,12 @@ header:
 ---
 
 The Genbench Collaborative Benchmarking Task (CBT) aims to develop a collaborative generalisation benchmark for NLP, hosted on a shared platform: GenBench.
-Submissions to the CBT consist of a data/task artefact (submitted via the [GenBenchCBT github repository](https://github.com/GenBench/genbench_cbt)) and a paper (submitted via openreview), describing the submission. Tasks will be reviewed via their paper submission, accepted papers tasks will be merged into the GenBench repository, and included in the proceedings of the GenBench workshop. After the workshop, we will release a leaderboard for the top-reviewed tasks.
+Submissions to the CBT consist of a data/task artefact (submitted via the [GenBenchCBT github repository](https://github.com/GenBench/genbench_cbt)) and a paper (submitted via openreview), describing the submission. 
+The paper will be reviewed via a regular paper review pipeline and included in the proceedings of the GenBench workshop. 
+Tasks corresponding to accepted papers will be merged into the GenBench rk repository.
+After the workshop, we will release a leaderboard for the top-reviewed tasks.
+More details about both task and paper submissions can be found below.
+
 
 ## Important dates
 - August 1, 2023 – Sample data submission deadline
@@ -21,18 +26,27 @@ Submissions to the CBT consist of a data/task artefact (submitted via the [GenBe
 - December 6/7, 2023 – Workshop
 
 ## Submit a task to the collaborative benchmark
-Head over to the [GenBenchCBT github repository](https://github.com/GenBench/genbench_cbt) and following the instructions in the README to create your submission files. Before making your official submission, you will need to send a sample submission for validation by the GenBench team via a Pull Request to the repository.
 
-Once we have approved the sample, and you have finalised your submission, you can create a new Pull Request.
+As described above, CBT submissions consist of a data/task artefact and an accompanying paper.
+The data/task artefacts are submitted via a pull request on the [GenBenchCBT github repository](https://github.com/GenBench/genbench_cbt), whereas the papers are submitted via openreview.
 
-### Sample submissions
-The sample submission must include a fully specified `config.jsonnet` (and optionally `task.py`) file, as well as a minimal description of the task in the `doc.md` file. Samples should also include at least one example per dataset split. If the datasets are hosted on HuggingFace, the sample must include at least one example index (per split). If the datasets are hosted by the participants, a `jsonl` file with at least one line must be provided in a publicly accessible URI.
+### Task / data submissions & sample submissions
 
-Once a sample sumbission PR is received, the GenBench team will perform a series of validation checks and confirm that the submission fits the criteria of the benchmark. Participants will be notified about any changes they need to make and once the sample PR has been approved, they will be invited to submit the full task and paper for review.
+**NB: Task submissions via PR will open early June, the current repository gives a sneakpeak, but is not fully functional yet**
 
-### GenBench Collaborative Benchmark Task submission workflow
-![GenBench Collaborative Benchmark Task submission workflow!](/assets/images/cbt-flowchart.png "CBT submission workflow")
+To submit your task data, head over to the [GenBenchCBT github repository](https://github.com/GenBench/genbench_cbt) and following the instructions in the README to create your submission files. 
+Before making your official submission, you will need to send a sample submission for validation by the GenBench team via a Pull Request to the repository.
+The sample submission must include minimal working version of your intended submission -- a `config.jsonnet` and (optionally) `task.py` file, and a small sample of task data -- and a minimal description of the task in the `doc.md` file. 
 
+### CBT papers
+
+CBT submissions to the Genbench CBT github repository should be accompanied by (anonymous) papers, that can be submitted via the paper submission page of the GenBench workshop.
+In the submission form, please indicate that your paper describes a CBT submission, and add the number of your PR in the github repository.
+The paper should motivate the development of your proposed task or test, describe the method you used to create the data, present an evaluation of some models of your choosing and contain a [GenBench evaluation card](https://genbench.org/eval_cards/) describing its values on the GenBench generalisation taxonomy.
+You can submit both an archival paper or an extended abstract.
+Reviewers will be instructed to assess your submission similarly to regular paper submissions, and acceptance of your task is based on the paper, provided your artefact technically fits within the framework.
+Tasks from accepted papers will be merged into the GenBench repository, and the paper will be included in the proceedings of the GenBench workshop. 
+After the workshop, we will release a leaderboard for the top-reviewed tasks. For more details about the paper submission, we refer the reader to genbench.org/workshop.
 
 ## FAQ
 #### What is generalisation?
@@ -50,3 +64,8 @@ Excellent question! We have no clear answer to this, but we hope that some of yo
 
 #### I have an evaluation task that doesn't fit the existing protocols, can I propose a change?
 Yes, reach out to us at genbench@googlegroups.com. We welcome proposals that extend our current benchmark, but we cannot guarantee that we will implement any fixes or changes in time for the workshop.
+
+#### Are there any minimal requirements for CBT papers?
+Other than the inclusion of a [GenBench evaluation card](https://genbench.org/eval_cards/), there are no strict requirements for CBT papers.
+
+#### What should be on the doc.md page of my task?
