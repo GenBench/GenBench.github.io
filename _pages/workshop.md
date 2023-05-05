@@ -19,12 +19,12 @@ The First GenBench workshop will be held at [EMNLP 2023](https://2023.emnlp.org/
 
 # Important dates
 
-- August 1, 2023 – Sample data submission deadline
-- September 1, 2023 – Paper submission deadline
-- September 15, 2023 – ARR submission deadline
-- October 6, 2023 – Notification deadline
-- October 18, 2023 – Camera ready deadline
-- December 6/7, 2023 – Workshop
+- **August 1, 2023** – Sample data submission deadline
+- **September 1, 2023** – Paper submission deadline
+- **September 15, 2023** – ARR submission deadline
+- **October 6, 2023** – Notification deadline
+- **October 18, 2023** – Camera ready deadline
+- **December 6/7, 2023** – Workshop
 
 *Note: all deadlines are 11:59PM UTC-12:00*
 
