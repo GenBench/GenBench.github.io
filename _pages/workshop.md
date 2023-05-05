@@ -78,7 +78,7 @@ We especially encourage papers that attack one of the challenges presented in [H
 
 Each submission should contain information about the data (URIs, format, preprocessing), model preparation (finetuning loss, ICL prompt templates), and evaluation metrics. 
 These will be defined either in a configuration file or in code. 
-More details about the collaborative benchmark submissions and example submissions can be found on [genbench.org/cbt](genbench.org/cbt) as well as the [cbt submission page](https://github.com/GenBench/genbench_cbt).
+More details about the collaborative benchmark submissions and example submissions can be found on [genbench.org/cbt](https://genbench.org/cbt) as well as the [cbt submission page](https://github.com/GenBench/genbench_cbt).
 
 Participants proposing previously unpublished datasets or splits may choose to submit an archival paper or an extended abstract. Generalisation evaluation datasets that have already been published elsewhere (or will be published at EMNLP 2023) can be submitted to the platform, as well, but only through an extended abstract, citing the original publication. We allow dual submissions with EMNLP, for more information, see below.
 
