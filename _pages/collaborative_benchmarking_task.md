@@ -63,9 +63,8 @@ Excellent question! We have no clear answer to this, but we hope that some of yo
 #TODO ADD: some suggestions? Point out that they can ask submitters to provide specific information about the training corpus, and refer to example?
 
 #### I have an evaluation task that doesn't fit the existing protocols, can I propose a change?
-Yes, reach out to us at genbench@googlegroups.com. We welcome proposals that extend our current benchmark, but we cannot guarantee that we will implement any fixes or changes in time for the workshop.
+Yes, reach out to us at genbench@googlegroups.com. 
+We welcome proposals that extend our current implementation, but we cannot guarantee that we will implement any fixes or changes in time for the workshop.
 
 #### Are there any minimal requirements for CBT papers?
 Other than the inclusion of a [GenBench evaluation card](https://genbench.org/eval_cards/), there are no strict requirements for CBT papers.
-
-#### What should be on the doc.md page of my task?
