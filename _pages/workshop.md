@@ -10,9 +10,24 @@ header:
   overlay_color: "#268"
 ---
 
+# News
+- Our [call for papers](../cfp.txt) is online! 
+
 # Venue
 
-The First GenBench workshop will be held at [EMNLP 2023](https://2023.emnlp.org/) in Singapore from December 6 to 10, 2023!
+The First GenBench workshop will be held at [EMNLP 2023](https://2023.emnlp.org/) in Singapore on December 6 or 7.
+
+# Important dates
+
+- August 1, 2023 – Sample data submission deadline
+- September 1, 2023 – Paper submission deadline
+- September 15, 2023 – ARR submission deadline
+- October 6, 2023 – Notification deadline
+- October 18, 2023 – Camera ready deadline
+- December 6/7, 2023 – Workshop
+
+*Note: all deadlines are 11:59PM UTC-12:00*
+
 
 # Workshop description
 
@@ -24,8 +39,68 @@ It is difficult to understand how results in this area relate to each other, wha
 Missing answers to all of those questions are standing in the way of better model development: what we cannot measure, we cannot improve.
 The GenBench workshop on (benchmarking) generalisation in NLP aims to serve as a cornerstone to catalyse research on generalisation in the NLP community.
 The workshop has two concrete goals:
-* Establish a shared platform for state-of-the-art generalisation testing in NLP, with a leaderboard for a selection of tests that are created and selected not by one group, but by a larger community.
 * Bring together different expert communities to discuss challenging questions relating to generalisation in NLP.
+* Establish a shared platform for state-of-the-art generalisation testing in NLP, with a leaderboard for a selection of tests that are created and selected not by one group, but by a larger community.
+
+# Call for papers
+
+To reach out workshop goals, we welcome two different types of submissions: regular workshop submissions and collaborative benchmarking task submissions. 
+The latter will consist of a data/task artefact and a companion paper motivating and evaluating the submission. 
+In both cases, we accept archival papers and extended abstracts. 
+
+## Submission types
+
+### Submission type 1: generalisation and opinion papers 
+Towards our first goal, we invite paper submissions on a topics related to generalisation in NLP.
+Such submissions present work on the topic of generalisation (see examples listed below), but are not intended to be included on the GenBench evaluation platform. Regular workshop papers may be submitted as an archival paper, when they report on completed, original and unpublished research; or as a shorter extended abstract. More details on this category can be found below.
+
+Topics of interest include, but are not limited to:
+- Opinion or position papers about generalisation and how it should be evaluated;
+- Analyses of how existing or new models generalise;
+- Empirical studies that propose new paradigms to evaluate generalisation;
+- Meta analyses that compare how results from different generalisation studies compare;
+- Meta analyses that study how different types of generalisation are related;
+- Papers that discuss how generalisation of LLMs can be evaluated without access to training data;
+- Papers that discuss why generalisation is (not) important in the era of LLMs.
+- Studies on the relationship between generalisation and fairness or robustness;
+
+If you are unsure whether a specific topic is well-suited for submission, feel free to reach out to the organisers of the workshop at genbench@googlegroups.com.
+### Submission type 2: Collaborative Benchmarking Task (CBT) submissions
+To achieve the second goal of our workshop, we organise a collaborative benchmarking task (CBT), in similar spirits to the [BIG-Bench](https://github.com/google/BIG-bench) challenge, but focusing specifically on non-i.i.d. generalisation. 
+We invite researchers to submit challenging and diverse generalisation tests to the GenBench CBT.
+
+Collaborative benchmarking task submissions consist of a data/task artefact and a paper describing and motivating the submission and showcasing it on a select number of models.
+We accept submissions that introduce new datasets, resplits of existing datasets along particular dimensions, or in-context learning tasks, with the goal of measuring generalisation of NLP models. 
+We especially encourage papers that attack one of the challenges presented in [Hupkes et al. (2022)](https://arxiv.org/abs/2210.03050):
+- Generalisation in LLMs, where we have no control over the training data
+- Generalisation in the context of fairness and inclusivity
+- Multilingual generalisation
+
+Each submission should contain information about the data (URIs, format, preprocessing), model preparation (finetuning loss, ICL prompt templates), and evaluation metrics. 
+These will be defined either in a configuration file or in code. 
+More details about the collaborative benchmark submissions and example submissions can be found on [genbench.org/cbt](genbench.org/cbt) as well as the [cbt submission page](https://github.com/GenBench/genbench_cbt).
+
+Participants proposing previously unpublished datasets or splits may choose to submit an archival paper or an extended abstract. Generalisation evaluation datasets that have already been published elsewhere (or will be published at EMNLP 2023) can be submitted to the platform, as well, but only through an extended abstract, citing the original publication. We allow dual submissions with EMNLP, for more information, see below.
+
+If you are in doubt whether a particular type of dataset is suitable for submission, please consult the information page on our website, or reach out to the organisers of the workshop at genbench@googlegroups.com.
+
+All accepted generalisation test submissions will be included in the proceedings of the workshop, and we will feature a top-selection, which will be included also in the GenBench 1.0 leaderboard, on the GenBench platform.
+Following Big-Bench, after the workshop is finished, we aim to do a larger-scale testing with the top tests with a range of different models ([Srivastava et al., 2022](https://arxiv.org/abs/2206.04615)).
+
+## Archival vs extended abstract
+Archival papers are up to 8 pages excluding references and report on completed, original and unpublished research. They follow the requirements of regular EMNLP 2023 submissions. Accepted papers will be published in the workshop proceedings and are expected to be presented at the workshop. The papers will undergo double-blind peer-review and should thus be anonymised. Extended abstracts can be up to 2 pages excluding references, and may report on work in progress or be cross submissions of work that has already appeared in another venue. Abstract titles will be posted on the workshop website, but will not be included in the proceedings.
+
+## Submission instructions
+For both archival papers and extended abstracts, we refer to the EMNLP 2023 website for paper templates. 
+Collaborative benchmarking tasks should be submitted on the [cbt submission page](https://github.com/GenBench/genbench_cbt), an accompanying paper should be submitted through OpenReview.
+Regular workshop papers are submitted through OpenReview.
+Submissions are expected to open on June 7.
+
+## Dual submissions
+We allow dual submissions with EMNLP, and we encourage relevant papers that were dual-submitted and accepted at EMNLP to redirect to a non-archival extended abstract submission. We furthermore welcome submissions of extended abstracts that describe work already presented at an earlier venue, both in the collaborative benchmarking and in the regular submission tracks.
+
+## Preprints
+We do not have an anonymity deadline, preprints are allowed, both before the submission deadline as well as after.
 
 # Programme 
 Our intended workshop programme consists of different elements:
@@ -38,35 +113,9 @@ Our intended workshop programme consists of different elements:
 In the panel, we will discuss topics such as how to best involve domain experts in the design of generalisation tests, the future of generalisation testing and when generalisation testing is important and when it is not.
 Furthermore, we will add topics drawn from the workshop submissions, as well as questions solicited through an online poll prior to the workshop.
 
-# Submission types
-
-To reach out workshop goals, we welcome two different types of submissions. We are working on the cfp to send out soon!
-
-## Submission type 1: Collaborative Benchmarking Task
-To achieve the first goal of our workshop, we organise a collaborative benchmarking task, in similar spirits to the [BIG-Bench](https://github.com/google/BIG-bench) challenge, but focusing specifically on non-i.i.d. generalisation. 
-We will invite researchers to submit challenging and diverse generalisation splits, within a relatively wide yet well-defined scope.
-Submitters of splits will be asked to characterise their splits using the generalisation taxonomy presented by [Hupkes et al., 2022](https://arxiv.org/abs/2210.03050), and we specifically encourage submissions focussing on generalisation to underrepresented languages, with a fairness motivation, or any of the other challenges in generalisation research discussed by [Hupkes et al., 2022](https://arxiv.org/abs/2210.03050).
-Generalisation test submissions need to be motivated and described in a paper submission, accompanied with results for selected models and an analysis of the results.
-We also welcome submissions of existing generalisation datasets, which can be submitted through extended abstracts.
-Accepted generalisation test submissions will be included in the proceedings of the workshop, and we will feature a top-selection, which will be included also in the GenBench 1.0 leaderboard, on the GenBench platform.
-Following Big-Bench, after the workshop is finished, we aim to do a larger-scale testing with the top tests with a range of different models ([Srivastava et al., 2022](https://arxiv.org/abs/2206.04615)).
-
-<b>Stay tuned for more detailed instructions!</b>
-
-## Submission type 2: generalisation and opinion papers 
-Towards our second goal, we invite paper submissions on a specific set of topics related to generalisation in NLP.
-More specifically, we welcome opinion papers (similar to, for instance [Linzen, 2020](https://aclanthology.org/2020.acl-main.465/); [Baroni, 2021](https://arxiv.org/abs/2106.08694); [Marcus, 2018](https://arxiv.org/pdf/1801.00631.pdf?u)), meta-analyses that bring together different existing studies on generalisation (e.g. [Liu et al., 2022](https://arxiv.org/abs/2102.01065); [Chaabouni et al., 2021](https://aclanthology.org/2021.blackboxnlp-1.9/)), and papers that present state-of-the-art analyses of generalisation in modern NLP models (e.g. [McCoy et al., 2019](https://aclanthology.org/P19-1334/); [Lazaridou et al., 2021](https://proceedings.neurips.cc/paper/2021/file/f5bf0ba0a17ef18f9607774722f5698c-Paper.pdf)). 
-We specifically encourage papers that attack one of the challenges presented in [Hupkes et al. (2022)](https://arxiv.org/abs/2210.03050).
-
 # Invited speakers
 
-While we still have to announce our final line-up we have a confirmed interest of several exciting invited speakers and panelists:
-
-* Anna Rogers
-* Gary Marcus
-* Percy Liang
-* Susan Zhang
-* Mona Diab
+To be announced soon!
 
 # Organisers
 
