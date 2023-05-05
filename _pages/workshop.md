@@ -91,7 +91,7 @@ Following Big-Bench, after the workshop is finished, we aim to do a larger-scale
 Archival papers are up to 8 pages excluding references and report on completed, original and unpublished research. They follow the requirements of regular EMNLP 2023 submissions. Accepted papers will be published in the workshop proceedings and are expected to be presented at the workshop. The papers will undergo double-blind peer-review and should thus be anonymised. Extended abstracts can be up to 2 pages excluding references, and may report on work in progress or be cross submissions of work that has already appeared in another venue. Abstract titles will be posted on the workshop website, but will not be included in the proceedings.
 
 ## Submission instructions
-For both archival papers and extended abstracts, we refer to the EMNLP 2023 website for paper templates. 
+For both archival papers and extended abstracts, we refer to the EMNLP 2023 website for [paper templates](https://2023.emnlp.org/calls/style-and-formatting/). 
 Collaborative benchmarking tasks should be submitted on the [cbt submission page](https://github.com/GenBench/genbench_cbt), an accompanying paper should be submitted through OpenReview.
 Regular workshop papers are submitted through OpenReview.
 Submissions are expected to open on June 7.
