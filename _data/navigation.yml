@@ -21,6 +21,8 @@ main:
   url: /eval_cards/
 - title: "Workshop"
   url: /workshop/
+- title: "Collaborative benchmarking task"
+  url: /cbt/
 - title: "Contribute"
   url: /contribute/
 - title: "Team"
