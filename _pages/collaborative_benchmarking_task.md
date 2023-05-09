@@ -60,7 +60,6 @@ Yes you can! We very much encourage submissions of existing generalisation evalu
 
 #### How can I evaluate generalisation for an LLM if I don't know anything about the training data?
 Excellent question! We have no clear answer to this, but we hope that some of you will come up with creative solutions to do so!
-#TODO ADD: some suggestions? Point out that they can ask submitters to provide specific information about the training corpus, and refer to example?
 
 #### I have an evaluation task that doesn't fit the existing protocols, can I propose a change?
 Yes, reach out to us at genbench@googlegroups.com. 
