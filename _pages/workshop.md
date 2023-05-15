@@ -15,7 +15,7 @@ header:
 
 # Venue
 
-The First GenBench workshop will be held at [EMNLP 2023](https://2023.emnlp.org/) in Singapore on December 6 or 7.
+The First GenBench workshop will be held at [EMNLP 2023](https://2023.emnlp.org/) in Singapore on December 6.
 
 # Important dates
 
@@ -24,7 +24,7 @@ The First GenBench workshop will be held at [EMNLP 2023](https://2023.emnlp.org/
 - **September 15, 2023** – ARR submission deadline
 - **October 6, 2023** – Notification deadline
 - **October 18, 2023** – Camera ready deadline
-- **December 6/7, 2023** – Workshop
+- **December 6, 2023** – Workshop
 
 *Note: all deadlines are 11:59PM UTC-12:00*
 
