@@ -22,6 +22,7 @@ twitter_username: GenBench
 github_username: GenBench
 minimal_mistakes_skin: mint
 search: false
+google_analytics: G-YKG30NWYLY
 
 # Build settings
 markdown: kramdown

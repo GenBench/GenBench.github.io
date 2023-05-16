@@ -1,5 +1,9 @@
 <!-- start custom head snippets -->
 
+{% if jekyll.environment == 'production' and site.google_analytics %}
+{% include analytics.html %}
+{% endif %}
+
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 
 <link rel="shortcut icon" href="{{ '/assets/images/GenBench_Favicon_32px_white.png' | relative_url }}" sizes="32x32">
