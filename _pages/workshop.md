@@ -93,7 +93,7 @@ Archival papers are up to 8 pages excluding references and report on completed, 
 ## Submission instructions
 For both archival papers and extended abstracts, we refer to the EMNLP 2023 website for [paper templates](https://2023.emnlp.org/calls/style-and-formatting/). 
 Collaborative benchmarking tasks should be submitted on the [cbt submission page](https://github.com/GenBench/genbench_cbt), an accompanying paper should be submitted through OpenReview.
-Regular workshop papers are submitted through OpenReview: [https://openreview.net/group?id=GenBench.org/2023/Workshop](https://openreview.net/group?id=GenBench.org/2023/Workshop).
+Regular workshop papers are submitted through OpenReview: [https://openreview.net/group?id=GenBench.org/2023/Workshop](https://openreview.net/group?id=GenBench.org/2023/Workshop)
 <!--- Submissions are expected to open on June 7. -->
 
 ## Dual submissions
