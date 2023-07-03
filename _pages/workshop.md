@@ -28,7 +28,7 @@ The First GenBench workshop will be held at [EMNLP 2023](https://2023.emnlp.org/
 
 *Note: all deadlines are 11:59PM UTC-12:00*
 
-Submission link: https://openreview.net/group?id=GenBench.org/2023/Workshop
+Submission link: <a href="https://openreview.net/group?id=GenBench.org/2023/Workshop" target="_blank">https://openreview.net/group?id=GenBench.org/2023/Workshop</a>
 
 # Workshop description
 
@@ -50,8 +50,6 @@ The latter will consist of a data/task artefact and a companion paper motivating
 In both cases, we accept archival papers and extended abstracts. 
 
 ## Submission types
-
-Submission link: https://openreview.net/group?id=GenBench.org/2023/Workshop
 
 ### Submission type 1: generalisation and opinion papers 
 Towards our first goal, we invite paper submissions on a topics related to generalisation in NLP.
@@ -96,8 +94,9 @@ Archival papers are up to 8 pages excluding references and report on completed, 
 ## Submission instructions
 For both archival papers and extended abstracts, we refer to the EMNLP 2023 website for [paper templates](https://2023.emnlp.org/calls/style-and-formatting/). 
 Collaborative benchmarking tasks should be submitted on the [cbt submission page](https://github.com/GenBench/genbench_cbt), an accompanying paper should be submitted through OpenReview.
-Regular workshop papers are submitted through OpenReview: [https://openreview.net/group?id=GenBench.org/2023/Workshop](https://openreview.net/group?id=GenBench.org/2023/Workshop)
-<!--- Submissions are expected to open on June 7. -->
+Regular workshop papers are submitted through OpenReview.
+
+Submission link: <a href="https://openreview.net/group?id=GenBench.org/2023/Workshop" target="_blank">https://openreview.net/group?id=GenBench.org/2023/Workshop</a>
 
 ## Dual submissions
 We allow dual submissions with EMNLP, and we encourage relevant papers that were dual-submitted and accepted at EMNLP to redirect to a non-archival extended abstract submission. We furthermore welcome submissions of extended abstracts that describe work already presented at an earlier venue, both in the collaborative benchmarking and in the regular submission tracks.
