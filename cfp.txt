@@ -45,7 +45,7 @@ Archival papers are up to 8 pages excluding references and report on completed, 
 ## Submission instructions
 For both archival papers and extended abstracts, we refer to the EMNLP 2023 website for paper templates. Additional requirements for both regular workshop papers and collaborative benchmarking task submissions can be found on our website. 
 
-All submissions can be submitted through OpenReview, the link can be found on our website.
+All submissions can be submitted through OpenReview: https://openreview.net/group?id=GenBench.org/2023/Workshop
 
 We also accept regular workshop submissions (papers of category 1) through the ACL Rolling Review system. Authors that have their ARR reviews ready may submit their papers and reviews for consideration to the workshop up to two weeks before our notification deadline.
 

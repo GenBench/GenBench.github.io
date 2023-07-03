@@ -28,6 +28,7 @@ The First GenBench workshop will be held at [EMNLP 2023](https://2023.emnlp.org/
 
 *Note: all deadlines are 11:59PM UTC-12:00*
 
+Submission link: https://openreview.net/group?id=GenBench.org/2023/Workshop
 
 # Workshop description
 
@@ -49,6 +50,8 @@ The latter will consist of a data/task artefact and a companion paper motivating
 In both cases, we accept archival papers and extended abstracts. 
 
 ## Submission types
+
+Submission link: https://openreview.net/group?id=GenBench.org/2023/Workshop
 
 ### Submission type 1: generalisation and opinion papers 
 Towards our first goal, we invite paper submissions on a topics related to generalisation in NLP.
