@@ -140,3 +140,10 @@ His research focuses on deep learning for natural language processing and he is 
 
 # Anti-Harassment Policy
 GenBench adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
+
+<script type="text/javascript">
+var links = document.links;
+for (var i = 0, linksLength = links.length; i < linksLength; i++)
+	if (links[i].hostname != window.location.hostname)
+	    links[i].target = '_blank';
+</script>
