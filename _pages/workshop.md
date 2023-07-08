@@ -119,6 +119,13 @@ Furthermore, we will add topics drawn from the workshop submissions, as well as 
 
 To be announced soon!
 
+# Sponsors
+We would like to thank Amazon for sponsoring our workshop. 
+![Amazon Sponsor](/img/sponsor/amazon_logo_RGB.png)
+
+## Scholarships
+With the support of our workshop sponsor Amazon, we are offering 6 scholarships each covering up to $500 of travel expenses.
+
 # Organisers
 
 <b>Dieuwke Hupkes</b> is a research scientist at FAIR. Her primary research interest is better understanding models for NLP and how that relates to (linguistic, philosophical) knowledge about language. 
