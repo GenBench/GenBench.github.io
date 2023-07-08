@@ -122,7 +122,7 @@ To be announced soon!
 # Sponsors
 We would like to thank Amazon for sponsoring our workshop. 
 
-![Amazon Sponsor](/img/sponsor/amazon_logo_RGB.png){:width="250px"}
+![Amazon Sponsor](/img/sponsor/amazon_logo_RGB.png){:width="400px"}
 
 ## Scholarships
 With the support of our workshop sponsor Amazon, we are offering 6 scholarships each covering up to $500 of travel expenses.
