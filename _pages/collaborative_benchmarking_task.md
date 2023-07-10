@@ -32,8 +32,6 @@ The data/task artefacts are submitted via a pull request on the [GenBenchCBT git
 
 ### Task / data submissions & sample submissions
 
-**NB: Task submissions via PR will open early June, the current repository gives a sneak peek, but is not fully functional yet**
-
 To submit your data/task, head over to the [GenBenchCBT github repository](https://github.com/GenBench/genbench_cbt) and follow the instructions in the README to create your submission files. 
 Before making your official submission, you will need to send a sample submission for validation by the GenBench team via a Pull Request to the repository.
 The sample submission must include a minimal working version of your intended submission -- a `config.jsonnet` and (optionally) `task.py` file, and a small sample of the data -- and a minimal description of the task in the `doc.md` file. 
