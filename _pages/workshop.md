@@ -11,6 +11,8 @@ header:
 ---
 
 # News
+- The Collaborative Benchmarking Task is now accepting submissions, see [genbench.org/cbt](https://genbench.org/cbt)!
+- Exciting news: thanks to our sponsor Amazon, we can now offer [scholarships](https://genbench.org/workshop/#scholarships)!
 - Our [call for papers](../cfp.txt) is online! 
 
 # Venue
@@ -125,7 +127,11 @@ We would like to thank Amazon for sponsoring our workshop.
 ![Amazon Sponsor](/img/sponsor/amazon_logo_RGB.png){:width="400px"}
 
 ## Scholarships
-With the support of our workshop sponsor Amazon, we are offering 6 scholarships each covering up to $500 of travel expenses.
+With the support of our workshop sponsor Amazon, we are offering 6 scholarships, each covering up to $500 of travel expenses and/or (virtual) registration fees.
+We strongly encourage students from developing countries and marginalized communities to apply.
+To submit your application, please send us an email (genbench@googlegroups.com) with the following information (the deadline is *September 1*):
+- your CV
+- A few motivational sentences: why do you want to attend the workshop, and how would the funds help you with that?
 
 # Organisers
 
