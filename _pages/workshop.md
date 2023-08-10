@@ -11,6 +11,7 @@ header:
 ---
 
 # News
+- Would you like to submit to the Collaborative Benchmark Task, but you missed the August 1 sample deadline? Get in contact with us, you can still submit to the September 1 deadline!
 - The [CoNLL conference](https://conll.org/2023) now allows dual submissions with GenBench, and vice versa! Is your CoNLL submission a good fit with the GenBench mission but are you still waiting for your reviews? Also submit to GenBench! See our information about [dual submissions](https://genbench.org/workshop/#dual-submissions).
 - The Collaborative Benchmarking Task is now accepting submissions, see [genbench.org/cbt](https://genbench.org/cbt)!
 - Exciting news: thanks to our sponsor Amazon, we can now offer [scholarships](https://genbench.org/workshop/#scholarships)!
@@ -22,7 +23,7 @@ The First GenBench workshop will be held at [EMNLP 2023](https://2023.emnlp.org/
 
 # Important dates
 
-- **August 1, 2023** – Sample data submission deadline
+- ~**August 1, 2023** – Sample data submission deadline~ This deadline has now passed, but get in touch if you still want to submit to the CBT
 - **September 1, 2023** – Paper submission deadline
 - **September 15, 2023** – ARR submission deadline
 - **October 6, 2023** – Notification deadline
