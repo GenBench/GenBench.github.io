@@ -11,7 +11,7 @@ header:
 ---
 
 # News
-- Our ARR commitment deadline has been extended to **October 1**! Instructions on how to submit will follow closer to that date.
+- Our ARR commitment deadline has been extended to **October 1**! Submissions can now be made via [this Openreview page](https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment).
 - Would you like to submit to the Collaborative Benchmark Task, but you missed the August 1 sample deadline? Get in contact with us, you can still submit to the September 1 deadline!
 - The [CoNLL conference](https://conll.org/2023) now allows dual submissions with GenBench, and vice versa! Is your CoNLL submission a good fit with the GenBench mission but are you still waiting for your reviews? Also submit to GenBench! See our information about [dual submissions](https://genbench.org/workshop/#dual-submissions).
 - The Collaborative Benchmarking Task is now accepting submissions, see [genbench.org/cbt](https://genbench.org/cbt)!
@@ -26,7 +26,7 @@ The First GenBench workshop will be held at [EMNLP 2023](https://2023.emnlp.org/
 
 - ~~**August 1, 2023** – Sample data submission deadline~~
 - ~~**September 1, 2023** – Paper submission deadline, submission link: [https://openreview.net/group?id=GenBench.org/2023/Workshop](https://openreview.net/group?id=GenBench.org/2023/Workshop)~~
-- ~~**September 15, 2023**~~ extended to **October 1, 2023** – ARR commitment deadline, submission instructions will follow closer to the deadline
+- ~~**September 15, 2023**~~ extended to **October 1, 2023** – ARR commitment deadline, submission link: [https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment](https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment)
 - **October 6, 2023** – Notification deadline
 - **October 18, 2023** – Camera ready deadline
 - **December 6, 2023** – Workshop
@@ -100,7 +100,7 @@ For both archival papers and extended abstracts, we refer to the EMNLP 2023 webs
 Collaborative benchmarking tasks should be submitted on the [cbt submission page](https://github.com/GenBench/genbench_cbt), an accompanying paper should be submitted through OpenReview.
 Regular workshop papers are submitted through OpenReview.
 
-~~Submission link: [https://openreview.net/group?id=GenBench.org/2023/Workshop](https://openreview.net/group?id=GenBench.org/2023/Workshop)~~ Submissions are now closed, except for ARR commitment submissions. Return to these instructions closer to the deadline (October 1st).
+~~Submission link: [https://openreview.net/group?id=GenBench.org/2023/Workshop](https://openreview.net/group?id=GenBench.org/2023/Workshop)~~ Submissions are now closed, except for ARR commitment submissions. Submit via [https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment](https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment) by October 1st.
 
 ## Dual submissions
 We allow dual submissions with both EMNLP and CoNLL, and we encourage relevant papers that were dual-submitted and accepted at EMNLP to redirect to a non-archival extended abstract submission. We furthermore welcome submissions of extended abstracts that describe work already presented at an earlier venue, both in the collaborative benchmarking and in the regular submission tracks.
