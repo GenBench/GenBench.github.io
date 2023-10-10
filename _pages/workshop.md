@@ -11,8 +11,7 @@ header:
 ---
 
 # News
-- After technical difficulties with the ARR submission, we extended the submission deadline to October 11!
-- ~~Our ARR commitment deadline has been extended to **October 1**!~~ Submissions can now be made via [this Openreview page](https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment).
+- After technical difficulties with the ARR submission, we extended the submission deadline to October 11! Submissions can now be made via [this Openreview page](https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment).
 - Would you like to submit to the Collaborative Benchmark Task, but you missed the August 1 sample deadline? Get in contact with us, you can still submit to the September 1 deadline!
 - The [CoNLL conference](https://conll.org/2023) now allows dual submissions with GenBench, and vice versa! Is your CoNLL submission a good fit with the GenBench mission but are you still waiting for your reviews? Also submit to GenBench! See our information about [dual submissions](https://genbench.org/workshop/#dual-submissions).
 - The Collaborative Benchmarking Task is now accepting submissions, see [genbench.org/cbt](https://genbench.org/cbt)!
@@ -29,7 +28,7 @@ The First GenBench workshop will be held at [EMNLP 2023](https://2023.emnlp.org/
 - ~~**September 1, 2023** – Paper submission deadline, submission link: [https://openreview.net/group?id=GenBench.org/2023/Workshop](https://openreview.net/group?id=GenBench.org/2023/Workshop)~~
 - ~~**September 15, 2023**~~ extended to **October 11** – ARR commitment deadline, submission link: [https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment](https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment)
 - ~~**October 6, 2023**~~ extended to **October 11** – Notification deadline
-- ~~**October 18, 2023**~~ extended to **October 26** – Camera ready deadline
+- **October 26** – Camera ready deadline
 - **December 6, 2023** – Workshop
 
 *Note: all deadlines are 11:59PM UTC-12:00*
