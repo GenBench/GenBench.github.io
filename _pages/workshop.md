@@ -26,9 +26,10 @@ The First GenBench workshop will be held at [EMNLP 2023](https://2023.emnlp.org/
 
 - ~~**August 1, 2023** – Sample data submission deadline~~
 - ~~**September 1, 2023** – Paper submission deadline, submission link: [https://openreview.net/group?id=GenBench.org/2023/Workshop](https://openreview.net/group?id=GenBench.org/2023/Workshop)~~
-- ~~**September 15, 2023**~~ extended to **October 11** – ARR commitment deadline, submission link: [https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment](https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment)
-- ~~**October 6, 2023**~~ extended to **October 11** – Notification deadline
-- **October 26** – Camera ready deadline
+- ~~**September 15, 2023**~~ extended to **October 11, 2023** – ARR commitment deadline, submission link: [https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment](https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment)
+- ~~**October 6, 2023**~~ extended to **October 11, 2023** – Notification deadline for direct submissions
+- **October 13, 2023** - Notification deadline for ARR submissions
+- **October 26, 2023** – Camera ready deadline
 - **December 6, 2023** – Workshop
 
 *Note: all deadlines are 11:59PM UTC-12:00*
