@@ -17,6 +17,7 @@ header:
 - The Collaborative Benchmarking Task is now accepting submissions, see [genbench.org/cbt](https://genbench.org/cbt)!
 - Exciting news: thanks to our sponsor Amazon, we can now offer [scholarships](https://genbench.org/workshop/#scholarships)!
 - Our [call for papers](../cfp.txt) is online! 
+- We are accepting the EMNLP Findings papers.
 
 # Venue
 
@@ -53,6 +54,8 @@ The workshop has two concrete goals:
 To reach out workshop goals, we welcome two different types of submissions: regular workshop submissions and collaborative benchmarking task submissions. 
 The latter will consist of a data/task artefact and a companion paper motivating and evaluating the submission. 
 In both cases, we accept archival papers and extended abstracts. 
+
+We accept all papers from the Findings of EMNLP related to our topics of interest below. Contact us via genbench@googlegroups.com if you would like to present your EMNLP Findings paper at GenBench 2023!
 
 ## Submission types
 
