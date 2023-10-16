@@ -125,7 +125,23 @@ Furthermore, we will add topics drawn from the workshop submissions, as well as 
 
 # Invited speakers
 
-To be announced soon!
+<b>Adina Williams</b>
+
+![Adina Williams Speaker](/img/speakers/adina.jpg){:width="300px"}
+
+Adina is a Research Scientist at Meta on the Fundamental AI Research (FAIR) team in NYC. Her research spans several topics in NLP and computational linguistics, with a focus on dataset creation and model evaluation for humanlikeness, fairness, generalization and robustness.
+
+<b>Tatsunori Hashimoto</b>
+
+![Tatsunori Hashimoto Speaker](/img/speakers/thashim.jpg){:width="300px"}
+
+Tatsunori Hashimoto is an Assistant Professor in the Computer Science Department at Stanford University. He is a member of the statistical machine learning and natural language processing groups at Stanford, and his research uses tools from statistics to make machine learning systems more robust and trustworthy — especially in complex systems such as large language models. He is a Kavli fellow, a Sony and Amazon research award winner, and his work has been recognized with best paper awards at ICML and CHI. Before becoming an Assistant Professor, he was a postdoctoral researcher at Stanford with Percy Liang and John Duchi and received his Ph.D. from MIT under the supervision of Tommi Jaakkola and David Gifford.
+
+<b>Anna Rogers</b>
+
+![Anna Rogers Speaker](/img/speakers/anna.jpg){:width="300px"}
+
+Dr. Anna Rogers is an assistant professor at IT University of Copenhagen working on analysis, interpretability, and evaluation of NLP models, their societal impact, and NLP research methodology.
 
 # Sponsors
 We would like to thank Amazon for sponsoring our workshop. 
