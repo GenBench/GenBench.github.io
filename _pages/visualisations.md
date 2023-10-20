@@ -29,16 +29,26 @@ We would happily provide you with visualisations through the interactive graphs 
 If you hover over the graphs, you can click on the 📸 (camera) or 💾 (save) icons to download them in `.png` format, or you can contact us for custom adaptations of these graphs (email us at <a href="mailto:genbench@googlegroups.com">genbench@googlegroups.com</a>).
 
 ```
-@article{hupkes2022taxonomy,
-  title = {State-of-the-art generalisation research in {NLP}: a taxonomy and review},
-  author = {Dieuwke Hupkes and Mario Giulianelli and Verna Dankers and Mikel Artetxe and Yanai Elazar and Tiago Pimentel and Christos Christodoulopoulos and Karim Lasri and Naomi Saphra and 
-    Arabella Sinclair and Dennis Ulmer and Florian Schottmann and Khuyagbaatar Batsuren and Kaiser Sun and Koustuv Sinha and Leila Khalatbari and Maria Ryskina and Rita Frieske and Ryan Cotterell and Zhijing Jin},
-  year = {2022},
-  journal = {CoRR},
-  url = {https://arxiv.org/abs/2210.03050},
-}
+@Article{Hupkes2023,
+  author={Hupkes, Dieuwke and Giulianelli, Mario and Dankers, Verna and Artetxe, Mikel and Elazar, Yanai 
+  and Pimentel, Tiago and Christodoulopoulos, Christos and Lasri, Karim and Saphra, Naomi and Sinclair, Arabella 
+  and Ulmer, Dennis and Schottmann, Florian and Batsuren, Khuyagbaatar and Sun, Kaiser and Sinha, Koustuv 
+  and Khalatbari, Leila and Ryskina, Maria and Frieske, Rita and Cotterell, Ryan and Jin, Zhijing},
+  title={A taxonomy and review of generalization research in NLP},
+  journal={Nature Machine Intelligence},
+  year={2023},
+  month={Oct},
+  day={01},
+  volume={5},
+  number={10},
+  pages={1161-1174},
+  abstract={The ability to generalize well is one of the primary desiderata for models of natural language processing (NLP), but what `good generalization' entails and how it should be evaluated is not well understood. In this Analysis we present a taxonomy for characterizing and understanding generalization research in NLP. The proposed taxonomy is based on an extensive literature review and contains five axes along which generalization studies can differ: their main motivation, the type of generalization they aim to solve, the type of data shift they consider, the source by which this data shift originated, and the locus of the shift within the NLP modelling pipeline. We use our taxonomy to classify over 700 experiments, and we use the results to present an in-depth analysis that maps out the current state of generalization research in NLP and make recommendations for which areas deserve attention in the future.},
+  issn={2522-5839},
+  doi={10.1038/s42256-023-00729-y},
+  url={https://doi.org/10.1038/s42256-023-00729-y}
+  }
 ```
-[Download bib entry](../hupkes2022taxonomy.bib)
+[Download bib entry](../hupkes2023taxonomy.bib)
 
 ## Explore visualisations
 
