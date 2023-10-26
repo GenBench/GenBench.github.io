@@ -11,6 +11,7 @@ header:
 ---
 
 # News
+- The camera-ready deadline is coming up: October 26. You can use 1 extra page (max. 9) to integrate the reviewers' comments.
 - We are accepting EMNLP Findings papers with a good fit, please reach out via email (genbench@googlegroups.com) for instructions.
 - After technical difficulties with the ARR submission, we extended the submission deadline to October 11! Submissions can now be made via [this Openreview page](https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment).
 - Would you like to submit to the Collaborative Benchmark Task, but you missed the August 1 sample deadline? Get in contact with us, you can still submit to the September 1 deadline!
@@ -28,9 +29,9 @@ The First GenBench workshop will be held at [EMNLP 2023](https://2023.emnlp.org/
 - ~~**August 1, 2023** – Sample data submission deadline~~
 - ~~**September 1, 2023** – Paper submission deadline, submission link: [https://openreview.net/group?id=GenBench.org/2023/Workshop](https://openreview.net/group?id=GenBench.org/2023/Workshop)~~
 - ~~**September 15, 2023**~~ extended to **October 11, 2023** – ARR commitment deadline, submission link: [https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment](https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment)
-- ~~**October 6, 2023**~~ extended to **October 11, 2023** – Notification deadline for direct submissions
-- **October 13, 2023** - Notification deadline for ARR submissions
-- **October 26, 2023** – Camera ready deadline
+- ~~**October 6, 2023** extended to **October 11, 2023** – Notification deadline for direct submissions~~
+- ~~**October 13, 2023** - Notification deadline for ARR submissions~~
+- **October 26, 2023** – Camera-ready deadline (you can use up to 9 pages for your camera-ready paper!)
 - **December 6, 2023** – Workshop
 
 *Note: all deadlines are 11:59PM UTC-12:00*
