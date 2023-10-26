@@ -21,7 +21,7 @@ header:
 On this page you can view the results of our review, which contains [taxonomy](/taxonomy) annotations of more than 400 \*ACL papers.
 If you would like to contribute annotations for your paper or (new) papers you think are missing, please [contribute](/contribute).
 You can view the entries considered for our review on our [references page](/references).
-If you are curious about our conclusions based on these results, have a look at the results section of our [paper](https://arxiv.org/abs/2210.03050)!
+If you are curious about our conclusions based on these results, have a look at the results section of our [paper](https://www.nature.com/articles/s42256-023-00729-y)!
 
 ## In need of visualisations for your paper?
 Are you writing a paper about generalisation in NLP and would you like to motivate your work with some graphics?
