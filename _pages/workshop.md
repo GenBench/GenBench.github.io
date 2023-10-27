@@ -56,7 +56,7 @@ To reach out workshop goals, we welcome two different types of submissions: regu
 The latter will consist of a data/task artefact and a companion paper motivating and evaluating the submission. 
 In both cases, we accept archival papers and extended abstracts. 
 
-We accept all papers from the Findings of EMNLP related to our topics of interest below. Contact us via genbench@googlegroups.com if you would like to present your EMNLP Findings paper at GenBench 2023!
+Closed: ~~We accept all papers from the Findings of EMNLP related to our topics of interest below. Contact us via genbench@googlegroups.com if you would like to present your EMNLP Findings paper at GenBench 2023!~~
 
 ## Submission types
 
