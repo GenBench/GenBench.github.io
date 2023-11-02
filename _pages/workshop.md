@@ -175,6 +175,44 @@ To submit your application, please send us an email (genbench@googlegroups.com) 
 <b>Elia Bruni</b> is a professor of Natural Language Processing at the University of Osnabrück. 
 His research focuses on deep learning for natural language processing and he is particularly interested in assessing the ability of neural networks to process language compositionally. 
 
+# Program Committee
+
+Lisa Beinborn, Vrije Universiteit Amsterdam <br/>
+Jonathan Brophy, University of Oregon <br/>
+Lisa Bylinina, University of Groningen<br/> 
+Benoit Crabbé, Université de Paris<br/>
+Ghazi Felhi, University Paris 13<br/>
+Robert Frank, Yale University<br/>
+Mario Giulianelli, University of Amsterdam<br/>
+Yangfeng Ji, University of Virginia<br/>
+Robin Jia, University of Southern California<br/>
+Richard Johansson, Chalmers University<br/>
+Jenny Kunz, Linköping University<br/>
+Carolin Lawrence, NEC Laboratories Europe<br/>
+Alessandro Lenci, University of Pisa<br/>
+Sheng Liang, Ludwig-Maximilians-Universität München<br/>
+Tomasz Limisiewicz, Charles University Prague<br/>
+Matthias Lindemann, University of Edinburgh<br/>
+R. Thomas McCoy, Princeton University<br/>
+William Merrill, New York University<br/>
+Anmol Nayak, Bosch<br/>
+Joakim Nivre, Uppsala University<br/>
+Maria Ryskina, Massachusetts Institute of Technology<br/>
+Niladri S. Chatterji, Stanford University<br/>
+Hendrik Schuff, Technische Universität Darmstadt<br/>
+Rico Sennrich, University of Zurich<br/>
+Mattia Setzu, University of Pisa
+Sanchit Sinha, University of Virginia<br/>
+Shane Steinert-Threlkeld, University of Washington<br/>
+Aarne Talman, Basement AI<br/>
+Oskar van der Wal, University of Amsterdam<br/>
+Alex Warstadt, New York University<br/>
+Hao Yang, Beijing University of Post and Telecommunication<br/>
+Naoki Yoshinaga, the University of Tokyo<br/>
+Dylan Z Slack, University of California, Irvine<br/>
+Sheng Zhang, Amazon<br/>
+Yichu Zhou, Yahoo<br/>
+
 # Anti-Harassment Policy
 GenBench adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
 
