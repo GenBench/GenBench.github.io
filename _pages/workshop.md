@@ -201,7 +201,7 @@ Maria Ryskina, Massachusetts Institute of Technology<br/>
 Niladri S. Chatterji, Stanford University<br/>
 Hendrik Schuff, Technische Universität Darmstadt<br/>
 Rico Sennrich, University of Zurich<br/>
-Mattia Setzu, University of Pisa
+Mattia Setzu, University of Pisa<br/>
 Sanchit Sinha, University of Virginia<br/>
 Shane Steinert-Threlkeld, University of Washington<br/>
 Aarne Talman, Basement AI<br/>
