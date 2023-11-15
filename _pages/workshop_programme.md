@@ -25,13 +25,14 @@ Note that all time slots listed below are in Singapore Standard Time (GMT+8), an
 
 
 ### <span style="color:grey">10-11:15 AM —</span> Poster session 1
+<!---
 <details>
 <summary>Click to toggle an overview of the posters that will be presented in this session.</summary>
 <ul>
   <li>This is a test. The titles and authors will be inserted when the selection is complete.</li>
 </ul>
 </details>
-
+--->
 ### <span style="color:grey">10:30-11 AM —</span> Plenary coffee break
 ### <span style="color:grey">11:15 AM-12:00 PM —</span>  Keynote 2, by Anna Rogers
 ![Anna Rogers Speaker](/img/speakers/anna.jpg){:width="150px"}
@@ -79,12 +80,14 @@ Note that all time slots listed below are in Singapore Standard Time (GMT+8), an
 
 ### <span style="color:grey">3:30PM-4PM —</span> Plenary coffee break
 ### <span style="color:grey">4:00PM-5PM —</span> Poster session 2 (hybrid)
+<!---
 <details>
 <summary>Click to toggle an overview of the posters that will be presented in this session.</summary>
 <ul>
   <li>This is a test. The titles and authors will be inserted when the selection is complete.</li>
 </ul>
 </details>
+--->
 
 ### <span style="color:grey">5PM-5:30PM —</span> Pannel
 ### <span style="color:grey">5:30PM-5:45PM —</span> Closing remarks and best paper award
