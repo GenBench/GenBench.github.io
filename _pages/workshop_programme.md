@@ -1,6 +1,6 @@
 ---
 permalink: /workshop_programme/
-title: "GenBench workshop"
+title: "Workshop programme"
 toc: false
 author_profile: false
 layout: single_wide
