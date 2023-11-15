@@ -55,9 +55,6 @@ Note that all time slots listed below are in Singapore Standard Time (GMT+8), an
 - <b>Title:</b> Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models<br>
 <b>Authors:</b> Jirui Qi, Raquel Fernández, Arianna Bisazza
 
-- <b>Title:</b> Fighting Bias with Bias: Promoting Model Robustness by Amplifying Dataset Biases<br>
-<b>Authors:</b> Yuval Reif, Roy Schwartz
-
 ## <span style="color:grey"> 12:30-2 PM —</span> Lunch break
 
 ## Afternoon programme
