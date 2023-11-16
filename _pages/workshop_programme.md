@@ -146,28 +146,28 @@ Note that all time slots listed below are in Singapore Standard Time (GMT+8), an
 <b>Title:</b> Evaluation after the LLM boom: frustrations, fallacies, and the future
 
 ### <span style="color:grey">12:00-12:30 PM —</span> CBT spotlights
-- <b>GenCodeSearchNet: A Benchmark Test Suite for Evaluating Generalization in Programming Language Understanding </b> <br>
+- <b><span style="color:grey">12:00-12:08 PM — </span> GenCodeSearchNet: A Benchmark Test Suite for Evaluating Generalization in Programming Language Understanding </b> <br>
 Andor Diera, Abdelhalim Dahou, Lukas Galke, Fabian Karl, Ansgar Scherp
 
-- <b>Latent Feature-based Data Splits to Improve Generalisation Evaluation: A Hate Speech Detection Case Study</b> <br>
+- <b><span style="color:grey">12:08-12:15 PM — </span> Latent Feature-based Data Splits to Improve Generalisation Evaluation: A Hate Speech Detection Case Study</b> <br>
 Maike Züfle, Verna Dankers, Ivan Titov
 
-- <b>On using distribution-based compositionality assessment to evaluate compositional generalisation in machine translation</b> <br>
+- <b><span style="color:grey">12:15-12:23 PM — </span> On using distribution-based compositionality assessment to evaluate compositional generalisation in machine translation</b> <br>
 Anssi Moisio, Mathias Creutz, Mikko Kurimo
 
-- <b>Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models</b> <br>
+- <b><span style="color:grey">12:23-12:30 PM — </span> Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models</b> <br>
 Jirui Qi, Raquel Fernández, Arianna Bisazza
 
-## <span style="color:grey"> 12:30-2 PM —</span> Lunch break
+## <span style="color:grey"> 12:30-14:00 PM —</span> Lunch break
 
 ## Afternoon programme
-### <span style="color:grey">2PM-2:45PM —</span> Keynote 3, by Tatsunori Hashimoto
+### <span style="color:grey">14:00-14:45 PM —</span> Keynote 3, by Tatsunori Hashimoto
 ![Tatsunori Hashimoto Speaker](/img/speakers/thashim.jpg){:width="150px"}
 > <b>Title:</b> Understanding generalization for instruction following and black-box language models
 > 
 > <b>Abstract:</b> Instruction following language models have shown a remarkable ability to perform a wide range of tasks with little to no additional training data. Do these abilities come from a revolution in pre-training and instruction-following, or are there other more mundane explanations for how these models work? In this talk, I will discuss our efforts to answer these questions by replicating instruction-following models that generalize across tasks, studying the consistency of these models across different task formats, and building tests for benchmark contamination in pretraining.
 
-### <span style="color:grey">2:45PM-3:30PM —</span> Oral presentations
+### <span style="color:grey">14:45-15:30 PM —</span> Oral presentations
 
 - <b>Title:</b> Evaluating Neural Language Models as Cognitive Models of Language Acquisition<br>
 <b>Authors:</b> Hector Javier Vazquez Martinez, Annika Lea Heuser, Charles Yang, Jordan Kodner
@@ -179,8 +179,8 @@ Jirui Qi, Raquel Fernández, Arianna Bisazza
 <b>Authors:</b> Parinthapat Pengpun, Can Udomcharoenchaikit, Weerayut Buaphet, Peerat Limkonchotiwat
 
 
-### <span style="color:grey">3:30PM-4PM —</span> Coffee break
-### <span style="color:grey">4:00PM-5PM —</span> Poster session 2 (hybrid)
+### <span style="color:grey">15:30-16:00 PM —</span> Coffee break
+### <span style="color:grey">16:00-17:00 PM —</span> Poster session 2 (hybrid)
 <!---
 <details>
 <summary>Click to toggle an overview of the posters that will be presented in this session.</summary>
@@ -190,6 +190,6 @@ Jirui Qi, Raquel Fernández, Arianna Bisazza
 </details>
 --->
 
-### <span style="color:grey">5PM-5:30PM —</span> Pannel
-### <span style="color:grey">5:30PM-5:45PM —</span> Closing remarks and best paper award
+### <span style="color:grey">17:00-17:30PM —</span> Pannel
+### <span style="color:grey">17:30-17:45PM —</span> Closing remarks and best paper award
 
