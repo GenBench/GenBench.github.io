@@ -16,8 +16,8 @@ Note that all time slots listed below are in Singapore Standard Time (GMT+8), an
 
 ## Morning programme
 
-### <span style="color:grey">9-9:15 AM —</span> Opening remarks
-### <span style="color:grey">9:15-10 AM —</span> Keynote 1, by Anna Rogers
+### <span style="color:grey">09:00-09:15 AM —</span> Opening remarks
+### <span style="color:grey">09:15-10:00 AM —</span> Keynote 1, by Anna Rogers
 ![Anna Rogers Speaker](/img/speakers/anna.jpg){:width="150px"}
 
 > <b>Title:</b> A sanity check on emergent properties
@@ -25,17 +25,25 @@ Note that all time slots listed below are in Singapore Standard Time (GMT+8), an
 > <b>Abstract:</b> One of the frequent points in the mainstream narrative about large language models is that they have "emergent properties" (sometimes even dangerous enough to be considered existential risk to mankind). However, there is much disagreement about even the very definition of such properties. If they are understood as a kind of generalization beyond training data - as something that a model does without being explicitly trained for it - I argue that we have not in fact established the existence of any such properties, and at the moment we do not even have the methodology for doing so.
 
 
-### <span style="color:grey">10-11:15 AM —</span> Poster session 1
-<!---
+### <span style="color:grey">10:00-11:15 AM —</span> Poster session 1
+
 <details>
 <summary>Click to toggle an overview of the posters that will be presented in this session.</summary>
 <ul>
-  <li>This is a test. The titles and authors will be inserted when the selection is complete.</li>
+  <li>
+      <b>Title:</b> Temporal Generalizability in Multimodal Misinformation Detection<br>
+      <b>Authors:</b> Nataliya Stepanova and Björn Ross
+  </li>
+  <li>
+      <b>Title:</b> Robust Generalization Strategies for Morpheme Glossing in an Endangered Language Documentation Context<br>
+      <b>Authors:</b> Michael Ginn and Alexis Palmer
+  </li>
 </ul>
 </details>
---->
-### <span style="color:grey">10:30-11 AM —</span> Plenary coffee break
-### <span style="color:grey">11:15 AM-12:00 PM —</span>  Keynote 2, by Adina Williams
+
+
+### <span style="color:grey">10:30-11:00 AM —</span> Plenary coffee break
+### <span style="color:grey">11:15-12:00 PM —</span>  Keynote 2, by Adina Williams
 ![Adina Williams Speaker](/img/speakers/adina.jpg){:width="150px"}
 <b>Title:</b> Evaluation after the LLM boom: frustrations, fallacies, and the future
 
