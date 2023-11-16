@@ -27,8 +27,8 @@ Note that all time slots listed below are in Singapore Standard Time (GMT+8), an
 
 ### <span style="color:grey">10:00-11:15 AM —</span> Poster session 1
 
-<details>
-<summary>Click to toggle an overview of the posters that will be presented in this session.</summary>
+<!-- <details> -->
+<!-- <summary>Click to toggle an overview of the posters that will be presented in this session.</summary> -->
 <ul>
   <li>
       <b>Temporal Generalizability in Multimodal Misinformation Detection</b> <br>
@@ -137,7 +137,7 @@ Note that all time slots listed below are in Singapore Standard Time (GMT+8), an
   
   
 </ul>
-</details>
+<!-- </details> -->
 
 
 ### <span style="color:grey">10:30-11:00 AM —</span> Coffee break
