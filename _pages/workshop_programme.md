@@ -31,107 +31,107 @@ Note that all time slots listed below are in Singapore Standard Time (GMT+8), an
 <!-- <summary>Click to toggle an overview of the posters that will be presented in this session.</summary> -->
 <ul>
   <li>
-      <b>Temporal Generalizability in Multimodal Misinformation Detection</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> Temporal Generalizability in Multimodal Misinformation Detection</b> <br>
       Nataliya Stepanova and Björn Ross
   </li>
   <li>
-      <b>Robust Generalization Strategies for Morpheme Glossing in an Endangered Language Documentation Context</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> Robust Generalization Strategies for Morpheme Glossing in an Endangered Language Documentation Context</b> <br>
       Michael Ginn and Alexis Palmer
   </li>
   <li>
-      <b>Syntax-Guided Transformers: Elevating Compositional Generalization and Grounding in Multimodal Environments</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> Syntax-Guided Transformers: Elevating Compositional Generalization and Grounding in Multimodal Environments</b> <br>
       Danial Kamali and Parisa Kordjamshidi
   </li>
   <li>
-      <b>Inductive Bias Is in the Eye of the Beholder</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> Inductive Bias Is in the Eye of the Beholder</b> <br>
       Michael Wilson and Robert Frank
   </li>
   <li>
-      <b>On using distribution-based compositionality assessment to evaluate compositional generalisation in machine translation</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> On using distribution-based compositionality assessment to evaluate compositional generalisation in machine translation</b> <br>
       Anssi Moisio, Mathias Creutz, and Mikko Kurimo
   </li>
   <li>
-      <b>The ICL consistency test</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> The ICL consistency test</b> <br>
       Lucas Weber, Elia Bruni, and Dieuwke Hupkes
   </li>
   <li>
-      <b>Generalizability and Robustness of Large Language Models Detecting Alzheimer’s Disease from Speech</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> Generalizability and Robustness of Large Language Models Detecting Alzheimer’s Disease from Speech</b> <br>
       Jekaterina Novikova
   </li>
   <li>
-      <b>Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models</b> <br>
       Jirui Qi, Raquel Fernández, and Arianna Bisazza
   </li>
   <li>
-      <b>The Validity of Evaluation Results: Assessing Concurrence Across Compositionality Benchmarks</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> The Validity of Evaluation Results: Assessing Concurrence Across Compositionality Benchmarks</b> <br>
       Kaiser Sun, Adina Williams, and Dieuwke Hupkes
   </li>
   <li>
-      <b>Subword Segmental Machine Translation: Unifying Segmentation and Target Sentence Generation</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> Subword Segmental Machine Translation: Unifying Segmentation and Target Sentence Generation</b> <br>
       Francois Meyer and Jan Buys
   </li>
   <li>
-      <b>The language of prompting: What linguistic properties make a prompt successful?</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> The language of prompting: What linguistic properties make a prompt successful?</b> <br>
       Alina Leidinger, Robert Van Rooij, and Ekaterina Shutova
   </li>
   <li>
-      <b>IRFL: Image Recognition of Figurative Language</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> IRFL: Image Recognition of Figurative Language</b> <br>
      Ron Yosef, Yonatan Bitton, and Dafna Shahaf
   </li>
   <li>
-      <b>Three Questions Concerning the Use of Large Language Models to Facilitate Mathematics Learning</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> Three Questions Concerning the Use of Large Language Models to Facilitate Mathematics Learning</b> <br>
       An-Zi Yen and Wei-Ling Hsu
   </li>
   <li>
-      <b>mReFinED: An Efficient End-to-End Multilingual Entity Linking System</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> mReFinED: An Efficient End-to-End Multilingual Entity Linking System</b> <br>
       Peerat Limkonchotiwat, Weiwei Cheng, Christos Christodoulopoulos, Amir Saffari, and Jens Lehmann
   </li>
   <li>
-      <b>Noisy Self-Training with Synthetic Queries for Dense Retrieval</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> Noisy Self-Training with Synthetic Queries for Dense Retrieval</b> <br>
       Fan Jiang, Tom Drummond, and Trevor Cohn
   </li>
   <li>
-      <b>Walking a Tightrope -- Evaluating Large Language Models in High-Risk Domains</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> Walking a Tightrope -- Evaluating Large Language Models in High-Risk Domains</b> <br>
       Chia-Chien Hung, Wiem Ben Rim, Lindsay Frost, Lars Bruckner, and Carolin Lawrence
   </li>
   <li>
-      <b>Viewing Knowledge Transfer in Multilingual Machine Translation Through a Representational Lens</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> Viewing Knowledge Transfer in Multilingual Machine Translation Through a Representational Lens</b> <br>
       David Stap, Vlad Niculae, and Christof Monz
   </li>
   <li>
-      <b>FinePrompt: Unveiling the Role of Finetuned Inductive Bias on Compositional Reasoning in GPT-4</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> FinePrompt: Unveiling the Role of Finetuned Inductive Bias on Compositional Reasoning in GPT-4</b> <br>
      Jeonghwan Kim, Giwon Hong, Sung-Hyon Myaeng, and Joyce Jiyoung Whang
   </li>
   <li>
-      <b>Quantifying the Dialect Gap in Large Language Models and its Causes Across Languages</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> Quantifying the Dialect Gap in Large Language Models and its Causes Across Languages</b> <br>
       Anjali Kantharuban, Ivan Vulić, and Anna Korhonen
   </li>
   <li>
-      <b>How Predictable Are Large Language Model Capabilities? A Case Study on BIG-bench</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> How Predictable Are Large Language Model Capabilities? A Case Study on BIG-bench</b> <br>
       Qinyuan Ye, Harvey Yiyun Fu, Xiang Ren, and Robin Jia
   </li>
   <li>
-      <b>Harnessing Dataset Cartography for Improved Compositional Generalization in Transformers</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> Harnessing Dataset Cartography for Improved Compositional Generalization in Transformers</b> <br>
       Osman Batur İnce, Tanin Zeraati, Semih Yagcioglu, Yadollah Yaghoobzadeh, Erkut Erdem, and Aykut Erdem
   </li>
   <li>
-      <b>Are Structural Concepts Universal in Transformer Language Models? Towards Interpretable Cross-Lingual Generalization</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> Are Structural Concepts Universal in Transformer Language Models? Towards Interpretable Cross-Lingual Generalization</b> <br>
       Ningyu Xu, Qi Zhang, Jingting Ye, Menghan Zhang, and Xuanjing Huang
   </li>
   <li>
-      <b>Test-Time Self-Adaptive Small Language Models for Question Answering</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> Test-Time Self-Adaptive Small Language Models for Question Answering</b> <br>
      Soyeong Jeong, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, and Jong C. Park
   </li>
   <li>
-      <b>Estimating Large Language Model Capabilities without Labeled Test Data</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> Estimating Large Language Model Capabilities without Labeled Test Data</b> <br>
      Harvey Yiyun Fu, Qinyuan Ye, Albert Xu, Xiang Ren, and Robin Jia
   </li>
   <li>
-      <b>The Less the Merrier? Investigating Language Representation in Multilingual Models</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> The Less the Merrier? Investigating Language Representation in Multilingual Models</b> <br>
      Hellina Hailu Nigatu, Atnafu Lambebo Tonja, and Jugal Kalita
   </li>
   <li>
-      <b>Test-time Augmentation for Factual Probing</b> <br>
+      <b><span style="color:grey">10:00-11:15 AM — </span> Test-time Augmentation for Factual Probing</b> <br>
      Go Kamoda, Benjamin Heinzerling, Keisuke Sakaguchi, and Kentaro Inui
   </li>
   
@@ -169,14 +169,14 @@ Jirui Qi, Raquel Fernández, Arianna Bisazza
 
 ### <span style="color:grey">14:45-15:30 PM —</span> Oral presentations
 
-- <b>Title:</b> Evaluating Neural Language Models as Cognitive Models of Language Acquisition<br>
-<b>Authors:</b> Hector Javier Vazquez Martinez, Annika Lea Heuser, Charles Yang, Jordan Kodner
+- <b><span style="color:grey">14:45-15:00 PM — </span> Evaluating Neural Language Models as Cognitive Models of Language Acquisition</b><br>
+Hector Javier Vazquez Martinez, Annika Lea Heuser, Charles Yang, Jordan Kodner
 
-- <b>Title:</b> Understanding Code Semantics: An Evaluation of Transformer Models in Summarization<br>
-<b>Authors:</b> Debanjan Mondal, Abhilasha Lodha, Ankita Sahoo, Beena Kumari
+- <b><span style="color:grey">15:00-15:15 PM — </span> Understanding Code Semantics: An Evaluation of Transformer Models in Summarization</b><br>
+Debanjan Mondal, Abhilasha Lodha, Ankita Sahoo, Beena Kumari
 
-- <b>Title:</b> Cross-Lingual Data Augmentation For Thai Question-Answering<br>
-<b>Authors:</b> Parinthapat Pengpun, Can Udomcharoenchaikit, Weerayut Buaphet, Peerat Limkonchotiwat
+- <b><span style="color:grey">15:00-15:15 PM — </span> Cross-Lingual Data Augmentation For Thai Question-Answering</b><br>
+Parinthapat Pengpun, Can Udomcharoenchaikit, Weerayut Buaphet, Peerat Limkonchotiwat
 
 
 ### <span style="color:grey">15:30-16:00 PM —</span> Coffee break
