@@ -122,18 +122,7 @@ Note that all time slots listed below are in Singapore Standard Time (GMT+8), an
       <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Test-Time Self-Adaptive Small Language Models for Question Answering</b> <br>
      Soyeong Jeong, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, and Jong C. Park
   </li>
-  <li>
-      <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Estimating Large Language Model Capabilities without Labeled Test Data</b> <br>
-     Harvey Yiyun Fu, Qinyuan Ye, Albert Xu, Xiang Ren, and Robin Jia
-  </li>
-  <li>
-      <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>The Less the Merrier? Investigating Language Representation in Multilingual Models</b> <br>
-     Hellina Hailu Nigatu, Atnafu Lambebo Tonja, and Jugal Kalita
-  </li>
-  <li>
-      <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Test-time Augmentation for Factual Probing</b> <br>
-     Go Kamoda, Benjamin Heinzerling, Keisuke Sakaguchi, and Kentaro Inui
-  </li>
+
   
   
 </ul>
@@ -193,7 +182,6 @@ Parinthapat Pengpun, Can Udomcharoenchaikit, Weerayut Buaphet, Peerat Limkonchot
   <li> <span style="color:#ffffff; background-color: #74849c; border-radius:4px; padding:3px">GenBench CBT</span> <b>Blackbird Language Matrices Tasks for Generalization </b><br> Paola Merlo, Chunyang Jiang, Giuseppe Samo, Vivi Nastase</li>
   <li> <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b>In-Context Learning for Text Classification with Many Labels </b><br> Aristides Milios, Siva Reddy, Dzmitry Bahdanau</li>
   <li> <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <b>Shifted PAUQ: Distribution shift in text-to-SQL </b><br> Oleg Somov, Elena Tutubalina</li>
-  <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Impact of Co-occurrence on Factual Knowledge of Large Language Models </b><br> Cheongwoong Kang, Jaesik Choi</li>
   <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>USB: A Unified Summarization Benchmark Across Tasks and Domains </b><br> Kundan Krishna, Prakhar Gupta, Sanjana Ramprasad, Byron C Wallace, Jeffrey P. Bigham, Zachary Chase Lipton</li>
   <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Effects of Human Adversarial and Affable Samples on BERT Generalizability </b><br> Aparna Elangovan, Jiayuan He, Yuan Li, Karin Verspoor</li>
   <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Generalizing Few-Shot Named Entity Recognizers to Unseen Domains with Type-Related Features </b><br> Zihan Wang, Ziqi Zhao, Zhumin Chen, Pengjie Ren, Maarten de Rijke, Zhaochun Ren</li>
@@ -202,13 +190,16 @@ Parinthapat Pengpun, Can Udomcharoenchaikit, Weerayut Buaphet, Peerat Limkonchot
   <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>ChatGPT Beyond English: Towards a Comprehensive Evaluation of Large Language Models in Multilingual Learning </b><br> Viet Dac Lai, Nghia Trung Ngo, Amir Pouran Ben Veyseh, Hieu Man, Franck Dernoncourt, Trung Bui, Thien Huu Nguyen</li>
   <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>XTREME-UP: A User-Centric Scarce-Data Benchmark for Under-Represented Languages </b><br> Sebastian Ruder, Jonathan H. Clark, Alexander Gutkin, Mihir Kale, Min Ma, Massimo Nicosia, Shruti Rijhwani, Parker Riley et al.</li>
   <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Orca: A Few-shot Benchmark for Chinese Conversational Machine Reading Comprehension </b><br> Nuo Chen, Hongguang Li, Junqing He, Yinan Bao, Xinshi Lin, Qi Yang, Jianfeng Liu, Ruyi Gan et al.</li>
-  <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Large Language Models' Generalization Ability Makes It a Good Source for Clinical Data Creation </b><br> Rumeng Li, Xun Wang, Hong Yu</li>
-  <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>HeQ: a Large and Diverse Hebrew Reading Comprehension Benchmark </b><br> Amir David Nissan Cohen, Hilla Merhav-Fine, Yoav Goldberg, Reut Tsarfaty</li>
-  <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>InstructExcel: A Benchmark for Natural Language Instruction in Excel </b><br> Justin Payan, Swaroop Mishra, Mukul Singh, Carina Suzana Negreanu, Christian Poelitz, Chitta Baral, Subhro Roy, Rasika Chakravarthy et al.</li>
   <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>KG-GPT: A General Framework for Reasoning on Knowledge Graphs Using Large Language Models </b><br> Jiho Kim, Yeonsu Kwon,  Yohan Jo, Edward Choi</li>
   <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>PAXQA: Generating Cross-lingual Question Answering Examples at Training Scale </b><br> Bryan Li, Chris Callison-Burch</li>
   <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Towards General Error Diagnosis via Behavioral Testing in Machine Translation </b><br> Junjie Wu, Lemao Liu, Dit-Yan Yeung</li>
   <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Boot and Switch: Alternating Distillation for Zero-Shot Dense Retrieval </b><br> Fan Jiang, Qiongkai Xu, Tom Drummond, Trevor Cohn</li>
+  <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Estimating Large Language Model Capabilities without Labeled Test Data</b> <br>
+     Harvey Yiyun Fu, Qinyuan Ye, Albert Xu, Xiang Ren, and Robin Jia</li>
+  <li><span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>The Less the Merrier? Investigating Language Representation in Multilingual Models</b> <br>
+     Hellina Hailu Nigatu, Atnafu Lambebo Tonja, and Jugal Kalita</li>
+  <li><span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Test-time Augmentation for Factual Probing</b> <br>
+     Go Kamoda, Benjamin Heinzerling, Keisuke Sakaguchi, and Kentaro Inui</li>
 </ul>
 </details>
 
