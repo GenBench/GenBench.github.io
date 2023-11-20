@@ -118,7 +118,10 @@ Note that all time slots listed below are in Singapore Standard Time (GMT+8), an
       <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Test-Time Self-Adaptive Small Language Models for Question Answering</b> <br>
      Soyeong Jeong, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, and Jong C. Park
   </li>
-
+  <li><span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>The Less the Merrier? Investigating Language Representation in Multilingual Models</b> <br>
+     Hellina Hailu Nigatu, Atnafu Lambebo Tonja, and Jugal Kalita</li>
+  <li><span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Test-time Augmentation for Factual Probing</b> <br>
+     Go Kamoda, Benjamin Heinzerling, Keisuke Sakaguchi, and Kentaro Inui</li>
   
   
 </ul>
@@ -192,10 +195,9 @@ Parinthapat Pengpun, Can Udomcharoenchaikit, Weerayut Buaphet, Peerat Limkonchot
   <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Boot and Switch: Alternating Distillation for Zero-Shot Dense Retrieval </b><br> Fan Jiang, Qiongkai Xu, Tom Drummond, Trevor Cohn</li>
   <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Estimating Large Language Model Capabilities without Labeled Test Data</b> <br>
      Harvey Yiyun Fu, Qinyuan Ye, Albert Xu, Xiang Ren, and Robin Jia</li>
-  <li><span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>The Less the Merrier? Investigating Language Representation in Multilingual Models</b> <br>
-     Hellina Hailu Nigatu, Atnafu Lambebo Tonja, and Jugal Kalita</li>
-  <li><span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Test-time Augmentation for Factual Probing</b> <br>
-     Go Kamoda, Benjamin Heinzerling, Keisuke Sakaguchi, and Kentaro Inui</li>
+  <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>InstructExcel: A Benchmark for Natural Language Instruction in Excel </b><br> Justin Payan, Swaroop Mishra, Mukul Singh, Carina Suzana Negreanu, Christian Poelitz, Chitta Baral, Subhro Roy, Rasika Chakravarthy et al.</li>
+  <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Large Language Models' Generalization Ability Makes It a Good Source for Clinical Data Creation </b><br> Rumeng Li, Xun Wang, Hong Yu</li>
+
 </ul>
 </details>
 
