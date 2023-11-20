@@ -99,10 +99,6 @@ Note that all time slots listed below are in Singapore Standard Time (GMT+8), an
       David Stap, Vlad Niculae, and Christof Monz
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>FinePrompt: Unveiling the Role of Finetuned Inductive Bias on Compositional Reasoning in GPT-4</b> <br>
-     Jeonghwan Kim, Giwon Hong, Sung-Hyon Myaeng, and Joyce Jiyoung Whang
-  </li>
-  <li>
       <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Quantifying the Dialect Gap in Large Language Models and its Causes Across Languages</b> <br>
       Anjali Kantharuban, Ivan Vulić, and Anna Korhonen
   </li>
