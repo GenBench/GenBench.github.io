@@ -91,7 +91,7 @@ Note that all time slots listed below are in Singapore Standard Time (GMT+8), an
       Peerat Limkonchotiwat, Weiwei Cheng, Christos Christodoulopoulos, Amir Saffari, and Jens Lehmann
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b></b>Noisy Self-Training with Synthetic Queries for Dense Retrieval</b> <br>
+      <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Noisy Self-Training with Synthetic Queries for Dense Retrieval</b> <br>
       Fan Jiang, Tom Drummond, and Trevor Cohn
   </li>
   <li>
