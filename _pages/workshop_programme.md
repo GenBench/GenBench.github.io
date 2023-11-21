@@ -197,6 +197,7 @@ Parinthapat Pengpun, Can Udomcharoenchaikit, Weerayut Buaphet, Peerat Limkonchot
      Harvey Yiyun Fu, Qinyuan Ye, Albert Xu, Xiang Ren, and Robin Jia</li>
   <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>InstructExcel: A Benchmark for Natural Language Instruction in Excel </b><br> Justin Payan, Swaroop Mishra, Mukul Singh, Carina Suzana Negreanu, Christian Poelitz, Chitta Baral, Subhro Roy, Rasika Chakravarthy et al.</li>
   <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Large Language Models' Generalization Ability Makes It a Good Source for Clinical Data Creation </b><br> Rumeng Li, Xun Wang, Hong Yu</li>
+  <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>HeQ: a Large and Diverse Hebrew Reading Comprehension Benchmark </b><br> Amir David Nissan Cohen, Hilla Merhav-Fine, Yoav Goldberg, Reut Tsarfaty</li>
 
 </ul>
 </details>
