@@ -163,7 +163,7 @@ Hector Javier Vazquez Martinez, Annika Lea Heuser, Charles Yang, Jordan Kodner
 - <b><span style="color:grey">15:00-15:15 PM — </span> Understanding Code Semantics: An Evaluation of Transformer Models in Summarization</b><br>
 Debanjan Mondal, Abhilasha Lodha, Ankita Sahoo, Beena Kumari
 
-- <b><span style="color:grey">15:00-15:15 PM — </span> Cross-Lingual Data Augmentation For Thai Question-Answering</b><br>
+- <b><span style="color:grey">15:15-15:30 PM — </span> Cross-Lingual Data Augmentation For Thai Question-Answering</b><br>
 Parinthapat Pengpun, Can Udomcharoenchaikit, Weerayut Buaphet, Peerat Limkonchotiwat
 
 
