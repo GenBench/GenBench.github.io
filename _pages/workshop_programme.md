@@ -122,8 +122,6 @@ Note that all time slots listed below are in Singapore Standard Time (GMT+8), an
      Hellina Hailu Nigatu, Atnafu Lambebo Tonja, and Jugal Kalita</li>
   <li><span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Test-time Augmentation for Factual Probing</b> <br>
      Go Kamoda, Benjamin Heinzerling, Keisuke Sakaguchi, and Kentaro Inui</li>
-  
-  
 </ul>
 </details> 
 
@@ -198,7 +196,8 @@ Parinthapat Pengpun, Can Udomcharoenchaikit, Weerayut Buaphet, Peerat Limkonchot
   <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>InstructExcel: A Benchmark for Natural Language Instruction in Excel </b><br> Justin Payan, Swaroop Mishra, Mukul Singh, Carina Suzana Negreanu, Christian Poelitz, Chitta Baral, Subhro Roy, Rasika Chakravarthy et al.</li>
   <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Large Language Models' Generalization Ability Makes It a Good Source for Clinical Data Creation </b><br> Rumeng Li, Xun Wang, Hong Yu</li>
   <li> <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>HeQ: a Large and Diverse Hebrew Reading Comprehension Benchmark </b><br> Amir David Nissan Cohen, Hilla Merhav-Fine, Yoav Goldberg, Reut Tsarfaty</li>
-
+  <li><span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>The Vault: A Comprehensive Multilingual Dataset for Advancing Code Understanding and Generation</b> <br>
+     Dung Nguyen Manh, Nam Le Hai, Anh T. V. Dau, Anh Minh Nguyen, Khanh Nghiem, Jin Guo, Nghi D. Q. Bui</li>
 </ul>
 </details>
 
