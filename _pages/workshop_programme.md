@@ -133,7 +133,7 @@ Note that all time slots listed below are in Singapore Standard Time (GMT+8), an
 
 ### <span style="color:grey">12:00-12:30 PM —</span> CBT spotlights
 - <b><span style="color:grey">12:00-12:08 PM — </span> GenCodeSearchNet: A Benchmark Test Suite for Evaluating Generalization in Programming Language Understanding </b> <br>
-Andor Diera, Abdelhalim Dahou, Lukas Galke, Fabian Karl, Ansgar Scherp
+Andor Diera, Abdelhalim Dahou, Lukas Galke, Fabian Karl, Florian Sihler, Ansgar Scherp
 
 - <b><span style="color:grey">12:08-12:15 PM — </span> Latent Feature-based Data Splits to Improve Generalisation Evaluation: A Hate Speech Detection Case Study</b> <br>
 Maike Züfle, Verna Dankers, Ivan Titov
