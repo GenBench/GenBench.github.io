@@ -11,6 +11,8 @@ header:
 ---
 
 # News
+- The GenBench proceedings can be [found online](https://aclanthology.org/2023.genbench-1.0/), stay tuned for the videos!
+- GenBench workshop 1 is a wrap, but good news: we'll be back next year at EMNLP!
 - The programme is online, and the papers for the poster sessions will soon be announced: [https://genbench.org/workshop_programme](https://genbench.org/workshop_programme)
 - Deadline now passed ~~The camera-ready deadline is coming up: October 26. You can use 1 extra page (max. 9) to integrate the reviewers' comments.~~
 - Closed: ~~We are accepting EMNLP Findings papers with a good fit, please reach out via email (genbench@googlegroups.com) for instructions.~~
@@ -21,9 +23,16 @@ header:
 - Exciting news: thanks to our sponsor Amazon, we can now offer [scholarships](https://genbench.org/workshop/#scholarships)!
 - Our [call for papers](../cfp.txt) is online! 
 
+# Best paper and data awards
+
+We granted both a best paper and best data data award.
+
+- **Best paper**: Andor Diera, Abdelhalim Dahou, Lukas Galke, Fabian Karl, Florian Sihler, Ansgar Scherp. *GenCodeSearchNet: A benchmark test suite for evaluating generalization in programming language understanding.*
+- **Best data**: Jirui Qi, Raquel Fernández, Arianna Bisazza. *Cross-lingual consistency of factual knowledge in multilingual language models*
+
 # Venue
 
-The First GenBench workshop will be held at [EMNLP 2023](https://2023.emnlp.org/) in Singapore on December 6.
+The First GenBench workshop was be held at [EMNLP 2023](https://2023.emnlp.org/) in Singapore on December 6.
 
 # Important dates
 
