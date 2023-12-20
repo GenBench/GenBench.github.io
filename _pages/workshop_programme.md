@@ -20,7 +20,7 @@ Note that all time slots listed below are in Singapore Standard Time (GMT+8), an
 ### <span style="color:grey">09:15-10:00 AM —</span> Keynote 1, by Anna Rogers
 ![Anna Rogers Speaker](/img/speakers/anna.jpg){:width="150px"}
 
-> <b>Title:</b> A sanity check on emergent properties
+> <b>Title:</b> [A sanity check on emergent properties](/assets/workshop2023_slides/rogers_genbench2023.pdf)
 > 
 > <b>Abstract:</b> One of the frequent points in the mainstream narrative about large language models is that they have "emergent properties" (sometimes even dangerous enough to be considered existential risk to mankind). However, there is much disagreement about even the very definition of such properties. If they are understood as a kind of generalization beyond training data - as something that a model does without being explicitly trained for it - I argue that we have not in fact established the existence of any such properties, and at the moment we do not even have the methodology for doing so.
 
@@ -129,7 +129,7 @@ Note that all time slots listed below are in Singapore Standard Time (GMT+8), an
 ### <span style="color:grey">10:30-11:00 AM —</span> Coffee break
 ### <span style="color:grey">11:15-12:00 PM —</span> Keynote 2, by Adina Williams
 ![Adina Williams Speaker](/img/speakers/adina.jpg){:width="150px"}
-<b>Title:</b> Evaluation after the LLM boom: frustrations, fallacies, and the future
+<b>Title:</b> [Evaluation after the LLM boom: frustrations, fallacies, and the future](/assets/workshop2023_slides/williams_genbench2023.pdf)
 
 ### <span style="color:grey">12:00-12:30 PM —</span> CBT spotlights
 - <b><span style="color:grey">12:00-12:08 PM — </span> GenCodeSearchNet: A Benchmark Test Suite for Evaluating Generalization in Programming Language Understanding </b> <br>
@@ -149,7 +149,7 @@ Jirui Qi, Raquel Fernández, Arianna Bisazza
 ## Afternoon programme
 ### <span style="color:grey">14:00-14:45 PM —</span> Keynote 3, by Tatsunori Hashimoto
 ![Tatsunori Hashimoto Speaker](/img/speakers/thashim.jpg){:width="150px"}
-> <b>Title:</b> Understanding generalization for instruction following and black-box language models
+> <b>Title:</b> [Understanding generalization for instruction following and black-box language models](/assets/workshop2023_slides/hashimoto_genbench2023.pptx)
 > 
 > <b>Abstract:</b> Instruction following language models have shown a remarkable ability to perform a wide range of tasks with little to no additional training data. Do these abilities come from a revolution in pre-training and instruction-following, or are there other more mundane explanations for how these models work? In this talk, I will discuss our efforts to answer these questions by replicating instruction-following models that generalize across tasks, studying the consistency of these models across different task formats, and building tests for benchmark contamination in pretraining.
 
