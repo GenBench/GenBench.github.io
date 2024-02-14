@@ -1,5 +1,5 @@
 ---
-permalink: /visualisations/
+permalink: /visualisation/
 title: "Inside the taxonomy: visualisations"
 excerpt: "Explore generalisation research in NLP visually"
 toc: true
