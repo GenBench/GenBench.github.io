@@ -12,7 +12,7 @@ main:
     # - title: "About"
     #   url: /
 - title: "Visual exploration"
-  url: /visualisations/
+  url: /visualisation/
 - title: "Get references"
   url: /references/
 # - title: "The taxonomy"
