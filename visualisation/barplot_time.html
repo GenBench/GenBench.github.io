@@ -18,13 +18,13 @@
 </p>
 
 <div>
-  <iframe id="barplot_time_inner" frameborder="0" src="/visualisations/interactive_figures/barplot_time_motivation_count.html" style="height:100%;width:100%;border:none" scrolling=no></iframe>
+  <iframe id="barplot_time_inner" frameborder="0" src="/visualisation/interactive_figures/barplot_time_motivation_count.html" style="height:100%;width:100%;border:none" scrolling=no></iframe>
 </div>
 <script>
   function barPlotTime() {
     var norm = document.querySelector("input[name='normalisation']:checked").value;
     var axis = document.querySelector("input[name='axis']:checked").value;
     document.getElementById("barplot_time_inner").src =
-      "/visualisations/interactive_figures/barplot_time_" + axis + "_" + norm + ".html";
+      "/visualisation/interactive_figures/barplot_time_" + axis + "_" + norm + ".html";
   }
 </script>

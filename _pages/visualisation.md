@@ -84,7 +84,7 @@ If you hover over a node or click on that node, the diagram highlights the conne
 
 
 <div align="center">
-  <iframe id="chord_diagram" style="display:block;height:max(900px,80vh);width:70%;border:none" scrolling=no frameborder="0" src="/visualisations/interactive_figures/chord_diagram.html"></iframe>
+  <iframe id="chord_diagram" style="display:block;height:max(900px,80vh);width:70%;border:none" scrolling=no frameborder="0" src="/visualisation/interactive_figures/chord_diagram.html"></iframe>
 </div>
 
 ### Individual axes over time
@@ -93,7 +93,7 @@ Visualise how distribution over the axes values changes over time.
 Use the radio buttons to indicate which axis you would like to view, and to choose how to normalise your plot.
 
 <div>
-  <iframe id="barplot_time_outer" style="height:750px;width:100%;border:none" scrolling=no frameborder="0" src="/visualisations/barplot_time.html"></iframe>
+  <iframe id="barplot_time_outer" style="height:750px;width:100%;border:none" scrolling=no frameborder="0" src="/visualisation/barplot_time.html"></iframe>
 </div>
 
 
@@ -104,7 +104,7 @@ Use the radio buttons to indicate which taxonomy axis you would like to view, cl
 
 
 <div id="portrait">
-  <iframe id="barplot_tasks_outer" style="height:60vh;width:100%;border:no;" scrolling=no frameborder="0" src="/visualisations/tasks_barplot.html"></iframe>
+  <iframe id="barplot_tasks_outer" style="height:60vh;width:100%;border:no;" scrolling=no frameborder="0" src="/visualisation/tasks_barplot.html"></iframe>
 </div>
 
 ### Relations between axes in a heatmap
@@ -113,7 +113,7 @@ Generate heatmaps of the relations between the different axes.
 Use the radio buttons to indicate which axis you would like on the x- and y-axis, and choose how to normalise your plot.
 
 <div>
-  <iframe id="heatmap_outer" style="height:750px;width:100%;border:none" scrolling=no frameborder="0" src="/visualisations/heatmap.html"></iframe>
+  <iframe id="heatmap_outer" style="height:750px;width:100%;border:none" scrolling=no frameborder="0" src="/visualisation/heatmap.html"></iframe>
 </div>
 
 Looking for a different kind of plot?

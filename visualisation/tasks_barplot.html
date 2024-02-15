@@ -30,9 +30,9 @@
 
 
 <div id="portrait">
-  <iframe id="barplot_tasks_inner_p" frameborder="0" src="/visualisations/interactive_figures/tasks_barplot_motivation_count.html" style="height:90%;width:100%;border:none" scrolling=no></iframe></div>
+  <iframe id="barplot_tasks_inner_p" frameborder="0" src="/visualisation/interactive_figures/tasks_barplot_motivation_count.html" style="height:90%;width:100%;border:none" scrolling=no></iframe></div>
 <div id="landscape">
-  <iframe id="barplot_tasks_inner_l" frameborder="0" src="/visualisations/interactive_figures/tasks_barplot_motivation_count.html" style="height:90%;width:70%;border:none" scrolling=no></iframe></div>
+  <iframe id="barplot_tasks_inner_l" frameborder="0" src="/visualisation/interactive_figures/tasks_barplot_motivation_count.html" style="height:90%;width:70%;border:none" scrolling=no></iframe></div>
 
 
 </div>
@@ -41,8 +41,8 @@
     var norm = document.querySelector("input[name='normalisation']:checked").value;
     var axis = document.querySelector("input[name='axis']:checked").value;
     document.getElementById("barplot_tasks_inner_p").src =
-      "/visualisations/interactive_figures/tasks_barplot_" + axis + "_" + norm + ".html";
+      "/visualisation/interactive_figures/tasks_barplot_" + axis + "_" + norm + ".html";
     document.getElementById("barplot_tasks_inner_l").src =
-      "/visualisations/interactive_figures/tasks_barplot_" + axis + "_" + norm + ".html";
+      "/visualisation/interactive_figures/tasks_barplot_" + axis + "_" + norm + ".html";
   }
 </script>
