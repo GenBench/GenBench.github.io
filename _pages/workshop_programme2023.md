@@ -1,5 +1,5 @@
 ---
-permalink: /workshop_programme2023/
+permalink: /workshop_programme/2023/
 title: "Workshop programme"
 toc: false
 author_profile: false

@@ -1,5 +1,5 @@
 ---
-permalink: /workshop2023/
+permalink: /workshop/2023/
 title: "GenBench workshop 2023"
 toc: true
 author_profile: false
