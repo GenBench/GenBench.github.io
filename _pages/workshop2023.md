@@ -11,9 +11,9 @@ header:
 ---
 
 # News
-- The GenBench proceedings can be [found online](https://aclanthology.org/2023.genbench-1.0/), the slides of the invited speakers can be found on the [workshop programme page](https://genbench.org/workshop_programme/) stay tuned for the videos!
+- The GenBench proceedings can be [found online](https://aclanthology.org/2023.genbench-1.0/), the slides of the invited speakers can be found on the [workshop programme page](https://genbench.org/workshop_programme/2023) stay tuned for the videos!
 - GenBench workshop 1 is a wrap, but good news: we'll be back next year at EMNLP!
-- The programme is online, and the papers for the poster sessions will soon be announced: [https://genbench.org/workshop_programme](https://genbench.org/workshop_programme)
+- The programme is online, and the papers for the poster sessions will soon be announced: [https://genbench.org/workshop_programme/2023](https://genbench.org/workshop_programme/2023)
 - Deadline now passed ~~The camera-ready deadline is coming up: October 26. You can use 1 extra page (max. 9) to integrate the reviewers' comments.~~
 - Closed: ~~We are accepting EMNLP Findings papers with a good fit, please reach out via email (genbench@googlegroups.com) for instructions.~~
 - After technical difficulties with the ARR submission, we extended the submission deadline to October 11! Submissions can now be made via [this Openreview page](https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment).
@@ -134,7 +134,7 @@ Our intended workshop programme consists of different elements:
 In the panel, we will discuss topics such as how to best involve domain experts in the design of generalisation tests, the future of generalisation testing and when generalisation testing is important and when it is not.
 Furthermore, we will add topics drawn from the workshop submissions, as well as questions solicited through an online poll prior to the workshop.
 
-The timetable can now be found here: [https://genbench.org/workshop_programme](https://genbench.org/workshop_programme)
+The timetable can now be found here: [https://genbench.org/workshop_programme/2023](https://genbench.org/workshop_programme/2023)
 
 # Invited speakers
 
