@@ -11,6 +11,7 @@ header:
 ---
 
 # News
+- Delighted to announce the GenBench 2024 Workshop will come back @ EMNLP 2024
 <!-- - The GenBench proceedings can be [found online](https://aclanthology.org/2023.genbench-1.0/), the slides of the invited speakers can be found on the [workshop programme page](https://genbench.org/workshop_programme/) stay tuned for the videos!
 - GenBench workshop 1 is a wrap, but good news: we'll be back next year at EMNLP!
 - The programme is online, and the papers for the poster sessions will soon be announced: [https://genbench.org/workshop_programme](https://genbench.org/workshop_programme)
@@ -21,28 +22,23 @@ header:
 - The [CoNLL conference](https://conll.org/2023) now allows dual submissions with GenBench, and vice versa! Is your CoNLL submission a good fit with the GenBench mission but are you still waiting for your reviews? Also submit to GenBench! See our information about [dual submissions](https://genbench.org/workshop/#dual-submissions).
 - The Collaborative Benchmarking Task is now accepting submissions, see [genbench.org/cbt](https://genbench.org/cbt)!
 - Exciting news: thanks to our sponsor Amazon, we can now offer [scholarships](https://genbench.org/workshop/#scholarships)! -->
-- Our [call for papers](../cfp.txt) is online! 
-
-# Best paper and data awards
-
-We granted both a best paper and best data data award.
-
-- **Best paper**: Andor Diera, Abdelhalim Dahou, Lukas Galke, Fabian Karl, Florian Sihler, Ansgar Scherp. *GenCodeSearchNet: A benchmark test suite for evaluating generalization in programming language understanding.*
-- **Best data**: Jirui Qi, Raquel Fernández, Arianna Bisazza. *Cross-lingual consistency of factual knowledge in multilingual language models*
+<!-- - Our [call for papers](../cfp.txt) is online!  -->
 
 # Venue
 
-The First GenBench workshop was be held at [EMNLP 2023](https://2023.emnlp.org/) in Singapore on December 6.
+The Second GenBench workshop was be held at [EMNLP 2024](https://2023.emnlp.org/) in Miami, Florida, USA on November 15-16.
 
-# Important dates
+# Important dates (Tentative)
 
-- ~~**August 1, 2023** – Sample data submission deadline~~
-- ~~**September 1, 2023** – Paper submission deadline, submission link: [https://openreview.net/group?id=GenBench.org/2023/Workshop](https://openreview.net/group?id=GenBench.org/2023/Workshop)~~
-- ~~**September 15, 2023**~~ extended to **October 11, 2023** – ARR commitment deadline, submission link: [https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment](https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment)
-- ~~**October 6, 2023** extended to **October 11, 2023** – Notification deadline for direct submissions~~
-- ~~**October 13, 2023** - Notification deadline for ARR submissions~~
-- ~~**October 26, 2023** – Camera-ready deadline (you can use up to 9 pages for your camera-ready paper!)~~
-- **December 6, 2023** – Workshop
+- **June 1, 2024** – Call for papers announced
+- **June 15, 2024** – Shared Task announced
+- **August 1, 2024** – Sample data submission deadline
+- **August 1, 2024** – Paper submission deadline, submission link: TBA
+- **August 15, 2024** – ARR commitment deadline, submission link: TBA
+- **September 6, 2024**  – Notification deadline for direct submissions
+- **October 13, 2024** - Notification deadline for ARR submissions
+- **October 26, 2024** – Camera-ready deadline (you can use up to 9 pages for your camera-ready paper!)
+- **November 15-16, 2024** – Workshop
 
 *Note: all deadlines are 11:59PM UTC-12:00*
 
@@ -60,15 +56,15 @@ The workshop has two concrete goals:
 * Bring together different expert communities to discuss challenging questions relating to generalisation in NLP.
 * Establish a shared platform for state-of-the-art generalisation testing in NLP, with a leaderboard for a selection of tests that are created and selected not by one group, but by a larger community.
 
-# Call for papers
+<!-- # Call for papers
 
 To reach out workshop goals, we welcome two different types of submissions: regular workshop submissions and collaborative benchmarking task submissions. 
 The latter will consist of a data/task artefact and a companion paper motivating and evaluating the submission. 
-In both cases, we accept archival papers and extended abstracts. 
+In both cases, we accept archival papers and extended abstracts.  -->
 
 <!-- Closed: ~~We accept all papers from the Findings of EMNLP related to our topics of interest below. Contact us via genbench@googlegroups.com if you would like to present your EMNLP Findings paper at GenBench 2023!~~ -->
 
-## Submission types
+<!-- ## Submission types
 
 ### Submission type 1: generalisation and opinion papers 
 Towards our first goal, we invite paper submissions on a topics related to generalisation in NLP.
@@ -105,22 +101,22 @@ Participants proposing previously unpublished datasets or splits may choose to s
 If you are in doubt whether a particular type of dataset is suitable for submission, please consult the information page on our website, or reach out to the organisers of the workshop at genbench@googlegroups.com.
 
 All accepted generalisation test submissions will be included in the proceedings of the workshop, and we will feature a top-selection, which will be included also in the GenBench 1.0 leaderboard, on the GenBench platform.
-Following Big-Bench, after the workshop is finished, we aim to do a larger-scale testing with the top tests with a range of different models ([Srivastava et al., 2022](https://arxiv.org/abs/2206.04615)).
+Following Big-Bench, after the workshop is finished, we aim to do a larger-scale testing with the top tests with a range of different models ([Srivastava et al., 2022](https://arxiv.org/abs/2206.04615)). -->
 
-## Archival vs extended abstract
-Archival papers are up to 8 pages excluding references and report on completed, original and unpublished research. They follow the requirements of regular EMNLP 2023 submissions. Accepted papers will be published in the workshop proceedings and are expected to be presented at the workshop. The papers will undergo double-blind peer-review and should thus be anonymised. Extended abstracts can be up to 2 pages excluding references, and may report on work in progress or be cross submissions of work that has already appeared in another venue. Abstract titles will be posted on the workshop website, but will not be included in the proceedings.
+<!-- ## Archival vs extended abstract
+Archival papers are up to 8 pages excluding references and report on completed, original and unpublished research. They follow the requirements of regular EMNLP 2023 submissions. Accepted papers will be published in the workshop proceedings and are expected to be presented at the workshop. The papers will undergo double-blind peer-review and should thus be anonymised. Extended abstracts can be up to 2 pages excluding references, and may report on work in progress or be cross submissions of work that has already appeared in another venue. Abstract titles will be posted on the workshop website, but will not be included in the proceedings. -->
 
-## Submission instructions
+<!-- ## Submission instructions
 For both archival papers and extended abstracts, we refer to the EMNLP 2023 website for [paper templates](https://2024.emnlp.org/calls/main_conference_papers/#paper-submission-details). 
 Collaborative benchmarking tasks should be submitted on the [cbt submission page](https://github.com/GenBench/genbench_cbt), an accompanying paper should be submitted through OpenReview.
-Regular workshop papers are submitted through OpenReview.
+Regular workshop papers are submitted through OpenReview. -->
 
 <!-- ~~Submission link: [https://openreview.net/group?id=GenBench.org/2023/Workshop](https://openreview.net/group?id=GenBench.org/2023/Workshop)~~ Submissions are now closed, except for ARR commitment submissions. Submit via [https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment](https://openreview.net/group?id=GenBench.org/2023/ARR_Commitment) by October 1st. -->
 
-## Dual submissions
+<!-- ## Dual submissions
 We allow dual submissions with both EMNLP and CoNLL, and we encourage relevant papers that were dual-submitted and accepted at EMNLP to redirect to a non-archival extended abstract submission. We furthermore welcome submissions of extended abstracts that describe work already presented at an earlier venue, both in the collaborative benchmarking and in the regular submission tracks.
-
-## Preprints
+ -->
+<!-- ## Preprints
 We do not have an anonymity deadline, preprints are allowed, both before the submission deadline as well as after.
 
 # Programme 
@@ -132,7 +128,7 @@ Our intended workshop programme consists of different elements:
 - a panel on generalisation, bringing together experts from different communities
 
 In the panel, we will discuss topics such as how to best involve domain experts in the design of generalisation tests, the future of generalisation testing and when generalisation testing is important and when it is not.
-Furthermore, we will add topics drawn from the workshop submissions, as well as questions solicited through an online poll prior to the workshop.
+Furthermore, we will add topics drawn from the workshop submissions, as well as questions solicited through an online poll prior to the workshop. -->
 
 <!-- The timetable can now be found here: [https://genbench.org/workshop_programme](https://genbench.org/workshop_programme) -->
 
@@ -168,27 +164,25 @@ To submit your application, please send us an email (genbench@googlegroups.com) 
 - your CV
 - A few motivational sentences: why do you want to attend the workshop, and how would the funds help you with that? -->
 
-# Organisers
+<!-- # Organisers
 
 <b>Dieuwke Hupkes</b> is a research scientist at FAIR. Her primary research interest is better understanding models for NLP and how that relates to (linguistic, philosophical) knowledge about language. 
 
 <b>Verna Dankers</b> is a PhD student at the Centre for Doctoral Training in NLP, University of Edinburgh. Her primary research interests lie at the intersection of compositional generalisation for natural language tasks and interpretability.  
 
-<b>Khuyagbaatar Batsuren</b> is an Associate Professor at the National University of Mongolia. His research interest focuses on computational morphology and multilingual NLP. 
+<b>Khuyagbaatar Batsuren</b> is an Associate Professor at the National University of Mongolia. His research interest focuses on computational morphology and multilingual NLP. -->
 
-<!-- <b>Koustuv Sinha</b> is a Research Scientist at Meta AI Research (Fundamental AI Research team). His research focuses on investigating systematicity and generalisation in natural language understanding (NLU) models, especially the state-of-the-art large language models, and developing methods to alleviate generalisation issues in production.  -->
-
-<b>Amirhossein Kazemnejad</b> is a master's student at McGill University and Mila, where he studies the generalisation capabilities of Transformers.
+<!-- <b>Amirhossein Kazemnejad</b> is a master's student at McGill University and Mila, where he studies the generalisation capabilities of Transformers.
 
 <b>Christos Christodoulopoulos</b> is a Senior Applied Scientist at Amazon Research Cambridge, working on knowledge extraction and verification.
 
-<b>Ryan Cotterell</b> is an assistant professor of computer science at ETH Zurich where he is affiliated with the Institute for Machine Learning, the AI Center, and the Media Technology Center. He primarily researches topics in natural language publishing and machine learning.
+<b>Ryan Cotterell</b> is an assistant professor of computer science at ETH Zurich where he is affiliated with the Institute for Machine Learning, the AI Center, and the Media Technology Center. He primarily researches topics in natural language publishing and machine learning. -->
 
 <!-- <b>Elia Bruni</b> is a professor of Natural Language Processing at the University of Osnabrück. 
 His research focuses on deep learning for natural language processing and he is particularly interested in assessing the ability of neural networks to process language compositionally. 
  -->
  
-# Program Committee
+<!-- # Program Committee
 
 Lisa Beinborn, Vrije Universiteit Amsterdam <br/>
 Jonathan Brophy, University of Oregon <br/>
@@ -224,10 +218,10 @@ Hao Yang, Beijing University of Post and Telecommunication<br/>
 Naoki Yoshinaga, the University of Tokyo<br/>
 Dylan Z Slack, University of California, Irvine<br/>
 Sheng Zhang, Amazon<br/>
-Yichu Zhou, Yahoo<br/>
+Yichu Zhou, Yahoo<br/> -->
 
-# Anti-Harassment Policy
-GenBench adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy).
+<!-- # Anti-Harassment Policy
+GenBench adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/sphp?title=Anti-Harassment_Policy). -->
 
 <script type="text/javascript">
 var links = document.links;
