@@ -35,12 +35,11 @@ The Second GenBench workshop will be held at [EMNLP 2024](https://2023.emnlp.org
 - **June 1, 2024** – Shared Task announced
 - **August 1, 2024** – Sample data submission deadline
 - **August 15, 2024** – Paper submission deadline, submission link: TBA
-- **September 15, 2024** – ARR commitment deadline, submission link: TBA
-- **September 20, 2024** - Notification deadline for direct & ARR submissions
+- **September 20, 2024** - Notification deadline
 - **October 4, 2024** – Camera-ready deadline (you can use up to 9 pages for your camera-ready paper!)
 - **November 15-16, 2024** – Workshop
 
-*Note: all deadlines are 11:59PM UTC-12:00*
+*Note: all deadlines are 11:59PM UTC-12:00. We will accept ARR submissions; corresponding deadlines will be announced at a later moment in time.*
 
 
 # Workshop description
