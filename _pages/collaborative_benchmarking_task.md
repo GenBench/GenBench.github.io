@@ -1,5 +1,5 @@
 ---
-permalink: /cbt/
+permalink: /cbt2023/
 title: "Collaborative benchmarking task (CBT)"
 layout: single_wide
 
