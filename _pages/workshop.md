@@ -57,7 +57,7 @@ Topics of interest include, but are not limited to:
 - Papers that discuss why generalisation is (not) important in the era of LLMs;
 - Studies on the relationship between generalisation and fairness or robustness.
 
-If you are unsure whether a specific topic is suitable, feel free to contact the workshop organizers at [genbench@googlegroups.com](genbench@googlegroups.com).
+If you are unsure whether a specific topic is suitable, feel free to contact the workshop organizers at [genbench@googlegroups.com](mailto:genbench@googlegroups.com).
 
 ### Submission type 2: the Collaborative Benchmarking Task
 
@@ -87,7 +87,7 @@ All submissions can be submitted through OpenReview: [https://openreview.net/gro
 We do not have an anonymity deadline, preprints are allowed, both before the submission deadline as well as after.
 
 # Contact
-Email address: [genbench@googlegroups.com](genbench@googlegroups.com)
+Email address: [genbench@googlegroups.com](mailto:genbench@googlegroups.com)
 
 The GenBench workshop is organised by:
 - <b>Dieuwke Hupkes</b>: a research scientist at FAIR. Her primary research interest is better understanding models for NLP and how that relates to (linguistic, philosophical) knowledge about language. 
@@ -95,8 +95,8 @@ The GenBench workshop is organised by:
 - <b>Khuyagbaatar Batsuren</b>: an Associate Professor at the National University of Mongolia. His research interest focuses on computational morphology and multilingual NLP.
 - <b>Amirhossein Kazemnejad</b>: a master's student at McGill University and Mila, where he studies the generalisation capabilities of Transformers.
 - <b>Christos Christodoulopoulos</b>: a Senior Applied Scientist at Amazon Research Cambridge, working on knowledge extraction and verification.
-- <b>Mario Giulianelli</b>: a postdoctoral fellow at ETH Zürich, where he works with the Rycolab in the Institute for Machine Learning, Department of Computer Science.
-- <b>Ryan Cotterell</b>: an assistant professor of computer science at ETH Zurich where he is affiliated with the Institute for Machine Learning, the AI Center, and the Media Technology Center. He primarily researches topics in natural language publishing and machine learning.
+- <b>Mario Giulianelli</b>: a postdoctoral fellow at ETH Zürich, where he works with the Rycolab in the Institute for Machine Learning.
+- <b>Ryan Cotterell</b>: an assistant professor of computer science at ETH Zürich where he is affiliated with the Institute for Machine Learning, the AI Center, and the Media Technology Center. He primarily researches topics in natural language publishing and machine learning.
 
 
 
