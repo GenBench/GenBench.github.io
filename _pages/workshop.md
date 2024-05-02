@@ -44,16 +44,13 @@ The Second GenBench workshop will be held at [EMNLP 2024](https://2023.emnlp.org
 
 # Workshop description
 
-The ability to generalise well is often mentioned as one of the primary desiderata for models of natural language processing (e.g. [Marcus, 1998](https://arxiv.org/abs/1801.00631); [Schmidhuber, 1990](https://www.semanticscholar.org/paper/Towards-Compositional-Learning-in-Dynamic-Report-Schmidhuber/550e406b84e46cf8c77baa70a61704e93fd963bc); [Wong and Wang, 2007](https://ieeexplore.ieee.org/abstract/document/4227538); [Lake et al., 2017](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/building-machines-that-learn-and-think-like-people/A9535B1D745A0377E16C590E14B94993); [Yogatama et al., 2019](https://arxiv.org/abs/1901.11373); [Linzen, 2020](https://aclanthology.org/2020.acl-main.465/); [Elangovan et al., 2021](https://aclanthology.org/2021.eacl-main.113/); [Marcus, 2018](https://arxiv.org/pdf/1801.00631.pdf?u)).
-Generalisation is crucial to ensure that models behave robustly, reliably and fairly when making predictions about data that is different from the data that they were trained on and is also important when NLP models are considered from a cognitive perspective, as models of human language.
-Yet, what good generalisation entails and how it should be evaluated is not well understood, nor are there any common standards to evaluate it ([Hupkes et al., 2022](https://arxiv.org/abs/2210.03050)).
-As a result, it is difficult to understand what the current state of the field is when it comes to generalisation.
-It is difficult to understand how results in this area relate to each other, what sorts of generalisation are being addressed and which are neglected, which forms of generalisation testing we should prioritise in which types of scenarios, and how we can adequately assess generalisation in the first place.
-Missing answers to all of those questions are standing in the way of better model development: what we cannot measure, we cannot improve.
-The GenBench workshop on (benchmarking) generalisation in NLP aims to serve as a cornerstone to catalyse research on generalisation in the NLP community.
+The ability to generalise well is often mentioned as one of the primary desiderata for models of natural language processing (NLP).
+Yet, there are still many open questions related to what it means for an NLP model to generalise well, and how generalisation should be evaluated.
+LLMs, trained on gigantic training corpora that are – at best – hard to analyse or not publicly available at all, bring a new set of challenges to the topic.
+The second GenBench workshop aims to serve as a cornerstone to catalyse research on generalisation in the NLP community.
 The workshop has two concrete goals:
 * Bring together different expert communities to discuss challenging questions relating to generalisation in NLP.
-* Establish a shared platform for state-of-the-art generalisation testing in NLP, with a leaderboard for a selection of tests that are created and selected not by one group, but by a larger community.
+* Establish a shared platform for state-of-the-art generalisation testing in NLP. We started this last year, and this year's collaborative benchmarking task (CBT) is solely LLM-focused!
 
 <!-- # Call for papers
 
