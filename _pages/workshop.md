@@ -90,7 +90,7 @@ We do not have an anonymity deadline, preprints are allowed, both before the sub
 You can reach out to us via the following email address: [genbench@googlegroups.com](mailto:genbench@googlegroups.com)
 
 The GenBench-2024 workshop is organised by:
-- <b>Dieuwke Hupkes</b>: a research scientist at FAIR. Her primary research interest is better understanding models for NLP and how that relates to (linguistic, philosophical) knowledge about language. 
+- <b>Dieuwke Hupkes</b>: a research scientist at Meta. Her primary research interest is better understanding models for NLP and how that relates to (linguistic, philosophical) knowledge about language; lately she has focussed specifically on LLM evaluation.
 - <b>Verna Dankers</b>: a PhD student at the Centre for Doctoral Training in NLP, University of Edinburgh. Her primary research interests lie at the intersection of compositional generalisation for natural language tasks and interpretability.  
 - <b>Khuyagbaatar Batsuren</b>: an Associate Professor at the National University of Mongolia. His research interest focuses on computational morphology and multilingual NLP.
 - <b>Amirhossein Kazemnejad</b>: a master's student at McGill University and Mila, where he studies the generalisation capabilities of Transformers.
