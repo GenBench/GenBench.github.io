@@ -70,7 +70,7 @@ Newly generated sets should have at least 200 examples.
 
 Practically speaking, CBT submissions consist of:
 1. the data/task artefact (submitted through [https://github.com/GenBench/genbench_cbt](https://github.com/GenBench/genbench_cbt))
-2. a paper describing the dataset and its method of construction (submitted through Openreview)
+2. a paper describing the dataset and its method of construction (submitted through [https://openreview.net/group?id=GenBench.org/2024/Workshop](https://openreview.net/group?id=GenBench.org/2024/Workshop))
 
 More detailed guidelines are provided here: [https://genbench.org/cbt](https://genbench.org/cbt).
 
