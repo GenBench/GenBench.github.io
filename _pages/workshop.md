@@ -57,7 +57,7 @@ Topics of interest include, but are not limited to:
 - Papers that discuss why generalisation is (not) important in the era of LLMs;
 - Studies on the relationship between generalisation and fairness or robustness.
 
-If you are unsure whether a specific topic is suitable, feel free to contact the workshop organizers at genbench@googlegroups.com.
+If you are unsure whether a specific topic is suitable, feel free to contact the workshop organizers at [genbench@googlegroups.com](genbench@googlegroups.com).
 
 ### Submission type 2: the Collaborative Benchmarking Task
 
@@ -69,10 +69,10 @@ To submit to the CBT, design a method to measure distribution shift for one or m
 Newly generated sets should have at least 200 examples.
 
 Practically speaking, CBT submissions consist of:
-1. the data/task artefact (submitted through https://github.com/GenBench/genbench_cbt)
+1. the data/task artefact (submitted through [https://github.com/GenBench/genbench_cbt](https://github.com/GenBench/genbench_cbt))
 2. a paper describing the dataset and its method of construction (submitted through Openreview)
 
-More detailed guidelines are provided here: https://genbench.org/cbt.
+More detailed guidelines are provided here: [https://genbench.org/cbt](https://genbench.org/cbt).
 
 ### Archival vs extended abstract
 Both types of submission can be archival papers or extended abstracts.
@@ -81,13 +81,13 @@ Archival papers are up to 8 pages excluding references and report on completed, 
 ### Submission instructions
 For both archival papers and extended abstracts, we refer to the EMNLP 2024 website for paper templates and requirements. Additional requirements for both regular workshop papers and collaborative benchmarking task submissions can be found on our website. 
 
-All submissions can be submitted through OpenReview: https://openreview.net/group?id=GenBench.org/2024/Workshop.
+All submissions can be submitted through OpenReview: [https://openreview.net/group?id=GenBench.org/2024/Workshop](https://openreview.net/group?id=GenBench.org/2024/Workshop).
 
 ### Preprints
 We do not have an anonymity deadline, preprints are allowed, both before the submission deadline as well as after.
 
 # Contact
-Email address: genbench@googlegroups.com
+Email address: [genbench@googlegroups.com](genbench@googlegroups.com)
 
 The GenBench workshop is organised by:
 - <b>Dieuwke Hupkes</b>: a research scientist at FAIR. Her primary research interest is better understanding models for NLP and how that relates to (linguistic, philosophical) knowledge about language. 
