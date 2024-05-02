@@ -1,0 +1,61 @@
+# GenBench: The second workshop on generalisation (benchmarking) in NLP
+
+## Workshop description
+The ability to generalise well is often mentioned as one of the primary desiderata for models of natural language processing (NLP). Yet, there are still many open questions related to what it means for an NLP model to generalise well, and how generalisation should be evaluated. LLMs, trained on gigantic training corpora that are – at best – hard to analyse or not publicly available at all, bring a new set of challenges to the topic. The second GenBench workshop aims to serve as a cornerstone to catalyse research on generalisation in the NLP community. The workshop aims to bring together different expert communities to discuss challenging questions relating to generalisation in NLP, crowd-source challenging generalisation benchmarks for LLMs, and make progress on open questions related to generalisation. 
+
+Topics of interest include, but are not limited to:
+- Opinion or position papers about generalisation and how it should be evaluated;
+- Analyses of how existing or new models generalise;
+- Empirical studies that propose new paradigms to evaluate generalisation;
+- Meta-analyses that compare how results from different generalisation studies compare;
+- Meta-analyses that study how different types of generalisation are related;
+- Papers that discuss how generalisation of LLMs can be evaluated;
+- Papers that discuss why generalisation is (not) important in the era of LLMs;
+- Studies on the relationship between generalisation and fairness or robustness.
+
+The second GenBench workshop on generalisation (benchmarking) in NLP will be co-located with EMNLP 2024.
+
+## Submission types
+We call for two types of submissions: regular workshop submissions and collaborative benchmarking task submissions. The latter will consist of a data/task artefact and a companion paper motivating and evaluating the submission. In both cases, we accept archival papers and extended abstracts. 
+
+###  Regular workshop submissions
+Regular workshop submissions present papers on the topic of generalisation (see examples listed above). Regular workshop papers may be submitted as an archival paper, when they report on completed, original and unpublished research, or as a shorter extended abstract, otherwise. More details on this category can be found below.
+
+If you are unsure whether a specific topic is well-suited for submission, feel free to reach out to the organisers of the workshop at genbench@googlegroups.com.
+
+### Collaborative Benchmarking Task (CBT) submissions
+The goal of this year's CBT is to generate versions of existing evaluation datasets for LLMs which, given a particular training corpus, have a larger distribution shift than the original test set, or – in other words – evaluate generalisation to a stronger degree than the original dataset.
+
+For this particular challenge, we focus on three training corpora: C4, RedPajama-Data-1T, and Dolma. All three corpora are publicly available, and they can be searched via the What's in My Big Data API (https://github.com/allenai/wimbd). We will focus on three popular evaluation datasets: MMLU, HumanEval, and SiQA.
+
+Submitters to the CBT are asked to design a way to assess distribution shift for one or more of these evaluation datasets, given particular features of the training corpus, and then generate one or more versions of the dataset that have a larger distribution shift according to this method.  Newly generated sets do not have to have the same size as the original test set, but should have at least 200 examples.
+
+Practically speaking, CBT submissions consist of:
+the data/task artefact, submitted through https://github.com/GenBench/genbench_cbt
+a paper describing the dataset and its method of construction, submitted through https://openreview.net/group?id=GenBench.org/2024/Workshop
+
+We accept submissions that consider only one pretraining dataset and evaluation dataset, but encourage submitters to apply their suggested protocols to both pretraining datasets. We also suggest that submitters include model results for models trained on these datasets. Suggestions are provided on the CBT website: https://genbench.org/cbt. Given enough high-quality submissions, we aim to write a paper with the combined results, to which submitters can be co-authors, if they wish so. More detailed guidelines will be given on https://genbench.org/cbt.
+
+## Archival vs extended abstract
+Archival papers are up to 8 pages excluding references and report on completed, original and unpublished research. They follow the requirements of regular EMNLP 2024 submissions. Accepted papers will be published in the workshop proceedings and are expected to be presented at the workshop. The papers will undergo double-blind peer review and should thus be anonymised. Extended abstracts can be up to 2 pages excluding references, and may report on work in progress or be cross-submissions of work that has already appeared in another venue. Abstract titles will be posted on the workshop website, but will not be included in the proceedings.
+
+## Submission instructions
+For both archival papers and extended abstracts, we refer to the EMNLP 2024 website for paper templates and requirements. Additional requirements for both regular workshop papers and collaborative benchmarking task submissions can be found on our website. 
+
+All submissions can be submitted through OpenReview: https://openreview.net/group?id=GenBench.org/2024/Workshop.
+
+
+## Important dates (tentative, for the latest version see https://genbench.org/workshop)
+August 15, 2024 -- Paper submission deadline
+September 20, 2024 -- Notification deadline 
+October 4, 2024 –- Camera-ready deadline
+November 15 or 16, 2024 -- Workshop
+
+Note: all deadlines are 11:59PM UTC-12:00
+
+## Preprints
+We do not have an anonymity deadline, preprints are allowed, both before the submission deadline as well as after.
+
+## Contact
+Email address: genbench@googlegroups.com
+Website: genbench.org/workshop
