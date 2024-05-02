@@ -49,8 +49,42 @@ Yet, there are still many open questions related to what it means for an NLP mod
 LLMs, trained on gigantic training corpora that are – at best – hard to analyse or not publicly available at all, bring a new set of challenges to the topic.
 The second GenBench workshop aims to serve as a cornerstone to catalyse research on generalisation in the NLP community.
 The workshop has two concrete goals:
-* Bring together different expert communities to discuss challenging questions relating to generalisation in NLP.
+* Bring together different expert communities to discuss challenging questions relating to generalisation in NLP;
 * Establish a shared platform for state-of-the-art generalisation testing in NLP. We started this last year, and this year's collaborative benchmarking task (CBT) is solely LLM-focused!
+
+## Submissions
+
+We call for two types of submissions: regular workshop submissions and CBT submissions.
+
+## Submission type 1: generalisation and opinion papers
+
+Regular workshop submissions present papers on the topic of generalisation. 
+Topics of interest include, but are not limited to:
+- Opinion or position papers about generalisation and how it should be evaluated;
+- Analyses of how existing or new models generalise;
+- Empirical studies that propose new paradigms to evaluate generalisation;
+- Meta-analyses that compare how results from different generalisation studies compare;
+- Meta-analyses that study how different types of generalisation are related;
+- Papers that discuss how generalisation of LLMs can be evaluated;
+- Papers that discuss why generalisation is (not) important in the era of LLMs;
+- Studies on the relationship between generalisation and fairness or robustness.
+
+If you are unsure whether a specific topic is suitable, feel free to contact the workshop organizers at genbench@googlegroups.com.
+
+## Submission type 2: the Collaborative Benchmarking Task
+
+The goal of this year's CBT is to generate versions of existing evaluation datasets for LLMs with a larger distribution shift than the original test set, given a particular training corpus.
+We focus on three training corpora: C4, RedPajama-Data-1T, and Dolma, and three evaluation datasets: MMLU, HumanEval, and SiQA.
+All three corpora are publicly available, and they can be searched via the What's in My Big Data API (https://github.com/allenai/wimbd).
+
+To submit to the CBT, design a method to measure distribution shift for one or more of these evaluation datasets, and generate one or more versions of the dataset that have a larger distribution shift according to this method. 
+Newly generated sets should have at least 200 examples.
+
+Practically speaking, CBT submissions consist of:
+1. the data/task artefact (submitted through https://github.com/GenBench/genbench_cbt)
+2. a paper describing the dataset and its method of construction (submitted through Openreview)
+
+More detailed guidelines are provided here: https://genbench.org/cbt.
 
 <!-- # Call for papers
 
