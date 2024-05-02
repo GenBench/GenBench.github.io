@@ -51,11 +51,11 @@ The workshop has two concrete goals:
 * Bring together different expert communities to discuss challenging questions relating to generalisation in NLP;
 * Establish a shared platform for state-of-the-art generalisation testing in NLP. We started this last year, and this year's collaborative benchmarking task (CBT) is solely LLM-focused!
 
-## Submissions
+# Submissions
 
 We call for two types of submissions: regular workshop submissions and CBT submissions.
 
-## Submission type 1: generalisation and opinion papers
+### Submission type 1: generalisation and opinion papers
 
 Regular workshop submissions present papers on the topic of generalisation. 
 Topics of interest include, but are not limited to:
@@ -70,7 +70,7 @@ Topics of interest include, but are not limited to:
 
 If you are unsure whether a specific topic is suitable, feel free to contact the workshop organizers at genbench@googlegroups.com.
 
-## Submission type 2: the Collaborative Benchmarking Task
+### Submission type 2: the Collaborative Benchmarking Task
 
 The goal of this year's CBT is to generate versions of existing evaluation datasets for LLMs with a larger distribution shift than the original test set, given a particular training corpus.
 We focus on three training corpora: C4, RedPajama-Data-1T, and Dolma, and three evaluation datasets: MMLU, HumanEval, and SiQA.
@@ -84,6 +84,31 @@ Practically speaking, CBT submissions consist of:
 2. a paper describing the dataset and its method of construction (submitted through Openreview)
 
 More detailed guidelines are provided here: https://genbench.org/cbt.
+
+### Archival vs extended abstract
+Both types of submission can be archival papers or extended abstracts.
+Archival papers are up to 8 pages excluding references and report on completed, original and unpublished research. They follow the requirements of regular EMNLP 2024 submissions. Accepted papers will be published in the workshop proceedings and are expected to be presented at the workshop. The papers will undergo double-blind peer review and should thus be anonymised. Extended abstracts can be up to 2 pages excluding references, and may report on work in progress or be cross-submissions of work that has already appeared in another venue. Abstract titles will be posted on the workshop website, but will not be included in the proceedings.
+
+### Submission instructions
+For both archival papers and extended abstracts, we refer to the EMNLP 2024 website for paper templates and requirements. Additional requirements for both regular workshop papers and collaborative benchmarking task submissions can be found on our website. 
+
+All submissions can be submitted through OpenReview: https://openreview.net/group?id=GenBench.org/2024/Workshop.
+
+### Preprints
+We do not have an anonymity deadline, preprints are allowed, both before the submission deadline as well as after.
+
+# Contact
+Email address: genbench@googlegroups.com
+
+The GenBench workshop is organised by:
+- <b>Dieuwke Hupkes</b>: a research scientist at FAIR. Her primary research interest is better understanding models for NLP and how that relates to (linguistic, philosophical) knowledge about language. 
+- <b>Verna Dankers</b>: a PhD student at the Centre for Doctoral Training in NLP, University of Edinburgh. Her primary research interests lie at the intersection of compositional generalisation for natural language tasks and interpretability.  
+- <b>Khuyagbaatar Batsuren</b>: an Associate Professor at the National University of Mongolia. His research interest focuses on computational morphology and multilingual NLP.
+- <b>Amirhossein Kazemnejad</b>: a master's student at McGill University and Mila, where he studies the generalisation capabilities of Transformers.
+- <b>Christos Christodoulopoulos</b>: a Senior Applied Scientist at Amazon Research Cambridge, working on knowledge extraction and verification.
+- <b>Mario Giulianelli</b>: a postdoctoral fellow at ETH Zürich, where he works with the Rycolab in the Institute for Machine Learning, Department of Computer Science.
+- <b>Ryan Cotterell</b>: an assistant professor of computer science at ETH Zurich where he is affiliated with the Institute for Machine Learning, the AI Center, and the Media Technology Center. He primarily researches topics in natural language publishing and machine learning.
+
 
 <!-- # Call for papers
 
