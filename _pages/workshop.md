@@ -20,8 +20,6 @@ The Second GenBench workshop will be held at [EMNLP 2024](https://2024.emnlp.org
 
 # Important dates (Tentative)
 
-- **May 15, 2024** – Call for papers announced
-- **June 1, 2024** – Shared Task announced
 - **August 15, 2024** – Paper submission deadline, submission link: TBA
 - **September 20, 2024** - Notification deadline
 - **October 4, 2024** – Camera-ready deadline (you can use up to 9 pages for your camera-ready paper!)
