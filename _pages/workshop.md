@@ -93,8 +93,8 @@ The GenBench-2024 workshop is organised by:
 - <b>Khuyagbaatar Batsuren</b>: a research assistant at University of Melbourne. His research interest focuses on computational morphology and multilingual NLP.
 - <b>Amirhossein Kazemnejad</b>: a master's student at McGill University and Mila, where he studies the generalisation capabilities of Transformers.
 - <b>Christos Christodoulopoulos</b>: a Senior Applied Scientist at Amazon Research Cambridge, working on knowledge extraction and verification.
-- <b>Mario Giulianelli</b>: a postdoctoral fellow at ETH Zürich, where he works with the Rycolab in the Institute for Machine Learning.
-- <b>Ryan Cotterell</b>: an assistant professor of computer science at ETH Zürich where he is affiliated with the Institute for Machine Learning, the AI Center, and the Media Technology Center. He primarily researches topics in natural language publishing and machine learning.
+- <b>Mario Giulianelli</b>: a postdoctoral fellow at ETH Zürich, he studies information processing in humans and computational models of language. His current focus areas include language model evaluation and analysis, computational psycholinguistics, semantic variation and change.
+- <b>Ryan Cotterell</b>: an assistant professor of computer science at ETH Zürich where he is affiliated with the Institute for Machine Learning, the AI Center, and the Media Technology Center. He primarily researches topics in natural language processing and machine learning.
 
 
 
