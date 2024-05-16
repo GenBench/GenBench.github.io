@@ -5,7 +5,7 @@ toc: true
 author_profile: false
 layout: single_wide
 toc_sticky: true
-excerpt: "The second workshop on (benchmarking) generalisation in NLP"
+excerpt: "The second workshop on generalisation (benchmarking) in NLP"
 header:
   overlay_color: "#268"
 ---
