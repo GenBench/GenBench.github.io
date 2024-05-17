@@ -84,6 +84,18 @@ All submissions can be submitted through OpenReview: [https://openreview.net/gro
 ## Preprints
 We do not have an anonymity deadline, preprints are allowed, both before the submission deadline as well as after.
 
+# Sponsors
+We would like to thank Amazon for sponsoring our workshop. 
+
+![Amazon Sponsor](/img/sponsor/amazon_logo_RGB.png){:width="400px"}
+
+## Scholarships
+With the support of our workshop sponsor Amazon, we are offering 5 scholarships, each covering up to $750 of travel expenses and/or (virtual) registration fees.
+We strongly encourage students from developing countries and marginalized communities to apply.
+To submit your application, please send us an email (genbench@googlegroups.com) with the following information (the deadline is *August 15*):
+- your CV
+- A few motivational sentences: why do you want to attend the workshop, and how would the funds help you with that?
+
 # Contact
 You can reach out to us via the following email address: [genbench@googlegroups.com](mailto:genbench@googlegroups.com)
 
