@@ -92,7 +92,7 @@ We would like to thank Amazon for sponsoring our workshop.
 ## Scholarships
 With the support of our workshop sponsor Amazon, we are offering 5 scholarships, each covering up to $750 of travel expenses and/or (virtual) registration fees.
 We strongly encourage students from developing countries and marginalized communities to apply.
-To submit your application, please send us an email (genbench@googlegroups.com) with the following information (the deadline is *August 15*):
+To submit your application, please send us an email with the following information (the deadline is *August 15*):
 - your CV
 - A few motivational sentences: why do you want to attend the workshop, and how would the funds help you with that?
 
