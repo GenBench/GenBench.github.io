@@ -11,7 +11,7 @@ header:
 ---
 
 # News
-- Thanks to our workshop sponsor Amazon, we're offering travel scholarships! Apply now: [https://genbench.org/workshop/#scholarships](https://genbench.org/workshop/#scholarships)
+- Thanks to our workshop sponsor Amazon, we'll be giving out a best paper award, and have travel scholarships available for students! Apply for the scholarships now: [https://genbench.org/workshop/#scholarships](https://genbench.org/workshop/#scholarships).
 - Our [call for papers](../cfp2024.txt) is online!
 - Delighted to announce the GenBench 2024 Workshop will come back @ EMNLP 2024
 
