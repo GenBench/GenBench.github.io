@@ -11,6 +11,7 @@ header:
 ---
 
 # News
+- **We extended the submission deadline for scholarships, papers & CBT submissions: submit by August 18, AoE!**
 - Thanks to our workshop sponsor Amazon, we'll be giving out a best paper award, and have travel scholarships available for students! Apply for the scholarships now: [https://genbench.org/workshop/#scholarships](https://genbench.org/workshop/#scholarships).
 - Our [call for papers](../cfp2024.txt) is online!
 - Delighted to announce the GenBench 2024 Workshop will come back @ EMNLP 2024
@@ -21,7 +22,7 @@ The Second GenBench workshop will be held at [EMNLP 2024](https://2024.emnlp.org
 
 # Important dates (Tentative)
 
-- **August 15, 2024** – Paper submission deadline, submission link: TBA
+- **August 18, 2024** – Paper submission deadline
 - **September 20, 2024** - Notification deadline
 - **October 4, 2024** – Camera-ready deadline (you can use up to 9 pages for your camera-ready paper!)
 - **November 15-16, 2024** – Workshop
@@ -93,7 +94,7 @@ We would like to thank Amazon for sponsoring our workshop.
 ## Scholarships
 With the support of our workshop sponsor Amazon, we are offering 5 scholarships, each covering up to $750 of travel expenses and/or (virtual) registration fees.
 We strongly encourage students from developing countries and marginalized communities to apply.
-To submit your application, please send us an email with the following information (the deadline is *August 15*):
+To submit your application, please send us an email with the following information (the deadline is *August 18*):
 - your CV
 - A few motivational sentences: why do you want to attend the workshop, and how would the funds help you with that?
 
