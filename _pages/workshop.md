@@ -18,14 +18,14 @@ header:
 
 # Venue
 
-The Second GenBench workshop will be held at [EMNLP 2024](https://2024.emnlp.org/) in Miami, Florida on November 15-16.
+The Second GenBench workshop will be held at [EMNLP 2024](https://2024.emnlp.org/) in Miami, Florida on November 16.
 
 # Important dates (Tentative)
 
 - **August 18, 2024** – Paper submission deadline
 - **September 20, 2024** - Notification deadline
 - **October 4, 2024** – Camera-ready deadline (you can use up to 9 pages for your camera-ready paper!)
-- **November 15-16, 2024** – Workshop
+- **November 16, 2024** – Workshop
 
 *Note: all deadlines are 11:59PM UTC-12:00. We will accept ARR submissions; corresponding deadlines will be announced at a later moment in time.*
 
