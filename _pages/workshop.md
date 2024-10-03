@@ -11,7 +11,8 @@ header:
 ---
 
 # News
-- **We extended the submission deadline for scholarships, papers & CBT submissions: submit by August 18, AoE!**
+- **Would you like to present your EMNLP 2024 Findings paper at the GenBench workshop? Email us, and we'll see whether it's a match!**
+- We extended the submission deadline for scholarships, papers & CBT submissions: submit by August 18, AoE!
 - Thanks to our workshop sponsor Amazon, we'll be giving out a best paper award, and have travel scholarships available for students! Apply for the scholarships now: [https://genbench.org/workshop/#scholarships](https://genbench.org/workshop/#scholarships).
 - Our [call for papers](../cfp2024.txt) is online!
 - Delighted to announce the GenBench 2024 Workshop will come back @ EMNLP 2024
