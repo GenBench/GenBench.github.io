@@ -140,7 +140,7 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
 </details> 
 
 
-> ### <span style="color:grey">14:45-15:30 PM —</span> Keynote 3, by Sameer Singh
-> ### <span style="color:grey">15:30-16:00 PM —</span> Coffee break
-> ### <span style="color:grey">16:00-16:30PM —</span> Panel
-> ### <span style="color:grey">16:30-16:45PM —</span> Closing remarks and best paper award
+### <span style="color:grey">14:45-15:30 PM —</span> Keynote 3, by Sameer Singh
+### <span style="color:grey">15:30-16:00 PM —</span> Coffee break
+### <span style="color:grey">16:00-16:30PM —</span> Panel
+### <span style="color:grey">16:30-16:45PM —</span> Closing remarks and best paper award
