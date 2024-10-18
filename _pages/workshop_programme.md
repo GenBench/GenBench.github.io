@@ -19,10 +19,12 @@ Note that all time slots listed below are in Eastern Standard Time (UTC-5).
 ### <span style="color:grey">09:00-09:15 AM —</span> Opening remarks
 ### <span style="color:grey">09:15-10:00 AM —</span> Keynote 1, by Pascale Fung
 
-%![Anna Rogers Speaker](/img/speakers/anna.jpg){:width="150px"}
-%> <b>Title:</b> [A sanity check on emergent properties](/assets/workshop2023_slides/rogers_genbench2023.pdf)
-%> 
-%> <b>Abstract:</b> One of the frequent points in the mainstream narrative about large language models is that they have "emergent properties" (sometimes even dangerous enough to be considered existential risk to mankind). However, there is much disagreement about even the very definition of such properties. If they are understood as a kind of generalization beyond training data - as something that a model does without being explicitly trained for it - I argue that we have not in fact established the existence of any such properties, and at the moment we do not even have the methodology for doing so.
+<!---
+> ![Anna Rogers Speaker](/img/speakers/anna.jpg){:width="150px"}
+> <b>Title:</b> [A sanity check on emergent properties](/assets/workshop2023_slides/rogers_genbench2023.pdf)
+> 
+> <b>Abstract:</b> One of the frequent points in the mainstream narrative about large language models is that they have "emergent properties" (sometimes even dangerous enough to be considered existential risk to mankind). However, there is much disagreement about even the very definition of such properties. If they are understood as a kind of generalization beyond training data - as something that a model does without being explicitly trained for it - I argue that we have not in fact established the existence of any such properties, and at the moment we do not even have the methodology for doing so.
+--> 
 
 ### <span style="color:grey">10:00-10:30 AM —</span> Oral presentations
 
@@ -55,6 +57,7 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
 
 ## <span style="color:grey"> 12:30-13:30 PM —</span> Lunch break
 
+<!---
 > ## Afternoon programme
 > ### <span style="color:grey">10:00-11:15 AM —</span> Poster session 1
 > <details>
@@ -93,4 +96,4 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
 > ### <span style="color:grey">15:30-16:00 PM —</span> Coffee break
 > ### <span style="color:grey">17:00-17:30PM —</span> Panel
 > ### <span style="color:grey">17:30-17:45PM —</span> Closing remarks and best paper award
-
+-->
