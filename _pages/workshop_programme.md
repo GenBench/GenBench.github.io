@@ -55,12 +55,12 @@ Bastian Bunzeck, Sina Zarrieß
 - <b>MMLU-SR: A Benchmark for Stress-Testing Reasoning Capability of Large Language Models</b><br>
 Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
 
-## <span style="color:grey"> 12:30-13:30 PM —</span> Lunch break
+## <span style="color:grey"> 12:30-1:30 PM —</span> Lunch break
 
 
 ## Afternoon programme
 
-### <span style="color:grey">13:30-14:45 AM —</span> Poster session
+### <span style="color:grey">1:30-2:45 PM —</span> Poster session
 <details>
 <summary>Click to toggle an overview of the posters that will be presented in this session.</summary>
 <ul>
@@ -151,8 +151,7 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
 </ul>
 </details> 
 
-
-### <span style="color:grey">14:45-15:30 PM —</span> Keynote 3, by Sameer Singh
-### <span style="color:grey">15:30-16:00 PM —</span> Coffee break
-### <span style="color:grey">16:00-16:30PM —</span> Panel
-### <span style="color:grey">16:30-16:45PM —</span> Closing remarks and best paper award
+### <span style="color:grey">2:45-3:30 PM —</span> Keynote 3, by Sameer Singh
+### <span style="color:grey">3:30-4:00 PM —</span> Coffee break
+### <span style="color:grey">4:00-4:30 PM —</span> Panel
+### <span style="color:grey">4:30-4:45 PM —</span> Closing remarks and best paper award
