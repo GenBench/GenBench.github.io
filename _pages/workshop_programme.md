@@ -65,6 +65,18 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
 <summary>Click to toggle an overview of the posters that will be presented in this session.</summary>
 <ul>
   <li>
+      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b>MLissard: Multilingual Long and Simple Sequential Reasoning Benchmarks</b> <br>
+      Mirelle Candida Bueno, Roberto Lotufo, Rodrigo Frassetto Nogueira
+  </li>
+  <li>
+      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b>OmniDialog: A Multimodal Benchmark for Generalization Across Text, Visual, and Audio Modalities</b> <br>
+      Anton Razzhigaev, Maxim Kurkin, Elizaveta Goncharova, Irina Abdullaeva, Anastasia Lysenko, Alexander Panchenko, Andrey Kuznetsov, Denis Dimitrov
+  </li>
+  <li>
+      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b>MultiPragEval: Multilingual Pragmatic Evaluation of Large Language Models</b> <br>
+      Dojun Park, Jiwoo Lee, Seohyun Park, Hyeyun Jeong, Youngeun Koo, Soonha Hwang, Seonwoo Park, Sungeun Lee
+  </li>
+  <li>
       <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b>From Language to Pixels: Task Recognition and Task Learning in LLMs</b> <br>
       Janek Falkenstein, Carolin M. Schuster, Alexander H Berger, Georg Groh
   </li>
