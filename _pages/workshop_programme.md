@@ -55,7 +55,7 @@ Bastian Bunzeck, Sina Zarrieß
 - <b>MMLU-SR: A Benchmark for Stress-Testing Reasoning Capability of Large Language Models</b><br>
 Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
 
-## <span style="color:grey"> 12:30-1:30 PM —</span> Lunch break
+## <span style="color:grey"> 12:30-1:45 PM —</span> Lunch break
 
 
 ## Afternoon programme
