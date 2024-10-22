@@ -60,7 +60,7 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
 
 ## Afternoon programme
 
-### <span style="color:grey">1:30-2:45 PM —</span> Poster session
+### <span style="color:grey">1:45-3:00 PM —</span> Poster session
 <details>
 <summary>Click to toggle an overview of the posters that will be presented in this session.</summary>
 <ul>
@@ -151,7 +151,7 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
 </ul>
 </details> 
 
-### <span style="color:grey">2:45-3:30 PM —</span> Keynote 3, by Sameer Singh
-### <span style="color:grey">3:30-4:00 PM —</span> Coffee break
+### <span style="color:grey">3:00-3:45 PM —</span> Keynote 3, by Sameer Singh
+### <span style="color:grey">3:45-4:00 PM —</span> Coffee break
 ### <span style="color:grey">4:00-4:30 PM —</span> Panel
 ### <span style="color:grey">4:30-4:45 PM —</span> Closing remarks and best paper award
