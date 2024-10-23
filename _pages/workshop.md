@@ -111,6 +111,48 @@ The GenBench-2024 workshop is organised by:
 - <b>Mario Giulianelli</b>: a postdoctoral fellow at ETH Zürich, he studies information processing in humans and computational models of language. His current focus areas include language model evaluation and analysis, computational psycholinguistics, semantic variation and change.
 - <b>Ryan Cotterell</b>: an assistant professor of computer science at ETH Zürich where he is affiliated with the Institute for Machine Learning, the AI Center, and the Media Technology Center. He primarily researches topics in natural language processing and machine learning.
 
+# Program Committee
+Sachin Agarwal, Apple
+Parsa Bagherzadeh, McGill University
+Marco Basaldella, Amazon
+Jonathan Brophy, University of Oregon
+Lisa Bylinina, Utrecht University
+Gautier Dagan, University of Edinburgh
+Erenay Dayanik, Amazon
+Subham De, Meta AI
+Bryan Eikema, University of Amsterdam
+Jean-Philippe Fauconnier, Apple
+Antske Fokkens, VU University Amsterdam
+Robert Frank, Yale University
+Richard Futrell, University of California, Irvine
+Michael Eric Goodale, Ecole Normale Supérieure de Paris
+Deepanshu Gupta, Apple
+Coleman Haley, University of Edinburgh
+Cassandra L Jacobs, State University of New York, Buffalo
+Yangfeng Ji, University of Virginia
+Bogdan Kulynych, CHUV - University Hospital Lausanne
+Jenny Kunz, Linköping University
+Matthias Lindemann, University of Edinburgh, University of Edinburgh
+R. Thomas McCoy, Yale University
+Kate McCurdy, Universität des Saarlandes
+Houman Mehrafarin, Heriot-Watt University
+Koji Mineshima, Keio University
+Mira Moukheiber, Massachusetts Institute of Technology
+Anmol Nayak, Bosch
+Swetasudha Panda, Oracle
+Lis Pereira, National Institute of Information and Communications Technology (NICT)
+Jirui Qi, University of Groningen
+Rudolf Rosa, Charles University
+Rimvydas Rubavicius, Edinburgh University
+Djamé Seddah, Inria Paris (on teaching leave from Sorbonne Université)
+Tatiana Shavrina, Artificial Intelligence Research Institute
+Sanchit Sinha, University of Virginia
+Shane Steinert-Threlkeld, University of Washington
+Aditya Kaushik Surikuchi, University of Amsterdam
+Jithendra Vepa, Idiap Research Institute
+Fabio Massimo Zanzotto, University of Rome Tor Vergata
+Churan Zhi, University of California, San Diego
+Michal Štefánik, Masaryk University
 
 
 # Anti-Harassment Policy
