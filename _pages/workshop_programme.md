@@ -148,6 +148,10 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
       <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Measuring the Robustness of NLP Models to Domain Shifts</b> <br>
       Nitay Calderon, Naveh Porat, Eyal Ben-David, Alexander Chapanin, Zorik Gekhman, Nadav Oved, Vitaly Shalumov, Roi Reichart
   </li>
+  <li>
+      <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Reconfidencing LLM Uncertainty from the Grouping Loss Perspective</b> <br>
+      Lihu Chen, Alexandre Perez-Lebel, Fabian M. Suchanek, Gaël Varoquaux1
+  </li>
 </ul>
 </details> 
 
