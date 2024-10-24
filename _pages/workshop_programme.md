@@ -12,7 +12,7 @@ header:
 
 # Programme
 
-Note that all time slots listed below are in Eastern Standard Time (UTC-5). The programme is tentative at the moment!
+Note that all time slots listed below are in Eastern Standard Time (UTC-5) and that all sessions take place in the Brickell room. The programme is tentative at the moment!
 
 ## Morning programme
 
