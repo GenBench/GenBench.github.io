@@ -150,7 +150,7 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
   </li>
   <li>
       <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Reconfidencing LLM Uncertainty from the Grouping Loss Perspective</b> <br>
-      Lihu Chen, Alexandre Perez-Lebel, Fabian M. Suchanek, Gaël Varoquaux1
+      Lihu Chen, Alexandre Perez-Lebel, Fabian M. Suchanek, Gaël Varoquaux
   </li>
 </ul>
 </details> 
