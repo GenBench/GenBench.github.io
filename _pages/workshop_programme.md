@@ -17,10 +17,10 @@ Note that all time slots listed below are in Eastern Standard Time (UTC-5) and t
 ## Morning programme
 
 ### <span style="color:grey">09:00-09:15 AM —</span> Opening remarks
-### <span style="color:grey">09:15-10:00 AM —</span> Keynote 1
-
+### <span style="color:grey">09:15-10:00 AM —</span> Keynote 1, by Najoung Kim
+[Najoung Kim Speaker](/img/speakers/najoung.png){:width="150px"}
 <!---
-> ![Anna Rogers Speaker](/img/speakers/anna.jpg){:width="150px"}
+> !
 > <b>Title:</b> [A sanity check on emergent properties](/assets/workshop2023_slides/rogers_genbench2023.pdf)
 > 
 > <b>Abstract:</b> ...
@@ -36,7 +36,7 @@ Ritam Dutt, Sagnik Ray Choudhury, Varun Venkat Rao, Carolyn Rose, V.G. Vinod Vyd
 
 ### <span style="color:grey">10:30-11:00 AM —</span> Coffee break
 
-### <span style="color:grey">11:00-11:45 AM —</span> Keynote 2, by Najoung Kim
+### <span style="color:grey">11:00-11:45 AM —</span> Keynote 2
 
 ### <span style="color:grey">11:45-12:30 AM —</span> Spotlight presentations
 
