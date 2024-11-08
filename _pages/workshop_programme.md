@@ -19,7 +19,7 @@ Note that all time slots listed below are in Eastern Standard Time (UTC-5) and t
 ### <span style="color:grey">09:00-09:15 AM —</span> Opening remarks
 ### <span style="color:grey">09:15-10:00 AM —</span> Keynote 1, by Najoung Kim
 
-[Najoung Kim Speaker](/img/speakers/najoung.png){:width="150px"}
+![Najoung Kim Speaker](/img/speakers/najoung.png){:width="150px"}
 
 <!---
 > !
