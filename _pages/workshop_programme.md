@@ -61,8 +61,7 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
 ## Afternoon programme
 
 ### <span style="color:grey">1:45-3:00 PM —</span> Poster session
-<details>
-<summary>Click to toggle an overview of the posters that will be presented in this session.</summary>
+
 <ul>
   <li>
       <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b>MLissard: Multilingual Long and Simple Sequential Reasoning Benchmarks</b> <br>
@@ -153,7 +152,6 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
       Lihu Chen, Alexandre Perez-Lebel, Fabian M. Suchanek, Gaël Varoquaux
   </li>
 </ul>
-</details> 
 
 ### <span style="color:grey">3:00-3:45 PM —</span> Keynote 3, by Sameer Singh
 ### <span style="color:grey">3:45-4:00 PM —</span> Coffee break
