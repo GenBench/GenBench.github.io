@@ -28,10 +28,10 @@ Note that all time slots listed below are in Eastern Standard Time (UTC-5) and t
 
 ### <span style="color:grey">10:00-10:30 AM —</span> Oral presentations
 
-- <b><span style="color:grey">14:45-15:00 PM — </span> Is artificial intelligence still intelligence? LLMs generalize to novel adjective-noun pairs, but don’t mimic the full human distribution</b><br>
+- <b><span style="color:grey">14:45-15:00 PM — </span> [Is artificial intelligence still intelligence? LLMs generalize to novel adjective-noun pairs, but don’t mimic the full human distribution](https://aclanthology.org/2024.genbench-1.9.pdf) </b><br>
 Hayley Ross, Kathryn Davidson, Najoung Kim
 
-- <b><span style="color:grey">15:00-15:15 PM — </span> Investigating the Generalizability of Pretrained Language Models across Multiple Dimensions: A Case Study of NLI and MRC</b><br>
+- <b><span style="color:grey">15:00-15:15 PM — </span> [Investigating the Generalizability of Pretrained Language Models across Multiple Dimensions: A Case Study of NLI and MRC](https://aclanthology.org/2024.genbench-1.11.pdf)</b><br>
 Ritam Dutt, Sagnik Ray Choudhury, Varun Venkat Rao, Carolyn Rose, V.G. Vinod Vydiswaran
 
 ### <span style="color:grey">10:30-11:00 AM —</span> Coffee break
@@ -40,19 +40,19 @@ Ritam Dutt, Sagnik Ray Choudhury, Varun Venkat Rao, Carolyn Rose, V.G. Vinod Vyd
 
 ### <span style="color:grey">11:45-12:30 AM —</span> Spotlight presentations
 
-- <b>MLissard: Multilingual Long and Simple Sequential Reasoning Benchmarks</b><br>
+- <b>[MLissard: Multilingual Long and Simple Sequential Reasoning Benchmarks](https://aclanthology.org/2024.genbench-1.6.pdf) </b><br>
 Mirelle Candida Bueno (presenter), Roberto Lotufo, Rodrigo Frassetto Nogueira
 
-- <b>OmniDialog: A Multimodal Benchmark for Generalization Across Text, Visual, and Audio Modalities</b><br>
+- <b>[OmniDialog: A Multimodal Benchmark for Generalization Across Text, Visual, and Audio Modalities](https://aclanthology.org/2024.genbench-1.12.pdf)</b><br>
 Anton Razzhigaev, Maxim Kurkin (presenter), Elizaveta Goncharova, Irina Abdullaeva, Anastasia Lysenko, Alexander Panchenko, Andrey Kuznetsov, Denis Dimitrov
 
-- <b>MultiPragEval: Multilingual Pragmatic Evaluation of Large Language Models</b><br>
+- <b>[MultiPragEval: Multilingual Pragmatic Evaluation of Large Language Models](https://aclanthology.org/2024.genbench-1.7.pdf)</b><br>
 Dojun Park, Jiwoo Lee (presenter), Seohyun Park, Hyeyun Jeong, Youngeun Koo, Soonha Hwang, Seonwoo Park, Sungeun Lee
 
-- <b>The SlayQA benchmark of social reasoning: testing gender-inclusive generalization with neopronouns</b><br>
+- <b>[The SlayQA benchmark of social reasoning: testing gender-inclusive generalization with neopronouns](https://aclanthology.org/2024.genbench-1.3.pdf)</b><br>
 Bastian Bunzeck (presenter), Sina Zarrieß
 
-- <b>MMLU-SR: A Benchmark for Stress-Testing Reasoning Capability of Large Language Models</b><br>
+- <b>[MMLU-SR: A Benchmark for Stress-Testing Reasoning Capability of Large Language Models](https://aclanthology.org/2024.genbench-1.5.pdf)</b><br>
 Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
 
 ## <span style="color:grey"> 12:30-1:45 PM —</span> Lunch break
@@ -64,47 +64,47 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
 
 <ul>
   <li>
-      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b>MLissard: Multilingual Long and Simple Sequential Reasoning Benchmarks</b> <br>
+      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b><a herf="https://aclanthology.org/2024.genbench-1.6.pdf">MLissard: Multilingual Long and Simple Sequential Reasoning Benchmarks</a></b> <br>
       Mirelle Candida Bueno, Roberto Lotufo, Rodrigo Frassetto Nogueira
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b>OmniDialog: A Multimodal Benchmark for Generalization Across Text, Visual, and Audio Modalities</b> <br>
+      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <a href="https://aclanthology.org/2024.genbench-1.12.pdf"><b>OmniDialog: A Multimodal Benchmark for Generalization Across Text, Visual, and Audio Modalities</b></a> <br>
       Anton Razzhigaev, Maxim Kurkin, Elizaveta Goncharova, Irina Abdullaeva, Anastasia Lysenko, Alexander Panchenko, Andrey Kuznetsov, Denis Dimitrov
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b>MultiPragEval: Multilingual Pragmatic Evaluation of Large Language Models</b> <br>
+      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <a href="https://aclanthology.org/2024.genbench-1.7.pdf"><b>MultiPragEval: Multilingual Pragmatic Evaluation of Large Language Models</b></a> <br>
       Dojun Park, Jiwoo Lee, Seohyun Park, Hyeyun Jeong, Youngeun Koo, Soonha Hwang, Seonwoo Park, Sungeun Lee
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b>From Language to Pixels: Task Recognition and Task Learning in LLMs</b> <br>
+      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <a href="https://aclanthology.org/2024.genbench-1.2.pdf"><b>From Language to Pixels: Task Recognition and Task Learning in LLMs</b></a><br>
       Janek Falkenstein, Carolin M. Schuster, Alexander H Berger, Georg Groh
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b>Automated test generation to evaluate tool-augmented LLMs as conversational AI agents</b> <br>
+      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <a href="https://aclanthology.org/2024.genbench-1.4.pdf"><b>Automated test generation to evaluate tool-augmented LLMs as conversational AI agents</b></a> <br>
       Samuel Arcadinho, David Oliveira Aparicio, Mariana S. C. Almeida
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b>Beyond the Numbers: Transparency in Relation Extraction Benchmark Creation and Leaderboards</b> <br>
+      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <a href="https://aclanthology.org/2024.genbench-1.8.pdf"><b>Beyond the Numbers: Transparency in Relation Extraction Benchmark Creation and Leaderboards</b></a><br>
       Varvara Arzt, Allan Hanbury
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b>CHIE: Generative MRC Evaluation for in-context QA with Correctness, Helpfulness, Irrelevancy, and Extraneousness Aspects</b> <br>
+      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <a href="https://aclanthology.org/2024.genbench-1.10.pdf"><b>CHIE: Generative MRC Evaluation for in-context QA with Correctness, Helpfulness, Irrelevancy, and Extraneousness Aspects</b></a> <br>
       Wannaphong Phatthiyaphaibun, Surapon Nonesung, Peerat Limkonchotiwat, Can Udomcharoenchaikit, Jitkapat Sawatphol, Ekapol Chuangsuwanich, Sarana Nutanong
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b>Evaluating the fairness of task-adaptive pretraining on unlabeled test data before few-shot text classification</b> <br>
+      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <a href="https://aclanthology.org/2024.genbench-1.1.pdf"><b>Evaluating the fairness of task-adaptive pretraining on unlabeled test data before few-shot text classification</b></a> <br>
       Kush Dubey
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b>Towards a new Benchmark for Emotion Detection in NLP: A Unifying Framework of Recent Corpora</b> <br>
+      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <a href="https://aclanthology.org/2024.genbench-1.13.pdf"><b>Towards a new Benchmark for Emotion Detection in NLP: A Unifying Framework of Recent Corpora</b></a> <br>
       Anna Koufakou, Elijah Nieves, John Peller
   </li>  
   <li>
-      <span style="color:#ffffff; background-color: #74849c; border-radius:4px; padding:3px">GenBench CBT</span> <b>The SlayQA benchmark of social reasoning: testing gender-inclusive generalization with neopronouns</b> <br>
+      <span style="color:#ffffff; background-color: #74849c; border-radius:4px; padding:3px">GenBench CBT</span> <a href="https://aclanthology.org/2024.genbench-1.3.pdf"><b>The SlayQA benchmark of social reasoning: testing gender-inclusive generalization with neopronouns</b></a> <br>
       Bastian Bunzeck, Sina Zarrieß
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #74849c; border-radius:4px; padding:3px">GenBench CBT</span> <b>MMLU-SR: A Benchmark for Stress-Testing Reasoning Capability of Large Language Models</b> <br>
+      <span style="color:#ffffff; background-color: #74849c; border-radius:4px; padding:3px">GenBench CBT</span> <a href="https://aclanthology.org/2024.genbench-1.5.pdf"><b>MMLU-SR: A Benchmark for Stress-Testing Reasoning Capability of Large Language Models</b></a> <br>
       Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
   </li>
   <li>
@@ -144,11 +144,11 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
       Ritam Dutt, Dongfang Ling, Yu Gu, Carolyn Rose
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Measuring the Robustness of NLP Models to Domain Shifts</b> <br>
+      <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <a href="https://arxiv.org/abs/2306.00168"><b>Measuring the Robustness of NLP Models to Domain Shifts</b></a> <br>
       Nitay Calderon, Naveh Porat, Eyal Ben-David, Alexander Chapanin, Zorik Gekhman, Nadav Oved, Vitaly Shalumov, Roi Reichart
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <b>Reconfidencing LLM Uncertainty from the Grouping Loss Perspective</b> <br>
+      <span style="color:#ffffff; background-color: #0b7ef6; border-radius:4px; padding:3px">Findings</span> <a href="https://arxiv.org/abs/2402.04957v3"><b>Reconfidencing LLM Uncertainty from the Grouping Loss Perspective</b></a> <br>
       Lihu Chen, Alexandre Perez-Lebel, Fabian M. Suchanek, Gaël Varoquaux
   </li>
 </ul>
