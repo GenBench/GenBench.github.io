@@ -21,12 +21,10 @@ Note that all time slots listed below are in Eastern Standard Time (UTC-5) and t
 
 ![Najoung Kim Speaker](/img/speakers/najoung.png){:width="150px"}
 
-<!---
-> !
-> <b>Title:</b> [A sanity check on emergent properties](/assets/workshop2023_slides/rogers_genbench2023.pdf)
-> 
-> <b>Abstract:</b> ...
---> 
+<b>Title:</b> Semantic generalizations in humans and machines <br />
+
+<b>Abstract:</b> Abstract: Do machines "understand"? Empirically addressing this question requires an operationalization of what it means to understand. In this talk, I will discuss three tests for machines grounded in formal semantic theories that characterize various aspects of human linguistic understanding, examining the capacities to assign adequate meaning representations to linguistic expressions, to track entities and their states in discourse, and to draw adequate inferences from complex expressions. Critically, these capacities must _generalize_ to unseen expressions. I will discuss the findings from these studies contextualized with respect to human capacities.
+
 
 ### <span style="color:grey">10:00-10:30 AM —</span> Oral presentations
 
