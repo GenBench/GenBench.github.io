@@ -64,7 +64,7 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
 
 <ul>
   <li>
-      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b><a herf="https://aclanthology.org/2024.genbench-1.6.pdf">MLissard: Multilingual Long and Simple Sequential Reasoning Benchmarks</a></b> <br>
+      <span style="color:#ffffff; background-color: #ab438a; border-radius:4px; padding:3px">GenBench</span> <b><a href="https://aclanthology.org/2024.genbench-1.6.pdf">MLissard: Multilingual Long and Simple Sequential Reasoning Benchmarks</a></b> <br>
       Mirelle Candida Bueno, Roberto Lotufo, Rodrigo Frassetto Nogueira
   </li>
   <li>
