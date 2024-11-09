@@ -108,15 +108,15 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
       Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <b>A Peek into Token Bias: Large Language Models Are Not Yet Genuine Reasoners</b> <a href="/assets/extended_abstracts_2023/18_A_Peek_into_Token_Bias_Larg.pdf">[Extended Abstract]</a> <br>
+      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <a href="/assets/extended_abstracts_2023/18_A_Peek_into_Token_Bias_Larg.pdf"><b>A Peek into Token Bias: Large Language Models Are Not Yet Genuine Reasoners</b></a> <br>
       Bowen Jiang, Yangxinyu Xie, Zhuoqun Hao, Xiaomeng Wang, Tanwi Mallick, Weijie J Su, Camillo Jose Taylor, Dan Roth
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <b>Cross-Domain Question Generation: A Comparative Study</b> <a href="/assets/extended_abstracts_2023/24_Cross_Domain_Question_Gener.pdf">[Extended Abstract]</a> <br>
+      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <a href="/assets/extended_abstracts_2023/24_Cross_Domain_Question_Gener.pdf"><b>Cross-Domain Question Generation: A Comparative Study</b> </a> <br>
       Niloufar Beyranvand, Aijun An, Heidar Davoudi
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <b>The Relationship Between Compositional Generalization and Misinformation in Emergent Communication</b> <a href="/assets/extended_abstracts_2023/19_The_Relationship_Between_Co.pdf">[Extended Abstract]</a> <br>
+      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <a href="/assets/extended_abstracts_2023/19_The_Relationship_Between_Co.pdf"><b>The Relationship Between Compositional Generalization and Misinformation in Emergent Communication</b></a> <br>
       Heeyoung Lee
   </li>
   <li>
@@ -124,23 +124,23 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
       Danial Kamali, Elham Barezi, Parisa Kordjamshidi
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <b>Benchmarking Foundation Models on Exceptional Cases: Dataset Creation and Validation</b> <a href="/assets/extended_abstracts_2023/14_Benchmarking_Foundation_Mod.pdf">[Extended Abstract]</a> <br>
+      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <a href="/assets/extended_abstracts_2023/14_Benchmarking_Foundation_Mod.pdf"><b>Benchmarking Foundation Models on Exceptional Cases: Dataset Creation and Validation</b></a> <br>
       Suho Kang, Jungyang Park, Joonseo Ha, SoMin Kim, JinHyeong Kim, Subeen Park, Kyungwoo Song
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <b>LUCY: Linking Uncertainty and ConsistencY of Large Language Models for Question Answering</b> <a href="/assets/extended_abstracts_2023/31_LUCY_Linking_Uncertainty_an.pdf">[Extended Abstract]</a> <br>
+      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <a href="/assets/extended_abstracts_2023/31_LUCY_Linking_Uncertainty_an.pdf"><b>LUCY: Linking Uncertainty and ConsistencY of Large Language Models for Question Answering</b></a> <br>
       Urja Khurana, Lea Krause
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <b>Can General-Purpose Large Language Models Generalize to English-Thai Machine Translation?</b> <a href="/assets/extended_abstracts_2023/15_Can_General_Purpose_Large_L.pdf">[Extended Abstract]</a> <br> 
+      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <a href="/assets/extended_abstracts_2023/15_Can_General_Purpose_Large_L.pdf"><b>Can General-Purpose Large Language Models Generalize to English-Thai Machine Translation?</b></a> <br> 
       Jirat Chiaranaipanich, Naiyarat Hanmatheekuna, Jitkapat Sawatphol, Krittamate Tiankanon, Jiramet Kinchagawat, Amrest Chinkamol, Parinthapat Pengpun, Piyalitt Ittichaiwong, Peerat Limkonchotiwat
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <b>Towards Dynamic and Realistic Evaluation of Multi-modal Large Language Model</b> <a href="/assets/extended_abstracts_2023/30_Towards_Dynamic_and_Realist.pdf">[Extended Abstract]</a> <br>
+      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <a href="/assets/extended_abstracts_2023/30_Towards_Dynamic_and_Realist.pdf"><b>Towards Dynamic and Realistic Evaluation of Multi-modal Large Language Model</b></a> <br>
       Huiqi Zou, Yijiang Li, Ziang Xiao
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <b>Leveraging Isomorphisms to facilitate Zero-Shot KBQA Generalization</b> <a href="/assets/extended_abstracts_2023/34_Leveraging_Isomorphisms_to_.pdf">[Extended Abstract]</a>  <br>
+      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <a href="/assets/extended_abstracts_2023/34_Leveraging_Isomorphisms_to_.pdf"><b>Leveraging Isomorphisms to facilitate Zero-Shot KBQA Generalization</b></a> <br>
       Ritam Dutt, Dongfang Ling, Yu Gu, Carolyn Rose
   </li>
   <li>
