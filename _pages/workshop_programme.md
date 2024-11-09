@@ -41,16 +41,16 @@ Ritam Dutt, Sagnik Ray Choudhury, Varun Venkat Rao, Carolyn Rose, V.G. Vinod Vyd
 ### <span style="color:grey">11:45-12:30 AM —</span> Spotlight presentations
 
 - <b>MLissard: Multilingual Long and Simple Sequential Reasoning Benchmarks</b><br>
-Mirelle Candida Bueno, Roberto Lotufo, Rodrigo Frassetto Nogueira
+Mirelle Candida Bueno (presenter), Roberto Lotufo, Rodrigo Frassetto Nogueira
 
 - <b>OmniDialog: A Multimodal Benchmark for Generalization Across Text, Visual, and Audio Modalities</b><br>
-Anton Razzhigaev, Maxim Kurkin, Elizaveta Goncharova, Irina Abdullaeva, Anastasia Lysenko, Alexander Panchenko, Andrey Kuznetsov, Denis Dimitrov
+Anton Razzhigaev, Maxim Kurkin (presenter), Elizaveta Goncharova, Irina Abdullaeva, Anastasia Lysenko, Alexander Panchenko, Andrey Kuznetsov, Denis Dimitrov
 
 - <b>MultiPragEval: Multilingual Pragmatic Evaluation of Large Language Models</b><br>
-Dojun Park, Jiwoo Lee, Seohyun Park, Hyeyun Jeong, Youngeun Koo, Soonha Hwang, Seonwoo Park, Sungeun Lee
+Dojun Park, Jiwoo Lee (presenter), Seohyun Park, Hyeyun Jeong, Youngeun Koo, Soonha Hwang, Seonwoo Park, Sungeun Lee
 
 - <b>The SlayQA benchmark of social reasoning: testing gender-inclusive generalization with neopronouns</b><br>
-Bastian Bunzeck, Sina Zarrieß
+Bastian Bunzeck (presenter), Sina Zarrieß
 
 - <b>MMLU-SR: A Benchmark for Stress-Testing Reasoning Capability of Large Language Models</b><br>
 Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
