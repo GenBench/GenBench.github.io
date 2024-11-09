@@ -112,11 +112,11 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
       Bowen Jiang, Yangxinyu Xie, Zhuoqun Hao, Xiaomeng Wang, Tanwi Mallick, Weijie J Su, Camillo Jose Taylor, Dan Roth
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <b>Cross-Domain Question Generation: A Comparative Study</b> <a href="/assets/extended_abstracts_2023/24_Cross_Domain_Question_Gener.pdf">[Extended Abstract]<a> <br>
+      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <b>Cross-Domain Question Generation: A Comparative Study</b> <a href="/assets/extended_abstracts_2023/24_Cross_Domain_Question_Gener.pdf">[Extended Abstract]</a> <br>
       Niloufar Beyranvand, Aijun An, Heidar Davoudi
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <b>The Relationship Between Compositional Generalization and Misinformation in Emergent Communication</b> <a href="/assets/extended_abstracts_2023/19_The_Relationship_Between_Co.pdf">[Extended Abstract]<a> <br>
+      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <b>The Relationship Between Compositional Generalization and Misinformation in Emergent Communication</b> <a href="/assets/extended_abstracts_2023/19_The_Relationship_Between_Co.pdf">[Extended Abstract]</a> <br>
       Heeyoung Lee
   </li>
   <li>
