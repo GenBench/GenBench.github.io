@@ -124,7 +124,7 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
       Danial Kamali, Elham Barezi, Parisa Kordjamshidi
   </li>
   <li>
-      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <b>Benchmarking Foundation Models on Exceptional Cases: Dataset Creation and Validation</b> <br>
+      <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <b>Benchmarking Foundation Models on Exceptional Cases: Dataset Creation and Validation</b> ![\[Extended Abstract\]](/assets/extended_abstracts/14_Benchmarking_Foundation_Mod.pdf) <br>
       Suho Kang, Jungyang Park, Joonseo Ha, SoMin Kim, JinHyeong Kim, Subeen Park, Kyungwoo Song
   </li>
   <li>
