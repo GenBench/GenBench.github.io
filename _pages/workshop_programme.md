@@ -19,7 +19,7 @@ Note that all time slots listed below are in Eastern Standard Time (UTC-5) and t
 ### <span style="color:grey">09:00-09:15 AM —</span> Opening remarks
 ### <span style="color:grey">09:15-10:00 AM —</span> Keynote 1, by Najoung Kim
 
-![Najoung Kim Speaker](/img/speakers/najoung.png){:width="150px"}
+![Najoung Kim Speaker](/img/speakers/najoung.png){:width="200px"}
 
 <b>Title:</b> Semantic generalizations in humans and machines <br />
 
@@ -39,7 +39,7 @@ Ritam Dutt, Sagnik Ray Choudhury, Varun Venkat Rao, Carolyn Rose, V.G. Vinod Vyd
 
 ### <span style="color:grey">11:00-11:45 AM —</span> Keynote 2, Kyle Lo
 
-![Kyle Lo Speaker](/img/speakers/kyle.png){:width="150px"}
+![Kyle Lo Speaker](/img/speakers/kyle.jpg){:width="200px"}
 
 <b>Bio</b>: Kyle Lo is a research scientist at the Allen Institute for AI in Seattle, co-leading the pretraining data team for OLMo. His research focuses on open language models, domain adaptation and specialization, evaluation methods, and human-AI interaction. His award-winning work has appeared in major conferences like ACL, EMNLP and CHI, and been featured articles in Nature, Science, TechCrunch and others. In 2020, he co-led a White House OSTP initiative to publicly release the largest collection of COVID-19 research for computing use. Kyle holds a Statistics degree from the University of Washington and enjoys board games, boba tea, D&D, and his cat Belphegor.
 
