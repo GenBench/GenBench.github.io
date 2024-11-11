@@ -25,6 +25,7 @@ Note that all time slots listed below are in Eastern Standard Time (UTC-5) and t
 
 <b>Abstract:</b> Do machines "understand"? Empirically addressing this question requires an operationalization of what it means to understand. In this talk, I will discuss three tests for machines grounded in formal semantic theories that characterize various aspects of human linguistic understanding, examining the capacities to assign adequate meaning representations to linguistic expressions, to track entities and their states in discourse, and to draw adequate inferences from complex expressions. Critically, these capacities must _generalize_ to unseen expressions. I will discuss the findings from these studies contextualized with respect to human capacities.
 
+<b>Bio:</b> Najoung Kim is an Assistant Professor at the Department of Linguistics and an affiliate faculty in the Department of Computer Science at Boston University. She is also currently a visiting faculty researcher at Google DeepMind. Before joining BU, she was a Faculty Fellow at the Center for Data Science at New York University and received her PhD in Cognitive Science at Johns Hopkins University. She is interested in studying meaning in both human and machine learners, especially ways in which they generalize to novel inputs and ways in which they treat implicit meaning. Her research has been supported by NSF and Google, and has received awards at venues such as ACL and *SEM.
 
 ### <span style="color:grey">10:00-10:30 AM —</span> Oral presentations
 
@@ -36,7 +37,11 @@ Ritam Dutt, Sagnik Ray Choudhury, Varun Venkat Rao, Carolyn Rose, V.G. Vinod Vyd
 
 ### <span style="color:grey">10:30-11:00 AM —</span> Coffee break
 
-### <span style="color:grey">11:00-11:45 AM —</span> Keynote 2
+### <span style="color:grey">11:00-11:45 AM —</span> Keynote 2, Kyle Lo
+
+![Kyle Lo Speaker](/img/speakers/kyle.png){:width="150px"}
+
+<b>Bio</b>: Kyle Lo is a research scientist at the Allen Institute for AI in Seattle, co-leading the pretraining data team for OLMo. His research focuses on open language models, domain adaptation and specialization, evaluation methods, and human-AI interaction. His award-winning work has appeared in major conferences like ACL, EMNLP and CHI, and been featured articles in Nature, Science, TechCrunch and others. In 2020, he co-led a White House OSTP initiative to publicly release the largest collection of COVID-19 research for computing use. Kyle holds a Statistics degree from the University of Washington and enjoys board games, boba tea, D&D, and his cat Belphegor.
 
 ### <span style="color:grey">11:45-12:30 AM —</span> Spotlight presentations
 
