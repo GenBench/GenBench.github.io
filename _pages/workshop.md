@@ -20,7 +20,11 @@ header:
 
 # Venue
 
-The Second GenBench workshop will be held at [EMNLP 2024](https://2024.emnlp.org/) in Miami, Florida on November 16.
+The Second GenBench workshop will be held at [EMNLP 2024](https://2024.emnlp.org/) in Miami, Florida on November 16. The majority of our events take place in the Brickell room.
+
+# Workshop programme
+
+Our programme for the day can be found at the following page: [https://genbench.org/workshop_programme](https://genbench.org/workshop_programme)
 
 # Important dates (Tentative)
 
