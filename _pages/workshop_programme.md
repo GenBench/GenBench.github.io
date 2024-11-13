@@ -37,7 +37,7 @@ Ritam Dutt, Sagnik Ray Choudhury, Varun Venkat Rao, Carolyn Rose, V.G. Vinod Vyd
 
 ### <span style="color:grey">10:30-11:00 AM —</span> Coffee break
 
-### <span style="color:grey">11:00-11:45 AM —</span> Keynote 2, Kyle Lo
+### <span style="color:grey">11:00-11:45 AM —</span> Keynote 2, by Kyle Lo
 
 ![Kyle Lo Speaker](/img/speakers/kyle.jpg){:width="200px"}
 
