@@ -159,6 +159,11 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
 </ul>
 
 ### <span style="color:grey">3:00-3:45 PM —</span> Keynote 3, by Sameer Singh
+
+![Sameer Singh Speaker](/img/speakers/sameer.png){:width="200px"}
+
+<b>Bio:</b>Dr. Sameer Singh is a Professor of Computer Science at the University of California, Irvine (UCI) and a Cofounder/CTO of Spiffy AI. He is working primarily on the evaluation, robustness, and interpretability of machine learning algorithms and large models that reason with text and structure for natural language processing. He has been named the Kavli Fellow by the National Academy of Sciences, received the NSF CAREER award, UCI Distinguished Early Career Faculty award, the Hellman Faculty Fellowship, and was selected as a DARPA Riser. His group has received funding from Allen Institute for AI, Amazon, NSF, DARPA, Adobe Research, Hasso Plattner Institute, NEC, Base 11, and FICO. Sameer has published extensively at machine learning and natural language processing venues and received numerous paper awards, including at KDD 2016, ACL 2018, EMNLP 2019, AKBC 2020, ACL 2020, and NAACL 2022.
+
 ### <span style="color:grey">3:45-4:00 PM —</span> Coffee break
 ### <span style="color:grey">4:00-4:30 PM —</span> Panel
 ### <span style="color:grey">4:30-4:45 PM —</span> Closing remarks and best paper award
