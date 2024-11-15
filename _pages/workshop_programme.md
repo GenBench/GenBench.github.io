@@ -58,7 +58,7 @@ Dojun Park, Jiwoo Lee (presenter), Seohyun Park, Hyeyun Jeong, Youngeun Koo, Soo
 Bastian Bunzeck (presenter), Sina Zarrieß
 
 - <b>[MMLU-SR: A Benchmark for Stress-Testing Reasoning Capability of Large Language Models](https://aclanthology.org/2024.genbench-1.5.pdf)</b><br>
-Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
+Presenter: Hengyi Wang, Authors: Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
 
 ## <span style="color:grey"> 12:30-1:45 PM —</span> Lunch break
 
@@ -110,7 +110,7 @@ Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
   </li>
   <li>
       <span style="color:#ffffff; background-color: #74849c; border-radius:4px; padding:3px">GenBench CBT</span> <a href="https://aclanthology.org/2024.genbench-1.5.pdf"><b>MMLU-SR: A Benchmark for Stress-Testing Reasoning Capability of Large Language Models</b></a> <br>
-      Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
+      Presenter: Hengyi Wang, Authors: Wentian Wang, Sarthak Jain, Paul Kantor, Jacob Feldman, Lazaros Gallos, Hao Wang
   </li>
   <li>
       <span style="color:#ffffff; background-color: #0ccfbb; border-radius:4px; padding:3px">GenBench Non-archival</span> <a href="/assets/extended_abstracts_2023/18_A_Peek_into_Token_Bias_Larg.pdf"><b>A Peek into Token Bias: Large Language Models Are Not Yet Genuine Reasoners</b></a> <br>
