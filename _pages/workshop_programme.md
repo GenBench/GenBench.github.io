@@ -30,10 +30,10 @@ Note that all time slots listed below are in Eastern Standard Time (UTC-5) and t
 ### <span style="color:grey">10:00-10:30 AM —</span> Oral presentations
 
 - <b><span style="color:grey">10:00-10:15 PM — </span> [Is artificial intelligence still intelligence? LLMs generalize to novel adjective-noun pairs, but don’t mimic the full human distribution](https://aclanthology.org/2024.genbench-1.9.pdf) </b><br>
-Hayley Ross, Kathryn Davidson, Najoung Kim
+Hayley Ross (presenter), Kathryn Davidson, Najoung Kim
 
 - <b><span style="color:grey">10:15-10:30 PM — </span> [Investigating the Generalizability of Pretrained Language Models across Multiple Dimensions: A Case Study of NLI and MRC](https://aclanthology.org/2024.genbench-1.11.pdf)</b><br>
-Ritam Dutt, Sagnik Ray Choudhury, Varun Venkat Rao, Carolyn Rose, V.G. Vinod Vydiswaran
+Ritam Dutt, Sagnik Ray Choudhury (presenter), Varun Venkat Rao, Carolyn Rose, V.G. Vinod Vydiswaran
 
 ### <span style="color:grey">10:30-11:00 AM —</span> Coffee break
 
